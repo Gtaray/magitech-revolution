@@ -1,7 +1,8 @@
 ---
 publish: true
+title: Home
 created: 2026-01-27T18:18:11.660-08:00
-modified: 2026-02-04T14:53:25.035-08:00
+modified: 2026-02-04T15:11:36.910-08:00
 cssclasses: ""
 ---
 
@@ -16,7 +17,7 @@ This game will definitely stretch into science fantasy rather than your normal h
 # Latest Updates
 | File                                                        | Modified              |
 | ----------------------------------------------------------- | --------------------- |
-| [[index\|index]]                                         | Feb 4, 2026, 2:53 PM  |
+| [[index\|index]]                                         | Feb 4, 2026, 3:11 PM  |
 | [[7. Duradin/Places/The Hanging Tree\|The Hanging Tree]] | Feb 4, 2026, 12:48 PM |
 | [[7. Duradin/Places/Dauja Mine\|Dauja Mine]]             | Feb 4, 2026, 12:48 PM |
 | [[7. Duradin/Cities/Baern\|Baern]]                       | Feb 4, 2026, 12:45 PM |
