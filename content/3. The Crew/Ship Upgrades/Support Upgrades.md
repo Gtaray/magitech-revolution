@@ -1,0 +1,32 @@
+---
+publish: true
+created: 2026-01-27T18:18:52.440-08:00
+modified: 2026-02-04T15:18:26.245-08:00
+tags:
+  - upgrades
+cssclasses: ""
+---
+
+
+The support system is a collection of advanced utilities and subsystems that give a crew new options for how to gather intelligence and approach their jobs.
+
+### Advanced Scanning Array
+An advanced suite of magical instruments that operates somewhere between the Identify and Legend Lore spells, targeting a large object or area within sight (usually other skyships). Provides useful, if a bit generic, information about the target's current status, any notable exploits it has been involved in, notable individuals related to the target, etc. Using this could require a **[[1. How to Play/Gathering Information\|gather info]]** roll to sift for what information you need. You can spend your crew's **[[1. How to Play/Armor & Special Armor/Special Armor]]** to treat the **gather info** roll as a **6**.
+
+### Advanced Weapon Drones
+Small semi-intelligent constructs integrated into the ship that handle the use of the ship's weaponry, allowing them to be used without an actual crew member doing so. Prone to malfunction. Roll **Support** [[3. The Crew/Ship Systems#System Rating\|system rating]] when firing. You can spend your ship's **[[1. How to Play/Armor & Special Armor/Special Armor]]** to gain **+2 rating** when using ship weapons.
+
+### Environmental Stabilizer
+Provides the ship with a comfortable environment in mundane circumstances (hot or cold weather, strong winds, etc.). For extreme environments, you can increase its power by spending the ship's **[[1. How to Play/Armor & Special Armor/Special Armor]]** to avoid the effects of all hazardous environment for a short time
+
+### Force Barrier
+Creates a very temporary magical force wall around the ship. Spend your ship's **[[1. How to Play/Armor & Special Armor/Special Armor]]** to prevent all forms of physical incursion for a short time. This includes collisions, weapon attacks, and boarding actions. This also blocks magical effects that manifest with a physical component, such as magically conjured fire or lightning. Costs two advancements instead of just one.
+
+### Sending Relay
+An advanced communications array that connects to the wider [[8. Glossary/Sending Network]], allowing you to receive messages on that network. Increases the range of your [[2. The Characters/Rules/Loadout#Standard Items\|Senders]] (personal communication devices) to 10 miles from your airship. Also allows your airship to communicate with multiple airships at once. With a bit of **[[2. The Characters/Actions/Hack\|Hacking]]**, or by spending your ship's **[[1. How to Play/Armor & Special Armor/Special Armor]]**, you can intercept encoded or off-band communications, or **resist** others doing the same to you. Not illegal, but could raise suspicion.
+
+### Sky Cloak
+Renders the ship nearly invisible from below. You can spend your ship's **[[1. How to Play/Armor & Special Armor/Special Armor]]** to **resist** detection. Does not mask the ship's sound, heat, or magic signature. Very illegal.
+
+### Weave Disrupter
+Projects a field around the ship that can disrupt magical effects. You can spend your ship's **[[1. How to Play/Armor & Special Armor/Special Armor]]** to **resist** magical attacks and effects against the ship. Illegal

@@ -1,0 +1,10 @@
+---
+publish: true
+created: 2026-01-27T18:18:52.296-08:00
+modified: 2026-02-04T15:20:33.074-08:00
+tags:
+  - clan
+cssclasses: ""
+---
+
+The current ruling clan of [[7. Duradin/Dwarven Republic of Duradin\|Duradin]]. The current [[8. Glossary/Thane\|thane]] is Hruun Ironroot IV

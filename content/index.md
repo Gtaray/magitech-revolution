@@ -15,12 +15,12 @@ In this homebrewed **Blades in the Dark** campaign, you will play as a crew of d
 This game will definitely stretch into science fantasy rather than your normal heroic fantasy. Depending on how your crew shakes out, any of the following bits of media could give you a good idea for the kind of game to expect: Firefly/Serenity, Cowboy Bebop, Star Wars, Ocean's Eleven, Burn Notice, Stargate SG-1, Final Fantasy 7, The Black Company.
 
 # Latest Updates
-| File                                                        | Modified              |
-| ----------------------------------------------------------- | --------------------- |
-| [[index\|index]]                                         | Feb 4, 2026, 3:11 PM  |
-| [[7. Duradin/Places/The Hanging Tree\|The Hanging Tree]] | Feb 4, 2026, 12:48 PM |
-| [[7. Duradin/Places/Dauja Mine\|Dauja Mine]]             | Feb 4, 2026, 12:48 PM |
-| [[7. Duradin/Cities/Baern\|Baern]]                       | Feb 4, 2026, 12:45 PM |
-| [[7. Duradin/Cities/Underway\|Underway]]                 | Feb 4, 2026, 12:37 PM |
-| [[7. Duradin/Cities/Ulhim\|Ulhim]]                       | Feb 4, 2026, 12:37 PM |
-| [[7. Duradin/Cities/Taj\|Taj]]                           | Feb 4, 2026, 12:37 PM |
+| File                                                | Modified             |
+| --------------------------------------------------- | -------------------- |
+| [[8. Glossary/Thane\|Thane]]                     | Feb 4, 2026, 3:23 PM |
+| [[8. Glossary/Sundrop\|Sundrop]]                 | Feb 4, 2026, 3:23 PM |
+| [[8. Glossary/Spark\|Spark]]                     | Feb 4, 2026, 3:23 PM |
+| [[8. Glossary/Sending Network\|Sending Network]] | Feb 4, 2026, 3:23 PM |
+| [[8. Glossary/Sending Array\|Sending Array]]     | Feb 4, 2026, 3:23 PM |
+| [[8. Glossary/Sandwyrm\|Sandwyrm]]               | Feb 4, 2026, 3:23 PM |
+| [[8. Glossary/Relic Engine\|Relic Engine]]       | Feb 4, 2026, 3:23 PM |

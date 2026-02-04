@@ -1,0 +1,26 @@
+---
+publish: true
+created: 2026-01-27T18:18:52.437-08:00
+modified: 2026-02-04T15:18:22.529-08:00
+tags:
+  - upgrades
+cssclasses: ""
+---
+
+
+Engine systems are what makes your airship move. The exact nature of a ship's mobility systems are different for each ship; balloons, propellers, wings, and other exotic propulsion are all options. Ships at zero engine rating have minimal thrust.
+
+### Afterburners
+Push the engine, granting **+1 [[3. The Crew/Ship Systems#System Rating\|system rating]]** for a check, but potentially damaging the engines in the process.
+
+### Ailerons
+Your ship is outfitted with mechanical control surfaces that allow for more fine-tuned control of the ship at low [[8. Glossary/Airship#Altitude\|altitude]], negating the normal penalties for flying under 500 ft. for a skilled pilot.
+
+### High Efficiency Engines
+Can travel at normal speed without needing to stop and recharge the engine.
+
+### Hover Module
+The ship can sustain a minimal-altitude hover indefinitely, allowing you to [[8. Glossary/Airship#Grounding\|ground]] in nearly any terrain. Functions even with power at its lowest settings, but not when power is completely off.
+
+### Starscraper
+Allows the ship to operate between an altitude of 3 and 10 thousand feet for a span of 2-3 days.

@@ -1,0 +1,83 @@
+---
+publish: true
+created: 2026-01-28T15:40:31.229-08:00
+modified: 2026-02-04T15:18:45.065-08:00
+tags:
+  - rules
+  - job
+cssclasses: ""
+---
+
+
+Your crew spends time planning each job. They stand in the ship’s galley and review maps, look at stolen schematics, whisper plots and schemes while pointing to makeshift figurines placed on haphazardly sketched notes, bicker about the best approach, lament the dangers ahead, and lust after the **[[2. The Characters/Rules/Coin]]** they know is waiting at the end of the job.
+
+But you, the players, don’t have to do the nitty-gritty planning. The characters take care of that, offscreen. All you have to do is choose what type of plan the characters have already made.
+
+There’s no need to sweat all the little details and try to cover every eventuality ahead of time, because the **[[4. The Job/Planning & Engagement#Engagement Roll\|engagement roll]]** ultimately determines how much trouble you’re in when the plan is put in motion. No plan is ever perfect. You can’t account for everything. This system assumes that there’s always some unknown factors and trouble — major or minor — in every operation. Why play out an operation if everything goes smoothly? You just have to make the best of it.
+
+There are six different plans, each with a missing detail you need to provide (see the list below). To plan a job, simply choose the plan and supply the detail. Then the GM will cut to the action as the early moments of the operation unfold.
+### Assault
+Do violence to a target.
+*Detail: The point of attack*
+### Deception
+Lure, trick, or manipulate.
+*Detail: The method of deception*
+### Infiltration
+Trespass unseen.
+*Detail: The point of infiltration*
+### Arcane
+Engage natural, arcane, or divine power.
+*Detail: Arcane power*
+### Social
+Negotiate, bargain, or persuade.
+*Detail: The social connection*
+### Transport
+Carry cargo or people through danger.
+*Detail: The route and mean*
+
+## The Detail
+When you choose a plan, provide the key detail, like the point of attack, social connection, etc. If you don’t know the detail, you can gather information and ask questions in order to discover it.
+
+The main reason for this is to give the GM a jumping-off point for your plan. If you want to infiltrate the Magnar’s mansion, that’s fine, but tell the GM the point of entry, so that they know how to set that first scene. If you’re planning on deceiving someone, tell the GM what the deception is.
+
+The detail is also an opportunity to bring in your contacts. Could your friend the dockmaster give you a good route for smuggling these illicit goods? Perhaps your friend the assassin can give you a hint on a good point of attack for your assault? If necessary, roll a gather information check to establish what you know and move on to the job.
+## Item [[2. The Characters/Rules/Loadout\|Loadouts]]
+After the plan and detail are in place, each player chooses their character’s **[[2. The Characters/Rules/Loadout\|load]]**. This indicates how much stuff they’re carrying on the operation. PCs who choose a **discreet** load don't have choose any items ahead of time. PCs who choose a **conspicuous** load must select which heavy items they're bringing on the job. **[[1. How to Play/Armor & Special Armor/Armor]]** and **[[1. How to Play/Armor & Special Armor/Special Armor]]** are also refreshed — uncheck any armor or special armor boxes that are marked.
+## [[1. How to Play/Threat Roll/Gambits]]
+Each crew comes with a starting **[[1. How to Play/Threat Roll/Gambits\|gambit]]** total (modified by upgrades and special abilities). This is the time you reset the gambits to their maximum value.
+
+# Engagement Roll
+Once the players choose a plan and provide its detail, the GM cuts to the action — describing the scene as the crew engages their first obstacle. How is this established? The way the GM describes the starting situation impacts how complicated the operation turns out to be. Rather than expecting the GM to simply “get it right” each time, we use a dice roll instead. This is the **engagement roll**.
+
+The engagement roll is a **[[1. How to Play/Fortune Roll\|fortune roll]]**, starting with **1d** for sheer luck. Modify the dice pool for major advantages or disadvantages.
+
+### Major Advantages / Disadvantages
+- Is this operation particularly bold or daring? Take +1d. Is this operation overly complex or contingent on many factors? Take -1d.
+- Does the plan’s detail expose a vulnerability of the target or hit them where they’re weakest? Take +1d. Is the target strongest against this approach, or do they have particular defenses or special preparations? Take -1d.
+- Can any of your friends or contacts provide aid or insight for this operation? Take +1d. Are any enemies or rivals interfering in the operation? Take -1d.
+- Are there any other elements that you want to consider? Maybe a lower-Tier target will give you +1d. Maybe a higher-Tier target will give you -1d. Maybe there’s a situation in the region that makes the operation more or less tricky.
+
+The **engagement roll** assumes the PCs are approaching the target as intelligently as they can, given the plan and detail they provided. We don’t need to play out probing maneuvers, special precautions, or other ponderous non-action. The engagement roll covers it all. The PCs are already in action, facing the first obstacle — on top of the train, cutting the hull, busting into the bounty’s hotel room, etc.
+
+Don’t make the engagement roll and then describe the PCs approaching the target. The engagement roll resolves the approach. Cut to the action resulting from that initial approach — to the first serious obstacle in their path.
+
+If the players want a special preparation or clever setup, they can use flashbacks during the job. This takes some getting used to. Players may balk, worried that you’re skipping over important things they want to do. But jumping straight to the action is much more effective once you get used to it. When they see the situation they’re in, their “planning” in flashbacks will be focused and useful, rather than speculations on circumstances that might not even happen.
+
+### Outcomes
+The outcome of the **engagement roll** determines the position for the PCs’ initial actions when we cut to the job in progress. A **1-3** means a [[1. How to Play/Threat Roll/Position#Desperate\|desperate]] position. A **4/5** is a [[1. How to Play/Threat Roll/Position#Risky\|risky]] position. A **6** is a [[1. How to Play/Threat Roll/Position#Controlled\|controlled]] position. A **critical** carries the action past the initial obstacle, deeper into the action of the job.
+
+No matter how outmatched you are, a desperate position is the worst that can result from the plan + detail + engagement process. Planning matters, but doesn’t call for lots of nitpicking. If you’re reckless and take your chances, you can’t get too badly burned. Plus, you might want those desperate rolls to generate more xp for the PCs, to help bootstrap starting characters into [[2. The Characters/Character Advancement\|advancement]].
+
+After the roll, use the details of the target to paint a picture of the PCs’ position. How might the Banshee’s ruthless pirates present a desperate position for thieves? How might a dangerous ex-hitman present a risky threat to assaulting thugs? Use this to show how the PCs’ enemies are dangerous and capable — don’t characterize a bad roll as a failure by the PCs, or they won’t trust the technique in the future. Sure, things start out desperate against the pirates, but you’re just the type of characters who are daring enough to take them on. Let’s get to it.
+
+### How Long Does it Last
+The **engagement roll** determines the starting position for the PCs’ actions. How long does that hold? Does the situation stay desperate? No. Once the initial actions have been resolved, you follow the normal process for establishing position for the rest of the rolls during the job. The engagement roll is a quick shorthand to kick things off and get the action started — it doesn’t have any impact after that.
+
+# Linked Plans
+Sometimes an operation seems to call for a couple of plans linked together. A common scenario is a team that wants a two-pronged approach. “You create a diversion at the bar, and when they send thugs over there, we’ll break into their warehouse.” There are two ways to handle this:
+
+1. The diversion is a setup action that a team member performs as part of the plan. A successful setup action can improve position for teammates (possibly offsetting a bad engagement roll) or give increased effect. An unsuccessful setup might cause trouble for the second part of the plan — an easy consequence is to give the engagement roll -1d. If it makes sense, the team member who performed the setup can drift back into the main operation and join the team later so they don’t have to sit out and wait.
+
+2. The diversion is its own plan, engagement, and operation, whose outcome creates the opportunity for a future plan. Use this option when the first part of the plan is required for the next part to happen at all. For example, you might execute a stealth plan to steal vault codes from a Guilder base, then later use those codes in an infiltration plan to steal a prototype weapon. In this case, you go into [[5. Downtime/Downtime\|downtime]] (and [[4. The Job/Payoff\|payoff]], [[4. The Job/Heat\|heat]], etc.) after the first part of the plan, as normal.
+
+Either approach is fine. It’s usually a question of interest. Is the linked plan interesting enough on its own to play out moment by moment? Is it required for the second plan to make sense? If so, make it a separate operation. If not, just use a setup action.

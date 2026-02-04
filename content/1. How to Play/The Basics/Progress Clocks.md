@@ -1,0 +1,51 @@
+---
+publish: true
+created: 2026-01-27T18:57:35.680-08:00
+modified: 2026-02-04T15:16:58.591-08:00
+tags:
+  - rules
+cssclasses: ""
+---
+
+
+A **progress clock** is a circle divided into segments. Use a progress clock to track ongoing effort against an obstacle or the approaching trouble.
+
+> *Sneaking into a guarded hanger? Make a clock to track the patrolling dock police alert level. When the PCs suffer consequences from partial successes or missed rolls, fill in segments until the alarm is raised.*
+
+Generally, the more complex the problem, the more segments in the progress clock. A basic obstacle is a 4-segment clock. A daunting obstacle is an 8-segment clock. More difficult problems may have as high as 12 segments.
+
+The **effect level** of an action should guide how segments on a clock are ticked. Sometimes circumstances change to radically alter the fiction. Adjust clocks so that the progress measures the effect the PCs are having.
+
+Don’t create clocks with fewer than four segments. If a situation is simple enough for one action to complete, you don’t need a clock. Use the effect level and position to determine how the action resolves.
+
+When you create a clock, make it about the obstacle, not the method. Clocks for an infiltration should be “Exterior Patrols” and “Perimeter Door,” not “Sneak Past the Guards” or “Hack the Perimeter Door.” The patrols and the door are the obstacles—the PCs can overcome them in multiple ways.
+
+Complex threats can be broken into several “layers,” each with its own clock. For example, the Magnar’s compound might have “Perimeter Security,” “Automated Defenses,” and “Vault Security” clocks. The crew would have to cut through all three to breach the Magnar’s personal safe and access the artifact collection within.
+
+Remember, a clock tracks progress. It shows you where you are — it doesn’t get you there.
+## Simple Obstacles
+Not every obstacle requires a clock. Use clocks when a situation is complex and you need to track something over time—otherwise, resolve the result of an action with a single roll.
+
+Examples of progress clocks follow. These are some of many ways to use clocks, but feel free to come up with new ones!
+## Danger Clocks
+The GM can use a clock to represent a progressive danger, like the growing suspicion during a seduction, the proximity of pursuers in a chase, or the alert of a system being hacked or guard patrols being bypassed. In this case, when a complication occurs, the GM ticks one, two, or three segments on the clock, depending on the consequence level. When the clock is full, the danger comes to fruition—the guards hunt down the intruders, activate an alarm, release the killer drones, etc.
+## Racing Clocks
+Create two opposed clocks to represent a chase. The PCs might have a progress clock called “Escape” while the Stormkiln Clan airship crew have a clock called “Caught.” If the PCs finish their clock before the guards fill theirs, they get away. Otherwise, they’re caught and can’t flee. If both clocks complete at the same time, the PCs get to their hideout, but the clan crew are patrolling the airspace around them.
+
+You can also use racing clocks for environmental hazards. Maybe the PCs are trying to complete the “Search” clock to find an ancient map in a ruin before the GM fills the “Beast Awakens” clock and the great sandwyrm awakens.
+## Linked Clocks
+You can make a clock that unlocks another clock once it’s filled. For example, the GM might make a linked clock called “Trapped” after an “Alert” clocks fills up. Once the guards are alerted and working to trap the PCs, any following actions would lead to them becoming trapped.
+
+When you fight a veteran soldier, she might have a clock for her “Defense” and then a linked clock for “Vulnerable.” Once you overcome the “Defense” clock, you can attempt to overcome the “Vulnerable” clock and defeat her. You might affect the “Defense” clock with violence in a gunfight, or lower her defense with deception. As always, the method of action is up to the players and the details of the fiction at hand.
+## Mission Clocks
+The GM can make a clock for a time-sensitive mission, to represent the window of opportunity you have to complete it. If the countdown runs out, the mission is scrubbed or changes—the target escapes, the household wakes up for the day, etc. Such a clock can be ticked as a consequence, or if the PCs take actions that eat up too much time.
+## Tug-of-War Clocks
+You can make a clock that can be filled and emptied by events, to represent a back-and-forth situation. You might make a “Revolution!” clock that indicates when the Cobalt Syndicate laborers riot over their poor treatment and working conditions. Some events will tick the clock up and some will tick it down. If it empties completely, the workers are satisfied with their lot—at least for now. Once it fills, the revolution begins. A tug-of-war clock is also perfect for an ongoing turf war between two factions.
+## Long-Term Project
+Some projects will take a long time. A basic long-term project (like jury-rigging up a new feature for a device) is eight segments. Truly long-term projects (like creating a new engine) can be two, three, or even four clocks, representing all the phases of development, testing, and manufacturing. Add or subtract clocks depending on the details of the situation and complexity of the project.
+
+Long-term projects are the default tool to deal with any unusual player goal, including things that change elements of the mechanics or the setting. For example, by default, trauma is permanent. But maybe a player wants to work on a project where they lock away traumatic memories and rehabilitate themselves by visiting a powerful druid — reducing a character’s trauma but perhaps losing some cherished memories in the process. It will be a long and dangerous task to set up everything needed to begin and work on a project like this, but almost anything can be attempted as long as the group is interested and it seems feasible to everyone.
+## Faction Clocks
+Each faction has a long-term goal. When the PCs have downtime, the GM ticks forward the faction clocks that they’re interested in. In this way, the world around the PCs is dynamic and things happen that they’re not directly connected to, changing the overall situation in the Procyon sector and creating new opportunities and challenges.
+
+The PCs may also directly affect NPC faction clocks, based on the missions and jobs they pull off. Discuss known faction projects that they might aid or interfere with, and also consider how a PC operation might affect the NPC clocks, whether the players intended it or not.

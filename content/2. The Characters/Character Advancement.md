@@ -1,0 +1,37 @@
+---
+publish: true
+created: 2026-01-27T18:18:52.372-08:00
+modified: 2026-02-04T15:18:00.609-08:00
+tags:
+  - rules
+cssclasses: ""
+---
+
+
+Each player keeps track of the experience points (**xp**) that their character earns.
+
+During the game session, mark xp:
+- When you make a **desperate action roll**. You also gain this when you roll for a **group action** that’s desperate.
+- When you invoke one of your character's **[[1. How to Play/Harm, Stress & Trauma/Stress#Invoking Trauma\|Trauma]]** to create a problem or complication. You can do this once per trauma condition per session.
+- When you or the GM invokes one of your character's **[[1. How to Play/Harm, Stress & Trauma/Harm]]** or **[[1. How to Play/Harm, Stress & Trauma/Harm#Surviving Fatal Harm\|Scars]]** to create a problem or complication for them. You can do this once per harm per session
+- When you or the GM invokes one of your character's **[[5. Downtime/Downtime Activities/Indulge Vice]]** to create a problem or complication for them. You can do this once per vice per session.
+- When you **express your beliefs, drives, heritage, or background.** It's up to you how and when these manifest. You can mark up to 2 xp per session this way.
+- When you meet your **playbook-specific xp trigger.** Each playbook describes ways that role tends to approach problems. When you address challenges in this way, regardless if it is successful, mark an xp. You can mark up to 2xp per session this way.
+# Advancement Clock
+All characters have a **6-segment advancement clock**. Whenever you **mark xp**, tick the advancement clock. When the clock fills, it resets back to 0 and the character gains an **advancement**.
+
+You can spend advancements to unlock and upgrades your character in different ways, as shown by the table below:
+
+| **Advancement**                        | **Cost** |
+| -------------------------------------- | -------- |
+| New playbook ability                   | 2        |
+| Veteran playbook ability               | 3        |
+| Action or attribute rating (see below) | 1 - 4    |
+To add an action or attribute dot, you need a number of advancements equal to the new rating. 
+
+This means that going from action rating 1 to 2 costs two advancements, or going from 3 to 4 costs four advancements.
+
+When you go from rating 0 to 1 in an action, that costs advancements equal to your attribute rating, not your action rating. So if you had rating in **[[2. The Characters/Actions/Skulk]]** and **[[2. The Characters/Actions/Scrap]]** (both **[[1. How to Play/Actions & Attributes/Attributes]]** actions), and wanted to take your first rating in **[[2. The Characters/Actions/Scramble]]** (also a **[[1. How to Play/Actions & Attributes/Attributes#Prowess\|Prowess]]** action), that would cost 3 advancements, since it is increasing your **[[1. How to Play/Actions & Attributes/Attributes#Prowess\|Prowess]]** from 2 to 3.
+## Spending Advancements
+In order to spend your accumulated advancements you must take the [[5. Downtime/Downtime Activities/Train]] downtime activity. While you mark xp when it happens, you must spend time and effort between jobs to better yourself.
+

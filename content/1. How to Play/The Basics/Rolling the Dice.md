@@ -1,0 +1,34 @@
+---
+publish: true
+created: 2026-01-27T18:18:52.366-08:00
+modified: 2026-02-04T15:17:00.261-08:00
+tags:
+  - rules
+cssclasses: ""
+---
+
+
+This game uses six-sided dice. You roll several at once and read the single highest result.
+
+- If the highest die is a **6**, it’s a **full success** — things go well. If you roll more than one **6**, it’s a **critical success** — you gain some additional advantage.
+- If the highest die is a **4/5**, that’s a **partial success** — you do what you were trying to do, but there are consequences — trouble, harm, reduced effect, etc.
+- If the highest die is **1-3**, it’s a **bad outcome**. Things go poorly. You likely don’t achieve your goal and you suffer complications, too.
+
+If you ever need to roll but you have zero (or negative) dice, roll two dice and take the single lowest result. You can’t roll a **critical** when you have zero dice.
+
+All the dice systems in the game are expressions of this basic format. When you’re first learning the game, you can always “collapse” back down to a simple roll to judge how things go. This will let you keep the game moving; you can look up the exact rule later when you have time.
+
+Even with sizable dice pools, the most common result will be **4/5** — partial success. You’ll tend to succeed, but at a cost. Life out in the fringe of space is rough and tumble, and the die mechanic will continue to push towards complications. Don’t shy away from these!
+
+While it can be tempting to try at all costs to avoid partial successes, it will make for a much more enjoyable story if you embrace the middle road.
+
+To create a dice pool for a roll, you’ll use an **[[1. How to Play/Actions & Attributes/Actions\|action]]** (like **[[2. The Characters/Actions/Scramble]]** or **[[2. The Characters/Actions/Sway]]**), an **[[1. How to Play/Actions & Attributes/Attributes\|attribute]]** (like **[[1. How to Play/Actions & Attributes/Attributes#Prowess\|Prowess]]**), your ship’s **[[3. The Crew/Crew Quality\|crew quality]]**, or the **wealth** of the region you’re in) and take dice equal to its **rating**. You’ll usually end up with one to four dice.
+
+Even one die is pretty good — a 50% chance of some sort of success. The most common traits you’ll use are your **[[1. How to Play/Actions & Attributes/Actions\|action ratings]]**. A player might roll dice for their **[[2. The Characters/Actions/Scrap]]** action rating when they fight an enemy, for example.
+
+# Kinds of Rolls
+There are five types of rolls that you’ll use most often in the game:
+- **[[1. How to Play/Threat Roll/Threat Roll]]**. When a PC attempts an action that’s dangerous or troublesome, you make an **threat roll** to find out how it goes. Threat rolls and their effects and consequences drive most of the game.
+- **[[1. How to Play/Threat Roll/Push Yourself#Resistance Roll\|Resistance Roll]]** or **Push Roll**. A player can make a **resistance roll** when their character suffers a consequence they don’t like. The roll tells us how much stress their character suffers to reduce the severity of a consequence. When you resist that “Broken Leg” harm, you take some stress and now it’s only a “Sprained Ankle” instead.
+- **[[4. The Job/Planning & Engagement#Engagement Roll\|Engagement Roll]]**. The **engagement roll** is made at the beginning of each job. It helps jump past the planning, and showcases what position the PCs are in when the twists and complications of the job hit them.
+- **[[1. How to Play/Fortune Roll]]**. The GM can make a **fortune roll** to disclaim decision making and leave something up to chance. How loyal is an NPC? How much does the bounty hunter find out? How valuable is the information on those Guild drives?

@@ -1,0 +1,31 @@
+---
+publish: true
+created: 2026-01-28T08:35:54.452-08:00
+modified: 2026-02-04T15:17:07.529-08:00
+tags:
+  - rules
+cssclasses: ""
+---
+
+
+When a PC makes a **[[1. How to Play/Threat Roll/Threat Roll]]**, the GM sets the position for the roll. Position represents how dangerous or troublesome the action might be. There are three positions: **controlled**, **risky**, and **desperate**. To choose a position, the GM gauges the PC's situation and selects the position that most closely matches.
+### Controlled
+You're set up for success. You're exploiting a dominant advantage over the opposition. Doing poorly is not likely to result in immediate problems for you.
+
+When facing a challenge in a controlled situation, the PC shouldn't need to roll the dice most of the time; they just do it.
+### Risky
+You go head-to-head. You're acting under duress. You're taking a chance.
+### Desperate
+You're in serious trouble. You're overreaching your capabilities. You're attempting a dangerous maneuver.
+
+## Assigning Position
+**By default, a threat roll is risky.** You wouldn't be rolling if there was no risk involved. If the situation seems more dangerous, make it desperate. If it seems less dangerous, make it controlled.
+
+Negotiate with your GM over the position you find yourself in and what you might do to improve it. Sometimes the position is risky for reasons that aren’t clear until you ask questions.
+
+> *“It’s risky? It seems like this dockworker isn’t a real threat to me, given that I’m strapped and a dyed-in-the-wool pirate. Shouldn’t this be controlled?”*
+> 
+> *“No, the danger isn’t the dockworker, but that you’re roughing this guy up in public. One of his buddies could step in or maybe someone will find a Cobalt Syndicate enforcer to deal with you. You could make it controlled if you wait until the guy is alone.”*
+
+The GM gets final say over the position of the roll, but should explain and clarify so no one is caught by surprise. Talking about the position will help establish the fictional situation much more clearly and set the tone of the game.
+

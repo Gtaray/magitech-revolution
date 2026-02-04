@@ -1,0 +1,25 @@
+---
+publish: true
+created: 2026-01-28T16:22:31.111-08:00
+modified: 2026-02-04T15:18:43.416-08:00
+tags:
+  - rules
+  - job
+cssclasses: ""
+---
+
+
+After a job, the crew take stock of their income from the operation. A successful job generates **[[2. The Characters/Rules/Coin]]**.
+
+The crew earns **[[2. The Characters/Rules/Coin]]** based on the nature of the operation and/or any valuables they seized:
+
+- **6 coin** for a standard score or**4 coin** for a small score
+- **+2 to +8 coin** for more daring or dangerous scores
+- **+4 (or more)** for a wealthy target or valuable loot/product
+- **+1 to +4** for a bonus objective or special request from a client
+
+You can set the scene and play out a meeting with a client or patron who’s paying the crew if there’s something interesting to explore there. If not, just gloss over it and move onto **[[4. The Job/Heat]]**.
+
+GM, definitely don’t screw around with the players when it comes to the payoff. Don’t say that the client lied and there’s no reward. Or that the meeting for the payment is actually a trap. These types of things are staples of crime fiction, but the PCs have enough problems coming at them from every direction already. When it comes to getting paid, just give them what they earned.
+
+The job they pulled also affects the crew’s [[6. Factions/Faction Status\|relationship]] with other [[6. Factions/All Factions\|factions]].
