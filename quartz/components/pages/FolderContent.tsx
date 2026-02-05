@@ -45,8 +45,6 @@ export default ((opts?: Partial<FolderContentOptions>) => {
           }
 
           if (node.isFolder && options.showSubfolders) {
-            node.displayName = node.displayName.replace(/^\d?\.?\s*/, "")
-
             // folders that dont have data need synthetic files
             const getMostRecentDates = (): QuartzPluginData["dates"] => {
               let maybeDates: QuartzPluginData["dates"] | undefined = undefined
@@ -94,8 +92,8 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     const classes = cssClasses.join(" ")
     const listProps = {
       ...props,
-      allFiles: allPagesInFolder,
       sort: options.sort,
+      allFiles: allPagesInFolder,
     }
 
     const content = (
