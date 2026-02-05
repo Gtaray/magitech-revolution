@@ -1,0 +1,23 @@
+---
+publish: true
+created: 2026-01-27T18:18:52.436-08:00
+modified: 2026-02-04T15:18:20.906-08:00
+tags:
+  - upgrades
+cssclasses: ""
+---
+
+
+Common gear and equipment that's stowed on your airship and free for the crew to use.
+
+### Gliders
+A full compliment of gliders for the crew, allowing for the crew to take short flights separate from the airship. Gliders have enough power for about 30 minutes of operation, which is usually enough to travel a few miles and back.
+
+### Magitech Exosuit
+A full on exosuit designed for a specific purpose. It can operate independently for 6-8 hours before needing to recharge. Requires an exosuit bay to effectively store, deploy, repair, and re-arm. Ranges from legal, to illegal without licensure, to super illegal, depending on the exosuit's intended purpose. *What was the suits original purpose? What modifications have you made to it?*
+
+### Pet
+Lovable rapscallion or loyal guardian, these critters are usually more trouble than they're worth. Where did you get it?
+
+### Survival Gear
+Camping gear, climbing equipment, cold and hot weather gear. Everything a crew needs to survive in an inhospitable, but not uninhabitable, region.
