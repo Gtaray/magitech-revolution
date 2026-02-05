@@ -39,9 +39,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     const allPagesInFolder: QuartzPluginData[] =
       folder.children
         .map((node) => {
-          // regular file, proceed
-          node.displayName = node.displayName.replace(/^\d?\.?\s*/, "")
-          
+          // regular file, proceed          
           if (node.data) {
             return node.data
           }
