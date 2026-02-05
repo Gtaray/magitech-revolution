@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.406-08:00
-modified: 2026-02-04T18:10:09.360-08:00
+modified: 2026-02-05T08:47:19.421-08:00
 tags:
   - playbook
 cssclasses: ""
@@ -71,7 +71,7 @@ When you **[[1. How to Play/3. Threat Roll/2. Push Yourself\|push yourself]]** t
 *Normally it takes two separate pushes to achieve the same effect. This can be used on any roll.*
 
 ### Adrenaline Junkie
-When you make a [[1. How to Play/3. Threat Roll/1. Threat Roll\|threat roll]] facing 3+ **threats**, mark **1 [[2. The Characters/2. Character Advancement\|xp]]**. You can spend your **[[1. How to Play/5. Armor & Special Armor/Special Armor]]** to reroll all of your dice that did not roll a **6**.
+When you make a [[1. How to Play/3. Threat Roll/1. Threat Roll\|threat roll]] facing 3+ **threats**, mark **1 [[2. The Characters/5. Character Advancement\|xp]]**. You can spend your **[[1. How to Play/5. Armor & Special Armor/Special Armor]]** to reroll all of your dice that did not roll a **6**.
 
 *The first ability is an incentive to really give in to your crazy ideas, even if they are likely to blow up in your face. The second ability helps avoid some of those truly terrible rolls.*
 
