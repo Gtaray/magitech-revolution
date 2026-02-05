@@ -1,5 +1,22 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { Options } from "./quartz/components/Explorer"
+
+
+export const mapFn: Options["mapFn"] = (node) => {
+  node.displayName = node.displayName.replace("^\d?\.?\s*", "")
+  console.log(node.displayName)
+  return node
+}
+
+
+export const sortFn: Options["sortFn"] = (a, b) => {
+  return a.displayName.localeCompare(b.displayName, undefined, {
+    numeric: true,
+    sensitivity: "base",
+  })
+}
+
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -40,16 +57,8 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       order: ["sort", "map"],
-      mapFn: (node) => {
-        node.displayName = node.displayName.replace("^\d?\.?\s*", "")
-        return node
-      },
-      sortFn: (a, b) => {
-        return a.displayName.localeCompare(b.displayName, undefined, {
-          numeric: true,
-          sensitivity: "base",
-        })
-      }
+      mapFn: mapFn,
+      sortFn: sortFn
     }),
   ],
   right: [
@@ -76,16 +85,8 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer({
       order: ["sort", "map"],
-      mapFn: (node) => {
-        node.displayName = node.displayName.replace("^\d?\.?\s*", "")
-        return node
-      },
-      sortFn: (a, b) => {
-        return a.displayName.localeCompare(b.displayName, undefined, {
-          numeric: true,
-          sensitivity: "base",
-        })
-      }
+      mapFn: mapFn,
+      sortFn: sortFn  
     }),
   ],
   right: [],
