@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.342-08:00
-modified: 2026-02-04T15:22:06.228-08:00
+modified: 2026-02-05T14:25:25.956-08:00
 tags:
   - location
   - territory
@@ -22,6 +22,8 @@ Ancient trees, gnarled and weathered by the centuries, stretch to the sky of thi
 
 ## Scene
 A lone trapper stalks the darkened pre-dawn woods and stumbles onto a buried ruin. A circle of pine trees, each with intricate runes carved on into their bark, contains a dark power. Arborists care for the woods at the edge of their village. Two groups strike a deal in the shaded woods, far from prying eyes.
+
+![[Images/Egar Fotthor.webp]]
 
 ## NPCs
 #### Utel Jadeheart
