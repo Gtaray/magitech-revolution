@@ -15,12 +15,12 @@ In this homebrewed **Blades in the Dark** campaign, you will play as a crew of d
 This game will definitely stretch into science fantasy rather than your normal heroic fantasy. Depending on how your crew shakes out, any of the following bits of media could give you a good idea for the kind of game to expect: Firefly/Serenity, Cowboy Bebop, Star Wars, Ocean's Eleven, Burn Notice, Stargate SG-1, Final Fantasy 7, The Black Company.
 
 # Latest Updates
-| File                                                                             | Modified             |
-| -------------------------------------------------------------------------------- | -------------------- |
-| [[7. Duradin/1. Dwarven Republic of Duradin\|1. Dwarven Republic of Duradin]] | Feb 4, 2026, 7:30 PM |
-| [[6. Factions/3. Faction Status\|3. Faction Status]]                          | Feb 4, 2026, 7:30 PM |
-| [[6. Factions/2. Faction Tier\|2. Faction Tier]]                              | Feb 4, 2026, 7:30 PM |
-| [[6. Factions/1. All Factions\|1. All Factions]]                              | Feb 4, 2026, 7:30 PM |
-| [[5. Downtime/4. Downtime Activities\|4. Downtime Activities]]                | Feb 4, 2026, 7:30 PM |
-| [[5. Downtime/3. Entanglements\|3. Entanglements]]                            | Feb 4, 2026, 7:30 PM |
-| [[5. Downtime/2. Upkeep\|2. Upkeep]]                                          | Feb 4, 2026, 7:30 PM |
+| File                                                                 | Modified             |
+| -------------------------------------------------------------------- | -------------------- |
+| [[2. The Characters/4. Rules/Loadout\|Loadout]]                   | Feb 4, 2026, 6:48 PM |
+| [[6. Factions/7. Other Dwarf Clans/Ironroot Clan\|Ironroot Clan]] | Feb 4, 2026, 6:11 PM |
+| [[6. Factions/6. Criminal/The Ivory Throne\|The Ivory Throne]]    | Feb 4, 2026, 6:11 PM |
+| [[6. Factions/6. Criminal/Heartfire Clan\|Heartfire Clan]]        | Feb 4, 2026, 6:11 PM |
+| [[6. Factions/6. Criminal/Draxler's Raiders\|Draxler's Raiders]]  | Feb 4, 2026, 6:11 PM |
+| [[6. Factions/5, Naturalist/Hawklords\|Hawklords]]                | Feb 4, 2026, 6:11 PM |
+| [[6. Factions/5, Naturalist/Hailstone Clan\|Hailstone Clan]]      | Feb 4, 2026, 6:11 PM |
