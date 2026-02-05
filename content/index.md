@@ -17,8 +17,8 @@ This game will definitely stretch into science fantasy rather than your normal h
 # Latest Updates
 | File                                                                             | Modified              |
 | -------------------------------------------------------------------------------- | --------------------- |
-| [[7. Duradin/1. Dwarven Republic of Duradin\|1. Dwarven Republic of Duradin]] | Feb 5, 2026, 10:37 AM |
-| [[Excalidraw/Duradin Map.excalidraw\|Duradin Map.excalidraw]]                 | Feb 5, 2026, 10:35 AM |
+| [[7. Duradin/1. Dwarven Republic of Duradin\|1. Dwarven Republic of Duradin]] | Feb 5, 2026, 10:40 AM |
+| [[Excalidraw/Duradin Map.excalidraw.md\|Duradin Map.excalidraw.md]]           | Feb 5, 2026, 10:35 AM |
 | [[2. The Characters/5. Character Advancement\|5. Character Advancement]]      | Feb 5, 2026, 8:55 AM  |
 | [[5. Downtime/5. Downtime Activities/Train\|Train]]                           | Feb 5, 2026, 8:47 AM  |
 | [[5. Downtime/5. Downtime Activities/Indulge Vice\|Indulge Vice]]             | Feb 5, 2026, 8:47 AM  |
