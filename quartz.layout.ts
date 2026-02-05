@@ -83,9 +83,9 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      order: ["sort", "map"],
-      mapFn: mapFn,
-      sortFn: sortFn  
+      // order: ["sort", "map"],
+      // mapFn: mapFn,
+      // sortFn: sortFn  
     }),
   ],
   right: [],
