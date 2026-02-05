@@ -74,7 +74,19 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      order: ["sort", "map"],
+      mapFn: (node) => {
+        node.displayName = node.displayName.replace("^\d?\.?\s*", "")
+        return node
+      },
+      sortFn: (a, b) => {
+        return a.displayName.localeCompare(b.displayName, undefined, {
+          numeric: true,
+          sensitivity: "base",
+        })
+      }
+    }),
   ],
   right: [],
 }
