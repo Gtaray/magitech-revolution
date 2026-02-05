@@ -40,11 +40,11 @@ export default ((opts?: Partial<FolderContentOptions>) => {
       folder.children
         .map((node) => {
           // regular file, proceed
+          node.displayName = node.displayName.replace(/^\d?\.?\s*/, "")
+          
           if (node.data) {
             return node.data
           }
-
-          node.displayName = node.displayName.replace(/^\d?\.?\s*/, "")
 
           if (node.isFolder && options.showSubfolders) {
             // folders that dont have data need synthetic files
