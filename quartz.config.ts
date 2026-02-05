@@ -87,6 +87,9 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
+      Plugin.FolderPage({
+        sort: sortData
+      }),
       Plugin.TagPage({
         sort: sortData
       }),
