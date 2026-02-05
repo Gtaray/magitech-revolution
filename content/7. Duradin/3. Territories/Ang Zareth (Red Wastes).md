@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.339-08:00
-modified: 2026-02-04T15:22:02.331-08:00
+modified: 2026-02-05T12:16:15.657-08:00
 tags:
   - location
   - territory
@@ -22,6 +22,8 @@ A desert wasteland with little life and and less water. Only the hardiest, deadl
 
 ## Scene
 Heavily armed guards patrolling the walls around a [[8. Glossary/Lightning Rail]] yard. Research crews packing for their next expedition across from treasure hunters doing the same. A smuggler discussing arrangements with a client in a dingy dive while the bartender makes them drinks.
+
+![[Images/Ang Zareth.webp]]
 
 ## Notable NPCs
 #### "Razor"

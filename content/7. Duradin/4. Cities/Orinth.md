@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.227-08:00
-modified: 2026-02-04T15:21:33.997-08:00
+modified: 2026-02-05T11:59:51.493-08:00
 tags:
   - location
   - city
@@ -15,4 +15,4 @@ The city avoids the heat of the desert by being carved into the faces of canyon 
 
 Orith is a major distribution hub for the hundreds of small towns deep underground. It is managed by the the [[6. Factions/7. Other Dwarf Clans/Runemantle Clan]], who also own and operate the [[8. Glossary/Lightning Rail]].
 
-https://i.redd.it/kp6rukc80q871.jpg
+![[Images/Orinth.webp]]

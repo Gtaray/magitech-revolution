@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.351-08:00
-modified: 2026-02-04T18:11:41.533-08:00
+modified: 2026-02-05T12:44:51.900-08:00
 tags:
   - location
   - territory
@@ -22,6 +22,8 @@ Known as "The Green" throughout [[7. Duradin/1. Dwarven Republic of Duradin\|Dur
 
 ## Scene
 A river running through a rocky woodland gulch, dammed up and powering waterwheels. A [[8. Glossary/Lightning Rail]] rail checkpoint guarded by well-armed soldiers. Smooth sandstone walls surrounding a massive research facility. Soot-faced miners drinking by their bulky exosuits. Chiming music floating out from the pristine shops of the visitor settlements.
+
+![[Images/Omer Tobul.webp]]
 
 ## NPCs
 #### Rukh and Rin

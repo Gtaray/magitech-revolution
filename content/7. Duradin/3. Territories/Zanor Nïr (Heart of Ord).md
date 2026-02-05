@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.353-08:00
-modified: 2026-02-04T15:22:21.284-08:00
+modified: 2026-02-05T12:22:44.993-08:00
 tags:
   - location
   - territory
@@ -22,6 +22,8 @@ Zanor Nïr is home to the capital of Duradin, the ancient city of [[7. Duradin/4
 
 ## Scene
 A bustling city street carved into the face of a mountain with airships slowly moving in and out of the skydock. Airships streaming between towering spires. The beat of street musicians playing on the corner of a dark canyon-city. Socialites attending a gala at the Magnar's mansion.
+
+![[Images/Zanor Nïr.webp]]
 
 ## Notable NPCs
 #### Magnar Obok Anvilhelm

@@ -15,12 +15,12 @@ In this homebrewed **Blades in the Dark** campaign, you will play as a crew of d
 This game will definitely stretch into science fantasy rather than your normal heroic fantasy. Depending on how your crew shakes out, any of the following bits of media could give you a good idea for the kind of game to expect: Firefly/Serenity, Cowboy Bebop, Star Wars, Ocean's Eleven, Burn Notice, Stargate SG-1, Final Fantasy 7, The Black Company.
 
 # Latest Updates
-| File                                                                             | Modified              |
-| -------------------------------------------------------------------------------- | --------------------- |
-| [[7. Duradin/1. Dwarven Republic of Duradin\|1. Dwarven Republic of Duradin]] | Feb 5, 2026, 10:45 AM |
-| [[2. The Characters/5. Character Advancement\|5. Character Advancement]]      | Feb 5, 2026, 8:55 AM  |
-| [[5. Downtime/5. Downtime Activities/Train\|Train]]                           | Feb 5, 2026, 8:47 AM  |
-| [[5. Downtime/5. Downtime Activities/Indulge Vice\|Indulge Vice]]             | Feb 5, 2026, 8:47 AM  |
-| [[4. The Job/2. Planning & Engagement\|2. Planning & Engagement]]             | Feb 5, 2026, 8:47 AM  |
-| [[2. The Characters/2. Playbooks/Pilot\|Pilot]]                               | Feb 5, 2026, 8:47 AM  |
-| [[1. How to Play/3. Threat Roll/1. Threat Roll\|1. Threat Roll]]              | Feb 5, 2026, 8:47 AM  |
+| File                                                                                      | Modified              |
+| ----------------------------------------------------------------------------------------- | --------------------- |
+| [[7. Duradin/1. Dwarven Republic of Duradin\|1. Dwarven Republic of Duradin]]          | Feb 5, 2026, 2:21 PM  |
+| [[7. Duradin/3. Territories/Omer Tobul (Verdant Valley)\|Omer Tobul (Verdant Valley)]] | Feb 5, 2026, 12:44 PM |
+| [[7. Duradin/4. Cities/Duldruth\|Duldruth]]                                            | Feb 5, 2026, 12:37 PM |
+| [[7. Duradin/3. Territories/Zanor Nïr (Heart of Ord)\|Zanor Nïr (Heart of Ord)]]       | Feb 5, 2026, 12:22 PM |
+| [[7. Duradin/3. Territories/Ang Zareth (Red Wastes)\|Ang Zareth (Red Wastes)]]         | Feb 5, 2026, 12:16 PM |
+| [[7. Duradin/4. Cities/Dur Moro\|Dur Moro]]                                            | Feb 5, 2026, 12:10 PM |
+| [[7. Duradin/4. Cities/Dur Olo\|Dur Olo]]                                              | Feb 5, 2026, 12:08 PM |
