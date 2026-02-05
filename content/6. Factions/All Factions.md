@@ -1,108 +1,57 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.231-08:00
-modified: 2026-02-04T15:20:39.043-08:00
+modified: 2026-02-04T15:55:40.461-08:00
 tags:
   - faction
 cssclasses: ""
 ---
 
-
 Below is a list of the major and minor factions, organizations, clans, syndicates, and orders. 
 
-```base
-filters:
-  and:
-    - file.hasTag("faction")
-properties:
-  file.name:
-    displayName: Name
-  tier:
-    displayName: Tier
-  summary:
-    displayName: Summary
-views:
-  - type: table
-    name: Industrialists
-    filters:
-      and:
-        - file.folder.contains("Industrialists")
-    order:
-      - file.name
-      - tier
-      - summary
-    sort:
-      - property: tier
-        direction: DESC
-      - property: name
-        direction: ASC
-    imageFit: ""
-    cardSize: 420
-    columnSize:
-      file.name: 217
+# Industrialists (Iron Dwarves)
+| Faction                                                                  | Tier | Summary                                                               |
+| ------------------------------------------------------------------------ | ---- | --------------------------------------------------------------------- |
+| [[6. Factions/Industrialists/Guild of Engineers\|Guild of Engineers]] | 5    | Guild that controls all magitech creation                             |
+| [[6. Factions/Industrialists/21st Squadron\|21st Squadron]]           | 4    | Largest squadron of airships. Loyal to each other, none else          |
+| [[6. Factions/Industrialists/Dragonshield Clan\|Dragonshield Clan]]   | 4    | Spies and special agents seeking the thane's downfall                 |
+| [[6. Factions/Industrialists/Redhold Clan\|Redhold Clan]]             | 4    | Minters and bankers with incredible sums of wealth                    |
+| [[6. Factions/Industrialists/Amberspire Clan\|Amberspire Clan]]       | 3    | Alchemists and engineers pushing magitech as far as it can go         |
+| [[6. Factions/Industrialists/Bloodhammer Clan\|Bloodhammer Clan]]     | 3    | Runs Torhmek, though quite hands-off about it. Warrior culture        |
+| [[6. Factions/Industrialists/Deeprock\|Deeprock]]                     | 3    | Mercenary company that controls a maximum security prison             |
+| [[6. Factions/Industrialists/Sender's Guild\|Sender's Guild]]         | 3    | Maintains the sending network throughout Duradin                      |
+| [[6. Factions/Industrialists/Broadsheet Guild\|Broadsheet Guild]]     | 2    | News organization that publishes stories country-wide                 |
+| [[6. Factions/Industrialists/Stormkiln Clan\|Stormkiln Clan]]         | 2    | Capture's fire and lightning from storms, and inventors of [[Sparks]] |
+| [[6. Factions/Industrialists/The Concordiat\|The Concordiat]]         | 1    | Young nobles searching for a primordial power                         |
 
-```
 
-```base
-filters:
-  and:
-    - file.hasTag("faction")
-properties:
-  file.name:
-    displayName: Name
-  tier:
-    displayName: Tier
-  summary:
-    displayName: Summary
-views:
-  - type: table
-    name: Naturalists
-    filters:
-      and:
-        - file.folder.contains("Naturalist")
-    order:
-      - file.name
-      - tier
-      - summary
-    sort:
-      - property: tier
-        direction: DESC
-      - property: name
-        direction: ASC
-    imageFit: ""
-    cardSize: 420
-    columnSize:
-      file.name: 217
+# Naturalists (Earthen Dwarves)
+| Faction                                                          | Tier | Summary                                                             |
+| ---------------------------------------------------------------- | ---- | ------------------------------------------------------------------- |
+| [[6. Factions/Naturalist/Earthen Enclave\|Earthen Enclave]]   | 4    | Druidic collective looking for a way to keep their traditions alive |
+| [[6. Factions/Naturalist/Brightstone Clan\|Brightstone Clan]] | 3    | Mithril miners looking for a way to sell their goods                |
+| [[6. Factions/Naturalist/Deepforge Clan\|Deepforge Clan]]     | 3    | Dwarves who gave up their biology to become elementals              |
+| [[6. Factions/Naturalist/Hailstone Clan\|Hailstone Clan]]     | 3    | Playing politics for all of Oghrann and trying to keep the peace    |
+| [[6. Factions/Naturalist/Beasthearts\|Beasthearts]]           | 2    | Druids that make companions out of monsters                         |
+| [[6. Factions/Naturalist/Circle of Stars\|Circle of Stars]]   | 2    | Soothsayers and fortune tellers that read portents in the starts    |
+| [[6. Factions/Naturalist/Hawklords\|Hawklords]]               | 2    | Druids that ride awakened giant eagles and hawks into battle        |
+| [[6. Factions/Naturalist/Acolytes of Many\|Acolytes of Many]] | 1    | Hive-mind druids who can see and act through each other             |
+| [[6. Factions/Naturalist/Circle of Smoke\|Circle of Smoke]]   | 1    | Forest-tender druids. Maybe a cult bent on flooding the world       |
+| [[6. Factions/Naturalist/Earthquake\|Earthquake]]             | 1    | Eco-terrorists bent on stopping magitech to protect the planet      |
 
-```
 
-```base
-filters:
-  and:
-    - file.hasTag("faction")
-properties:
-  file.name:
-    displayName: Name
-  tier:
-    displayName: Tier
-  summary:
-    displayName: Summary
-views:
-  - type: table
-    name: Criminals
-    filters:
-      and:
-        - file.folder.contains("Criminal")
-    order:
-      - file.name
-      - tier
-      - summary
-    sort:
-      - property: tier
-        direction: DESC
-    imageFit: ""
-    cardSize: 420
-    columnSize:
-      file.name: 217
-
-```
+# "Criminal" Organizations
+| Faction                                                          | Tier | Summary                                                          |
+| ---------------------------------------------------------------- | ---- | ---------------------------------------------------------------- |
+| [[6. Factions/Criminal/Green Dragons\|Green Dragons]]         | 4    | Bounty hunters and assassins                                     |
+| [[6. Factions/Criminal/Heartfire Clan\|Heartfire Clan]]       | 4    | Clan loyal to the previous thane seeking to take back the throne |
+| [[6. Factions/Criminal/Vorex\|Vorex]]                         | 4    | Lone operative intelligence broker                               |
+| [[6. Factions/Criminal/Ashen Knives\|Ashen Knives]]           | 3    | Drug dealers, gamblers, and gangsters                            |
+| [[6. Factions/Criminal/Draxler's Raiders\|Draxler's Raiders]] | 3    | Bandits out to raid airships and ransom cargo and crew.          |
+| [[6. Factions/Criminal/The Maelstrom\|The Maelstrom]]         | 3    | Raiders of cargo lanes who fence goods to the Ashen Knives.      |
+| [[6. Factions/Criminal/Echo Wave Riders\|Echo Wave Riders]]   | 2    | Smugglers and racers                                             |
+| [[6. Factions/Criminal/The Iron Sights\|The Iron Sights]]     | 2    | Arms dealers looking to expand                                   |
+| [[6. Factions/Criminal/The Ivory Throne\|The Ivory Throne]]   | 2    | Noble orc tribe that wheels and deals                            |
+| [[6. Factions/Criminal/Cobalt Syndicate\|Cobalt Syndicate]]   | 1    | Workers union turned gang                                        |
+| [[6. Factions/Criminal/Spark of Life\|Spark of Life]]         | 1    | Constructs seeking a better future for their kind                |
+| [[6. Factions/Criminal/The Voice\|The Voice]]                 | 1    | Disenfranchised punks with an anti-war message                   |

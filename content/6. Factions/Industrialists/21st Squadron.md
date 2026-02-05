@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.255-08:00
-modified: 2026-02-04T15:19:48.770-08:00
+modified: 2026-02-04T15:49:53.898-08:00
 tags:
   - faction
   - industrialist

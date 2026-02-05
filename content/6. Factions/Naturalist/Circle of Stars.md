@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.284-08:00
-modified: 2026-02-04T15:20:16.975-08:00
+modified: 2026-02-04T15:51:54.935-08:00
 tags:
   - faction
   - naturalist

@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 2026-01-27T18:36:11.043-08:00
-modified: 2026-02-04T15:17:01.777-08:00
+modified: 2026-02-04T16:41:51.435-08:00
 tags:
   - rules
 cssclasses: ""
 ---
-
 
 This game has a play structure of three parts. By default, the game is in **free play** — characters talk to each other, they go places, they do things, they make rolls as needed.
 

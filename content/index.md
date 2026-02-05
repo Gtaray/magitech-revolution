@@ -15,12 +15,12 @@ In this homebrewed **Blades in the Dark** campaign, you will play as a crew of d
 This game will definitely stretch into science fantasy rather than your normal heroic fantasy. Depending on how your crew shakes out, any of the following bits of media could give you a good idea for the kind of game to expect: Firefly/Serenity, Cowboy Bebop, Star Wars, Ocean's Eleven, Burn Notice, Stargate SG-1, Final Fantasy 7, The Black Company.
 
 # Latest Updates
-| File                                                | Modified             |
-| --------------------------------------------------- | -------------------- |
-| [[8. Glossary/Thane\|Thane]]                     | Feb 4, 2026, 3:23 PM |
-| [[8. Glossary/Sundrop\|Sundrop]]                 | Feb 4, 2026, 3:23 PM |
-| [[8. Glossary/Spark\|Spark]]                     | Feb 4, 2026, 3:23 PM |
-| [[8. Glossary/Sending Network\|Sending Network]] | Feb 4, 2026, 3:23 PM |
-| [[8. Glossary/Sending Array\|Sending Array]]     | Feb 4, 2026, 3:23 PM |
-| [[8. Glossary/Sandwyrm\|Sandwyrm]]               | Feb 4, 2026, 3:23 PM |
-| [[8. Glossary/Relic Engine\|Relic Engine]]       | Feb 4, 2026, 3:23 PM |
+| File                                                                     | Modified             |
+| ------------------------------------------------------------------------ | -------------------- |
+| [[1. How to Play/Harm, Stress & Trauma/Consequences\|Consequences]]   | Feb 4, 2026, 4:47 PM |
+| [[1. How to Play/Armor & Special Armor/Special Armor\|Special Armor]] | Feb 4, 2026, 4:47 PM |
+| [[1. How to Play/Armor & Special Armor/Armor\|Armor]]                 | Feb 4, 2026, 4:47 PM |
+| [[1. How to Play/Actions & Attributes/Actions\|Actions]]              | Feb 4, 2026, 4:47 PM |
+| [[1. How to Play/Actions & Attributes/Attributes\|Attributes]]        | Feb 4, 2026, 4:47 PM |
+| [[1. How to Play/The Basics/The Game Structure\|The Game Structure]]  | Feb 4, 2026, 4:41 PM |
+| [[6. Factions/Criminal/The Ivory Throne\|The Ivory Throne]]           | Feb 4, 2026, 3:56 PM |

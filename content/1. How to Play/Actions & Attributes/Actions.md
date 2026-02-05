@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.361-08:00
-modified: 2026-02-04T15:16:42.245-08:00
+modified: 2026-02-04T16:47:41.728-08:00
 tags:
   - rules
 cssclasses: ""
 ---
-
 
 There are 12 actions in the game that PCs use to overcome obstacles: [[2. The Characters/Actions/Attune]], [[2. The Characters/Actions/Command]], [[2. The Characters/Actions/Consort]], [[2. The Characters/Actions/Doctor]], [[2. The Characters/Actions/Hack]], [[2. The Characters/Actions/Helm]], [[2. The Characters/Actions/Rig]], [[2. The Characters/Actions/Scramble]], [[2. The Characters/Actions/Scrap]], [[2. The Characters/Actions/Skulk]], [[2. The Characters/Actions/Study]], and [[2. The Characters/Actions/Sway]].
 

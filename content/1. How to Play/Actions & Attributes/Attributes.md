@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 2026-01-28T08:02:53.254-08:00
-modified: 2026-02-04T15:16:45.702-08:00
+modified: 2026-02-04T16:47:38.141-08:00
 tags:
   - rules
 cssclasses: ""
 ---
-
 
 There are three attributes in the game system that the player characters use to resist bad consequences: **Insight**, **Prowess**, and **Resolve**. Each attribute has a rating (from zero to four) that tells you how many dice to roll when using that attribute.
 

@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 2026-01-28T08:37:42.362-08:00
-modified: 2026-02-04T15:16:51.684-08:00
+modified: 2026-02-04T16:47:52.246-08:00
 tags:
   - rules
 cssclasses: ""
 ---
-
 
 PCs affect the world around them. When a PC suffers an effect from an **threat**, it’s called a **consequence**. Consequences are the companion to effects.
 

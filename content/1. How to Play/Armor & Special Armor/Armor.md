@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 2026-01-28T10:16:21.091-08:00
-modified: 2026-02-04T15:16:48.174-08:00
+modified: 2026-02-04T16:47:42.663-08:00
 tags:
   - rules
 cssclasses: ""
 ---
-
 
 If you have a type of **armor** that applies to the situation, you can mark an armor box to reduce or avoid a consequence, instead of rolling to resist.
 
