@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.375-08:00
-modified: 2026-02-04T15:17:57.211-08:00
+modified: 2026-02-04T18:48:37.956-08:00
 tags:
   - rules
 cssclasses: ""
@@ -29,9 +29,9 @@ If you mark a seventh box, your character becomes encumbered, and can no longer 
 # Standard Items
 This is common gear that anyone aboard an airship could have access to. For example, though any character may have a pistol of their own they prefer, there are places to grab spare armaments whenever you’re on board. If you’re on your ship for any length of time, you can replace any standard items that broke or malfunctioned during a mission, and reset your load and equipment.
 
-- **Armor (2 Load).** Really unsubtle, full body stuff. Stops a few bolts. Will shrug off a knife without noticing.
-- **Firearm (1 Load).** Slings lead projectiles. Powered by magitech. Accurate mostly at close ranges. Comes in a variety of shapes. *How do you customize yours?*
-- **2nd Firearm (1 load).** Same as above, but another one.
+- **[[1. How to Play/5. Armor & Special Armor/Armor]] (2 Load).** Really unsubtle, full body stuff. Stops a few bolts. Will shrug off a knife without noticing.
+- **[[8. Glossary/Firearms\|Firearms]] (1 Load).** Slings lead projectiles. Powered by magitech. Accurate mostly at close ranges. Comes in a variety of shapes. *How do you customize yours?*
+- **2nd [[8. Glossary/Firearms\|Firearms]] (1 load).** Same as above, but another one.
 - **Sender (0 Load).** A small magitech communication device. Has a few channels. Can be synchronized to a network of devices. Not encrypted. Maximum range of 1 mile.
 - **Detonator (1 Load).** A spell effect loaded into an easily-throwable charge. Fits in the palm of your hand and can be thrown a decent distance. Simple spell detonators are fine to have, but anything that mimics 3rd-level and above is illegal. You shouldn't have this. No, really.
 - **Hexcracking Tools (1 Load).** Scanners, detectors, modulators, identifiers, amplifiers, nullifiers, and pacifiers. What every growing hacker needs.
@@ -41,10 +41,10 @@ This is common gear that anyone aboard an airship could have access to. For exam
 - **Melee Weapon (1 Load).** Sharp. Blunt. Pointy. Stabby. Slicy. All different sizes for all different purposes. Which is your favorite?
 - **Repair Tools (1 Load).** Things you need to fix magitech devices: airship engines, exosuit hulls, firearms, etc. Includes a hammer, plier, etcher, engraver, wrench, and more.
 - **Spy Gear (1 Load).** Disguises, fake IDs, lockpicks, climbing gear, and a collection of useful, illegal, spells.
-- **Paracute (2 Load).** Some wind riders consider this a luxury, some consider it essential. No matter your position, it's certainly a lifesaver when everything goes wrong.
+- **Parachute (2 Load).** Some wind riders consider this a luxury, some consider it essential. No matter your position, it's certainly a lifesaver when everything goes wrong.
 
 ## Devil's in the Details
-If you want to include advantages from specific details of your items—reach, speed, adaptability, etc.—consider a **Devil’s Bargain** that relates to a detail. Usually these bargains are suggested by the GM, but any player can suggest them! If both you and the GM agree, then you can take the extra die.
+If you want to include advantages from specific details of your items—reach, speed, adaptability, etc.—consider a **[[1. How to Play/7. Devil's Bargain]]** that relates to a detail. Usually these bargains are suggested by the GM, but any player can suggest them! If both you and the GM agree, then you can take the extra die.
 
 *“Can I take +1d here to Command by flashing my detonator? People will see it and go streaming out into the streets in a panic.”*
 
@@ -55,6 +55,6 @@ Also, consider how this item affects your position and/or effect. If you’re un
 Assess the details that you’re interested in when considering position and effect.
 
 # Quality
-TODO: Rewrite this to talk more generally about item quality.
+In addition to the standard items your crew has access to, your playbook will give you access to a handful of items unique to that playbook. These are often specialized versions of the standard items. 
 
-In addition to the standard items your crew has access to, your playbook will give you access to a handful of items unique to that playbook. These are often specialized versions of the standard items. Items marked as "fine", "masterwork", or "quality" indicate that the item is of a superior make, and may increase the effect your actions have when using that item.
+Items marked as "fine", "masterwork", or "quality" indicate that the item is of a superior make, and may increase the [[1. How to Play/3. Threat Roll/4. Effect\|effect]] your actions have when using that item.

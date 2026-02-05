@@ -17,10 +17,10 @@ This game will definitely stretch into science fantasy rather than your normal h
 # Latest Updates
 | File                                                                 | Modified             |
 | -------------------------------------------------------------------- | -------------------- |
+| [[2. The Characters/4. Rules/Loadout\|Loadout]]                   | Feb 4, 2026, 6:48 PM |
 | [[6. Factions/7. Other Dwarf Clans/Ironroot Clan\|Ironroot Clan]] | Feb 4, 2026, 6:11 PM |
 | [[6. Factions/6. Criminal/The Ivory Throne\|The Ivory Throne]]    | Feb 4, 2026, 6:11 PM |
 | [[6. Factions/6. Criminal/Heartfire Clan\|Heartfire Clan]]        | Feb 4, 2026, 6:11 PM |
 | [[6. Factions/6. Criminal/Draxler's Raiders\|Draxler's Raiders]]  | Feb 4, 2026, 6:11 PM |
 | [[6. Factions/5, Naturalist/Hawklords\|Hawklords]]                | Feb 4, 2026, 6:11 PM |
 | [[6. Factions/5, Naturalist/Hailstone Clan\|Hailstone Clan]]      | Feb 4, 2026, 6:11 PM |
-| [[6. Factions/5, Naturalist/Earthen Enclave\|Earthen Enclave]]    | Feb 4, 2026, 6:11 PM |
