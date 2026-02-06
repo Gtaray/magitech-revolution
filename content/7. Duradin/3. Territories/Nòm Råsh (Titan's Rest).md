@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.349-08:00
-modified: 2026-02-04T15:22:14.485-08:00
+modified: 2026-02-05T14:41:02.726-08:00
 tags:
   - location
   - territory
@@ -22,6 +22,8 @@ A stronghold for [[6. Factions/4. Industrialists/Guild of Engineers\|Guild]] act
 
 ## Scene
 Rhythmic sounds of pickaxes in an open quarry. A prison guard watches over the worker housing block in a mining camp. A watchtower surveys the surrounding hills while airships sail overhead. 
+
+![[Images/Nòm Råsh.webp]]
 
 ## NPCs
 #### Rog Bloodhammer

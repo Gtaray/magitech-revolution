@@ -15,12 +15,12 @@ In this homebrewed **Blades in the Dark** campaign, you will play as a crew of d
 This game will definitely stretch into science fantasy rather than your normal heroic fantasy. Depending on how your crew shakes out, any of the following bits of media could give you a good idea for the kind of game to expect: Firefly/Serenity, Cowboy Bebop, Star Wars, Ocean's Eleven, Burn Notice, Stargate SG-1, Final Fantasy 7, The Black Company.
 
 # Latest Updates
-| File                                                                                              | Modified              |
-| ------------------------------------------------------------------------------------------------- | --------------------- |
-| [[7. Duradin/3. Territories/Egar Fotthor (Whispering Woods)\|Egar Fotthor (Whispering Woods)]] | Feb 5, 2026, 2:25 PM  |
-| [[7. Duradin/1. Dwarven Republic of Duradin\|1. Dwarven Republic of Duradin]]                  | Feb 5, 2026, 2:21 PM  |
-| [[7. Duradin/3. Territories/Omer Tobul (Verdant Valley)\|Omer Tobul (Verdant Valley)]]         | Feb 5, 2026, 12:44 PM |
-| [[7. Duradin/4. Cities/Duldruth\|Duldruth]]                                                    | Feb 5, 2026, 12:37 PM |
-| [[7. Duradin/3. Territories/Zanor Nïr (Heart of Ord)\|Zanor Nïr (Heart of Ord)]]               | Feb 5, 2026, 12:22 PM |
-| [[7. Duradin/3. Territories/Ang Zareth (Red Wastes)\|Ang Zareth (Red Wastes)]]                 | Feb 5, 2026, 12:16 PM |
-| [[7. Duradin/4. Cities/Dur Moro\|Dur Moro]]                                                    | Feb 5, 2026, 12:10 PM |
+| File                                                                            | Modified             |
+| ------------------------------------------------------------------------------- | -------------------- |
+| [[6. Factions/4. Industrialists/21st Squadron\|21st Squadron]]               | Feb 6, 2026, 8:18 AM |
+| [[7. Duradin/2. Khorvates/Durvos\|Durvos]]                                   | Feb 6, 2026, 8:17 AM |
+| [[7. Duradin/2. Khorvates/Torhmek\|Torhmek]]                                 | Feb 6, 2026, 8:17 AM |
+| [[7. Duradin/2. Khorvates/Oghrann\|Oghrann]]                                 | Feb 6, 2026, 8:17 AM |
+| [[7. Duradin/2. Khorvates/Ladur\|Ladur]]                                     | Feb 6, 2026, 8:17 AM |
+| [[7. Duradin/4. Cities/Duldruth\|Duldruth]]                                  | Feb 6, 2026, 8:15 AM |
+| [[7. Duradin/3. Territories/Egar Lûrit (Old Spine)\|Egar Lûrit (Old Spine)]] | Feb 6, 2026, 8:15 AM |

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.353-08:00
-modified: 2026-02-04T18:11:41.538-08:00
+modified: 2026-02-05T14:47:15.793-08:00
 tags:
   - location
   - territory
@@ -23,6 +23,8 @@ The mountainous north of [[7. Duradin/1. Dwarven Republic of Duradin\|Duradin]] 
 
 ## Scene
 Shepherds follow behind their herds of animals as they travel northward. A warrior-druid fights off a gang of criminals making a deal in their territory. A Guild airship sails through the sky, surveying the land for its potential use.
+
+![[Images/Ubal Nïr.webp]]
 
 ## NPCs
 #### "Herby"

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.348-08:00
-modified: 2026-02-04T15:22:12.817-08:00
+modified: 2026-02-05T14:48:51.598-08:00
 tags:
   - location
   - territory
@@ -22,6 +22,8 @@ The most temperate and hospitable of [[7. Duradin/2. Khorvates/Oghrann\|Oghranni
 
 ## Scene
 Massive, person-sized flowers blooming along a vine-supported path through the trees. The sweet smell of honey floating through the air. Druids and mystics gather inside a stone henge and perform a ritual. Sick travelers pray while waiting outside a healer's temple.
+
+![[Images/Irol Zimkel.webp]]
 
 ## NPCs
 #### Erush Thunderbrand

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.345-08:00
-modified: 2026-02-04T15:22:09.487-08:00
+modified: 2026-02-05T14:41:13.156-08:00
 tags:
   - location
   - territory
@@ -25,6 +25,7 @@ The lack of "civilization" means wild beasts and criminals run amok, and the [[6
 ## Scene
 Quick bets taken on an open brawl between two clans over slights. A log cabin at the edge of an orchard, tended by a family. A Bloodhammer hunting party tracks a while manticore. A crossroads, where iron cages hanging from posts hold the corpses of cut-rate criminals.
 
+![[Images/Etar Nökor.webp]]
 ## NPCs
 #### Ulrich Bloodhammer
 [[8. Glossary/Magnar]] of the [[6. Factions/4. Industrialists/Bloodhammer Clan]]. Tough and violent. He enforces the iron law on all those in [[7. Duradin/2. Khorvates/Torhmek]]. Once a solder in the royal guard. Proud, demanding, honorable.

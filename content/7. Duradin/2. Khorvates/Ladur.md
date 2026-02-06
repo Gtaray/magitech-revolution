@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.333-08:00
-modified: 2026-02-04T18:11:41.523-08:00
+modified: 2026-02-06T08:17:21.837-08:00
 tags:
   - location
   - khorvate
@@ -9,9 +9,9 @@ tags:
 cssclasses: ""
 ---
 
-**[[8. Glossary/Khorvar]]:** Bron [[6. Factions/7. Other Dwarf Clans/Anvilhelm Clan\|Anvilhelm]]
-**Faction Presence:** [[6. Factions/7. Other Dwarf Clans/Anvilhelm Clan]], [[6. Factions/7. Other Dwarf Clans/Ironroot Clan]], [[6. Factions/5, Naturalist/Deepforge Clan]], [[6. Factions/4. Industrialists/Redhold Clan]], [[6. Factions/4. Industrialists/Guild of Engineers]], [[6. Factions/4. Industrialists/21st Squadron]], [[6. Factions/4. Industrialists/Dragonshield Clan]], [[6. Factions/4. Industrialists/Sender's Guild]], [[6. Factions/4. Industrialists/Broadsheet Guild]], [[6. Factions/5, Naturalist/Beasthearts]], [[6. Factions/5, Naturalist/Hawklords]], [[6. Factions/5, Naturalist/Circle of Smoke]], [[6. Factions/6. Criminal/Echo Wave Riders]], [[6. Factions/6. Criminal/Heartfire Clan]], [[6. Factions/6. Criminal/Green Dragons]], [[6. Factions/6. Criminal/Cobalt Syndicate]]
-**Capital:** [[7. Duradin/4. Cities/Ramthas]]
+- **[[8. Glossary/Khorvar]]:** Bron [[6. Factions/7. Other Dwarf Clans/Anvilhelm Clan\|Anvilhelm]]
+- **Faction Presence:** [[6. Factions/7. Other Dwarf Clans/Anvilhelm Clan]], [[6. Factions/7. Other Dwarf Clans/Ironroot Clan]], [[6. Factions/5, Naturalist/Deepforge Clan]], [[6. Factions/4. Industrialists/Redhold Clan]], [[6. Factions/4. Industrialists/Guild of Engineers]], [[6. Factions/4. Industrialists/21st Squadron]], [[6. Factions/4. Industrialists/Dragonshield Clan]], [[6. Factions/4. Industrialists/Sender's Guild]], [[6. Factions/4. Industrialists/Broadsheet Guild]], [[6. Factions/5, Naturalist/Beasthearts]], [[6. Factions/5, Naturalist/Hawklords]], [[6. Factions/5, Naturalist/Circle of Smoke]], [[6. Factions/6. Criminal/Echo Wave Riders]], [[6. Factions/6. Criminal/Heartfire Clan]], [[6. Factions/6. Criminal/Green Dragons]], [[6. Factions/6. Criminal/Cobalt Syndicate]]
+- **Capital:** [[7. Duradin/4. Cities/Ramthas]]
 
 The surface of Ladur is largely a rocky desert wasteland dotted with tall plateaus. Mountains border it on nearly every side, and it's in these mountains where nearly all Laduran dwarves live, deep underground. When outsiders picture dwarves, it's usually these guys they think of. 
 
@@ -36,7 +36,7 @@ Mysterious ruins in the desert that contain a stone henge carved with sigils. It
 
 ## Other Cities
 - [[7. Duradin/4. Cities/Mordarim]]
-- [[7. Duradin/4. Cities/Daldrath]]
+- [[7. Duradin/4. Cities/Duldruth]]
 - [[7. Duradin/4. Cities/Dur Gal]]
 - [[7. Duradin/4. Cities/Khal Boldur]]
 

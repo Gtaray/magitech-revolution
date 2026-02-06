@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.343-08:00
-modified: 2026-02-04T18:11:41.526-08:00
+modified: 2026-02-06T08:15:00.499-08:00
 tags:
   - location
   - territory
@@ -36,7 +36,7 @@ Best lawyer in [[7. Duradin/1. Dwarven Republic of Duradin\|Duradin]]. Cunning, 
 ## Notable Locations
 - [[7. Duradin/4. Cities/Hrakhammar]]
 - [[7. Duradin/4. Cities/Khal Boldur]]
-- [[7. Duradin/4. Cities/Daldrath]]
+- [[7. Duradin/4. Cities/Duldruth]]
 
 
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.336-08:00
-modified: 2026-02-04T15:21:54.862-08:00
+modified: 2026-02-06T08:17:49.486-08:00
 tags:
   - location
   - khorvate
@@ -9,10 +9,9 @@ tags:
 cssclasses: ""
 ---
 
-# Overview
-**Khorvar:** Duron Bloodhammer
-**Faction Presence:** [[6. Factions/4. Industrialists/Bloodhammer Clan]], [[6. Factions/4. Industrialists/Guild of Engineers]], [[6. Factions/4. Industrialists/Deeprock]], [[6. Factions/4. Industrialists/The Concordiat]], [[6. Factions/5, Naturalist/Acolytes of Many]], [[6. Factions/5, Naturalist/Earthquake]], [[6. Factions/5, Naturalist/Beasthearts]], [[6. Factions/5, Naturalist/Hawklords]], [[6. Factions/5, Naturalist/Circle of Smoke]], [[6. Factions/6. Criminal/Echo Wave Riders]], [[6. Factions/6. Criminal/The Iron Sights]], [[6. Factions/6. Criminal/The Ivory Throne]]
-**Capital:** [[7. Duradin/4. Cities/Giant's Fall]]
+- **[[8. Glossary/Khorvar]]:** Duron [[6. Factions/4. Industrialists/Bloodhammer Clan\|Bloodhammer]]
+- **Faction Presence:** [[6. Factions/4. Industrialists/Bloodhammer Clan]], [[6. Factions/4. Industrialists/Guild of Engineers]], [[6. Factions/4. Industrialists/Deeprock]], [[6. Factions/4. Industrialists/The Concordiat]], [[6. Factions/5, Naturalist/Acolytes of Many]], [[6. Factions/5, Naturalist/Earthquake]], [[6. Factions/5, Naturalist/Beasthearts]], [[6. Factions/5, Naturalist/Hawklords]], [[6. Factions/5, Naturalist/Circle of Smoke]], [[6. Factions/6. Criminal/Echo Wave Riders]], [[6. Factions/6. Criminal/The Iron Sights]], [[6. Factions/6. Criminal/The Ivory Throne]]
+- **Capital:** [[7. Duradin/4. Cities/Giant's Fall]]
 
 Torhmek is a rough territory. Not as cold as [[7. Duradin/2. Khorvates/Oghrann]], but just as rugged and dangerous. Outside of settled territory the land is full of things that want to loot, kill, and eat you. Orcs, goblins, wyverns, bears, giants, and more live around here. The [[6. Factions/4. Industrialists/Bloodhammer Clan]] is the largest and thus the de facto ruler, since they carved out their livelihood here with the blood on their hammers. Laws here are lax; folks live mostly by their own (or their clan's) code.
 

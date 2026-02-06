@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.334-08:00
-modified: 2026-02-04T15:21:53.230-08:00
+modified: 2026-02-06T08:17:28.419-08:00
 tags:
   - location
   - khorvate
@@ -9,9 +9,9 @@ tags:
 cssclasses: ""
 ---
 
-**[[8. Glossary/Khorvar]]:** Tormun Hailstone
-**Faction Presence:** [[6. Factions/5, Naturalist/Hailstone Clan]], [[6. Factions/5, Naturalist/Brightstone Clan]], [[6. Factions/5, Naturalist/Earthen Enclave]], [[6. Factions/5, Naturalist/Beasthearts]]
-**Capital:** [[7. Duradin/4. Cities/Taj]]
+- **[[8. Glossary/Khorvar]]:** Tormun Hailstone
+- **Faction Presence:** [[6. Factions/5, Naturalist/Hailstone Clan]], [[6. Factions/5, Naturalist/Brightstone Clan]], [[6. Factions/5, Naturalist/Earthen Enclave]], [[6. Factions/5, Naturalist/Beasthearts]]
+- **Capital:** [[7. Duradin/4. Cities/Taj]]
 
 The Oghranni dwarves are a tough bunch. They've lived on the land for generations and generations beyond count. The north is a difficult place to make a life, but they've done it.
 

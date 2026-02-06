@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.331-08:00
-modified: 2026-02-04T18:11:41.516-08:00
+modified: 2026-02-06T08:17:59.628-08:00
 tags:
   - location
   - khorvate
@@ -9,9 +9,9 @@ tags:
 cssclasses: ""
 ---
 
-**[[8. Glossary/Khorvar]]:** Thorbalt Amberspire
-**Faction Presence:** [[6. Factions/4. Industrialists/Amberspire Clan]], [[6. Factions/6. Criminal/Ashen Knives]], [[6. Factions/6. Criminal/The Maelstrom]], [[6. Factions/5, Naturalist/Circle of Stars]], [[6. Factions/6. Criminal/The Voice]], [[6. Factions/6. Criminal/Spark of Life]], [[6. Factions/4. Industrialists/Stormkiln Clan]], [[6. Factions/4. Industrialists/Sender's Guild]], [[6. Factions/4. Industrialists/Red Sash]]
-**Capital:** [[7. Duradin/4. Cities/Dur Olo]]
+- **[[8. Glossary/Khorvar]]:** Thorbalt [[6. Factions/4. Industrialists/Amberspire Clan\|Amberspire]]
+- **Faction Presence:** [[6. Factions/4. Industrialists/Amberspire Clan]], [[6. Factions/6. Criminal/Ashen Knives]], [[6. Factions/6. Criminal/The Maelstrom]], [[6. Factions/5, Naturalist/Circle of Stars]], [[6. Factions/6. Criminal/The Voice]], [[6. Factions/6. Criminal/Spark of Life]], [[6. Factions/4. Industrialists/Stormkiln Clan]], [[6. Factions/4. Industrialists/Sender's Guild]], [[6. Factions/4. Industrialists/Red Sash]]
+- **Capital:** [[7. Duradin/4. Cities/Dur Olo]]
 
 The homeland for modern magitech, Durvos is where the most brilliant minds conjure up a better tomorrow. Its lake valleys and rocky forests support a wide array of life here, from large urbanized cities to small homesteads on the frontier. 
 
