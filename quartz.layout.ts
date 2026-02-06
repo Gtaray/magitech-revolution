@@ -4,7 +4,7 @@ import { Options } from "./quartz/components/Explorer"
 
 
 export const mapFn: Options["mapFn"] = (node) => {
-  node.displayName = node.displayName.replace(/^\d?\.?\s*/, "")
+  node.displayName = node.displayName.replace(/^\d?\.+\s?/, "")
   return node
 }
 
