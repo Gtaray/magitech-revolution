@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.345-08:00
-modified: 2026-02-05T14:41:13.156-08:00
+modified: 2026-02-06T08:21:04.271-08:00
 tags:
   - location
   - territory
@@ -9,11 +9,11 @@ tags:
 cssclasses: ""
 ---
 
-**[[8. Glossary/Khorvate]]:** [[7. Duradin/2. Khorvates/Torhmek\|Torhmek]]
-**Wealth:** 1
-**Industry:** 1
-**Spiritual:** 2
-**Crime:** 2
+- **[[8. Glossary/Khorvate]]:** [[7. Duradin/2. Khorvates/Torhmek\|Torhmek]]
+- **Wealth:** 1
+- **Industry:** 1
+- **Spiritual:** 2
+- **Crime:** 2
 #### Rule
 Clan conflicts in Etar Nökor are commonplace, but by [[8. Glossary/Magnar]]’s iron decree murder is met with the harshest punishment. Those needing to settle blood feuds resort to stealing, kidnapping, and ransoming. Deaths on a [[The Job\|job]] generate **+8 [[Heat]]** (instead of +4).
 

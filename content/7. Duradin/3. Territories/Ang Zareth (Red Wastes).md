@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.339-08:00
-modified: 2026-02-05T12:16:15.657-08:00
+modified: 2026-02-06T08:20:25.157-08:00
 tags:
   - location
   - territory
@@ -9,11 +9,11 @@ tags:
 cssclasses: ""
 ---
 
-**[[8. Glossary/Khorvate]]:** [[7. Duradin/2. Khorvates/Ladur]]
-**Wealth:** 0
-**Industry:** 1
-**Spiritual:** 2
-**Crime:** 3
+- **[[8. Glossary/Khorvate]]:** [[7. Duradin/2. Khorvates/Ladur]]
+- **Wealth:** 0
+- **Industry:** 1
+- **Spiritual:** 2
+- **Crime:** 3
 #### Rule
 Nobody comes here who doesn’t have to. The desert hates you and jobs are hard to find. Even bounty hunters pass it by. **-1 [[Heat]]** for jobs in this territory.
 

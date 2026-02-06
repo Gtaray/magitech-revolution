@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.349-08:00
-modified: 2026-02-05T14:41:02.726-08:00
+modified: 2026-02-06T08:21:30.188-08:00
 tags:
   - location
   - territory
@@ -9,11 +9,11 @@ tags:
 cssclasses: ""
 ---
 
-**[[8. Glossary/Khorvate]]:** [[7. Duradin/2. Khorvates/Torhmek]]
-**Wealth:** 1
-**Industry:** 2
-**Spiritual:** 1
-**Crime:** 1
+- **[[8. Glossary/Khorvate]]:** [[7. Duradin/2. Khorvates/Torhmek]]
+- **Wealth:** 1
+- **Industry:** 2
+- **Spiritual:** 1
+- **Crime:** 1
 #### Rule
 [[Planning & Engagement#Engagement Roll\|Engagement rolls]] in Nòm Råsh are always at **-1d** due to ever-present security forces patrolling the skies. Any jobs run against Guilders here are considered to be on hostile turf.
 

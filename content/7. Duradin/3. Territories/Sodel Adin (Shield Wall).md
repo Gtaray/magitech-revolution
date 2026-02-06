@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.351-08:00
-modified: 2026-02-04T15:22:17.836-08:00
+modified: 2026-02-06T08:21:46.912-08:00
 tags:
   - location
   - territory
@@ -9,11 +9,11 @@ tags:
 cssclasses: ""
 ---
 
-**[[8. Glossary/Khorvate]]:**  [[7. Duradin/2. Khorvates/Durvos]]
-**Wealth:** 1
-**Industry:** 2
-**Spiritual:** 0
-**Crime:** 2
+- **[[8. Glossary/Khorvate]]:**  [[7. Duradin/2. Khorvates/Durvos]]
+- **Wealth:** 1
+- **Industry:** 2
+- **Spiritual:** 0
+- **Crime:** 2
 #### Rule
 Although only Guilders are technically allowed to use the Khalud Academy archives and workshops, any **[[5. Downtime/5. Downtime Activities/Work#Long-Term Project\|long-term projects]]** to **[[2. The Characters/3. Actions/Study]]** schematics fill **+1 tick**.
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.346-08:00
-modified: 2026-02-04T18:11:41.529-08:00
+modified: 2026-02-06T08:21:12.169-08:00
 tags:
   - location
   - territory
@@ -9,11 +9,11 @@ tags:
 cssclasses: ""
 ---
 
-**[[8. Glossary/Khorvate]]:** [[7. Duradin/2. Khorvates/Torhmek]]
-**Wealth:** 1
-**Industry:** 2
-**Spiritual:** 0
-**Crime:** 2
+- **[[8. Glossary/Khorvate]]:** [[7. Duradin/2. Khorvates/Torhmek]]
+- **Wealth:** 1
+- **Industry:** 2
+- **Spiritual:** 0
+- **Crime:** 2
 #### Rule
 The factories and mines have caused lingering air pollution; anyone spending time outside without protection gains level 1 [[1. How to Play/4. Harm, Stress & Trauma/Harm\|harm]] "Ashen Lung."
 

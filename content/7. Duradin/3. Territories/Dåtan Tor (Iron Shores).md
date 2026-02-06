@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.340-08:00
-modified: 2026-02-04T15:22:04.601-08:00
+modified: 2026-02-06T08:20:36.895-08:00
 tags:
   - location
   - territory
@@ -9,11 +9,11 @@ tags:
 cssclasses: ""
 ---
 
-**[[8. Glossary/Khorvate]]:** [[7. Duradin/2. Khorvates/Durvos]]
-**Wealth:** 2
-**Industry:** 2
-**Spiritual:** 2
-**Crime:** 2
+- **[[8. Glossary/Khorvate]]:** [[7. Duradin/2. Khorvates/Durvos]]
+- **Wealth:** 2
+- **Industry:** 2
+- **Spiritual:** 2
+- **Crime:** 2
 #### Rule
 Everything is available on Dåtan Tor for a price. [[5. Downtime/5. Downtime Activities/Acquire\|Acquiring]] costs **+1 [[2. The Characters/4. Rules/Coin]]** but is tracked with a **6-segment supply clock** (instead of a 4-segment clock).
 

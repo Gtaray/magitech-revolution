@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.348-08:00
-modified: 2026-02-05T14:48:51.598-08:00
+modified: 2026-02-06T08:21:21.187-08:00
 tags:
   - location
   - territory
@@ -9,11 +9,11 @@ tags:
 cssclasses: ""
 ---
 
-**[[8. Glossary/Khorvate]]:** [[7. Duradin/2. Khorvates/Oghrann]]
-**Wealth:** 1
-**Industry:** 1
-**Spiritual:** 2
-**Crime:** 2
+- **[[8. Glossary/Khorvate]]:** [[7. Duradin/2. Khorvates/Oghrann]]
+- **Wealth:** 1
+- **Industry:** 1
+- **Spiritual:** 2
+- **Crime:** 2
 #### Rule
 A land of ancient knowledge and kind folk. The druids keep their henges and tend to any and all that request aid. Mark +1 tick when **[[5. Downtime/5. Downtime Activities/Recover\|Recovering]]** in their care
 

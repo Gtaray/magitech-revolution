@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.353-08:00
-modified: 2026-02-05T14:47:15.793-08:00
+modified: 2026-02-06T08:21:58.495-08:00
 tags:
   - location
   - territory
@@ -9,12 +9,11 @@ tags:
 cssclasses: ""
 ---
 
-**[[8. Glossary/Khorvate]]:** [[7. Duradin/2. Khorvates/Oghrann]]
-**Wealth:** 0
-**Industry:** 0
-**Spiritual:** 3
-**Crime:** 3
-**Faction Presence:**
+- **[[8. Glossary/Khorvate]]:** [[7. Duradin/2. Khorvates/Oghrann]]
+- **Wealth:** 0
+- **Industry:** 0
+- **Spiritual:** 3
+- **Crime:** 3
 #### Rule
 The hills are littered with ancient sites and strange magic. When in Ubal Nïr, using **[[2. The Characters/3. Actions/Attune]]** for **[[5. Downtime/5. Downtime Activities/Work#Long-Term Project\|long-term projects]]** grants **+1 tick**, but may attract dangerous spiritual attention.
 

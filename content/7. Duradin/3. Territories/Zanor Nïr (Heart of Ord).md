@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.353-08:00
-modified: 2026-02-05T12:22:44.993-08:00
+modified: 2026-02-06T08:22:09.293-08:00
 tags:
   - location
   - territory
@@ -9,11 +9,11 @@ tags:
 cssclasses: ""
 ---
 
-**[[8. Glossary/Khorvate]]:** [[7. Duradin/2. Khorvates/Ladur]]
-**Wealth:** 3
-**Industry:** 2
-**Spiritual:** 1
-**Crime:** 2
+- **[[8. Glossary/Khorvate]]:** [[7. Duradin/2. Khorvates/Ladur]]
+- **Wealth:** 3
+- **Industry:** 2
+- **Spiritual:** 1
+- **Crime:** 2
 #### Rule
 Zanor Nïr is the economic heart and seat of power in Duradin. Working a side job here **pays more**, but generates **2 [[Heat]]**.
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.351-08:00
-modified: 2026-02-05T12:44:51.900-08:00
+modified: 2026-02-06T08:21:38.664-08:00
 tags:
   - location
   - territory
@@ -9,11 +9,11 @@ tags:
 cssclasses: ""
 ---
 
-**[[8. Glossary/Khorvate]]:** [[7. Duradin/2. Khorvates/Durvos]]
-**Wealth:** 2
-**Industry:** 3
-**Spiritual:** 0
-**Crime:** 1
+- **[[8. Glossary/Khorvate]]:** [[7. Duradin/2. Khorvates/Durvos]]
+- **Wealth:** 2
+- **Industry:** 3
+- **Spiritual:** 0
+- **Crime:** 1
 #### Rule
 Omer Tobul is full of money, but is a Guild stronghold and thus closely monitored. When you do a job in Omer Tobul, you get **+1 [[2. The Characters/4. Rules/Coin]]** and **[[+1 Heat]]**
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.342-08:00
-modified: 2026-02-05T14:25:25.956-08:00
+modified: 2026-02-06T08:20:46.031-08:00
 tags:
   - location
   - territory
@@ -9,11 +9,11 @@ tags:
 cssclasses: ""
 ---
 
-**[[8. Glossary/Khorvate]]:** [[7. Duradin/2. Khorvates/Oghrann]]
-**Wealth:** 1
-**Industry:** 0
-**Spiritual:** 3
-**Crime:** 1
+- **[[8. Glossary/Khorvate]]:** [[7. Duradin/2. Khorvates/Oghrann]]
+- **Wealth:** 1
+- **Industry:** 0
+- **Spiritual:** 3
+- **Crime:** 1
 #### Rule
 When you explore the vast forests of Egar Fotthor, you must make a **[[1. How to Play/2. Actions & Attributes/Attributes#Resolve\|Resolve]]** [[Push Yourself#Resistance Roll\|resist roll]] if you don’t want to heed the echoes urging you to wander into wilderness alone
 

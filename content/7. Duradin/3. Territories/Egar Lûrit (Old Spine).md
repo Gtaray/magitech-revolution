@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.343-08:00
-modified: 2026-02-06T08:15:00.499-08:00
+modified: 2026-02-06T08:20:54.355-08:00
 tags:
   - location
   - territory
@@ -9,11 +9,11 @@ tags:
 cssclasses: ""
 ---
 
-**[[8. Glossary/Khorvate]]:** [[7. Duradin/2. Khorvates/Ladur]]
-**Wealth:** 2
-**Industry:** 1
-**Spiritual:** 2
-**Crime:** 1
+- **[[8. Glossary/Khorvate]]:** [[7. Duradin/2. Khorvates/Ladur]]
+- **Wealth:** 2
+- **Industry:** 1
+- **Spiritual:** 2
+- **Crime:** 1
 #### Rule
 Egar Lûrit has some of the oldest cities in [[Dwarven Republic of Duradin\|Duradin]] and boasts rich and varied cultures. Life is about who you know. Any [[Crew Quality]] rolls use **[[2. The Characters/3. Actions/Consort]]** instead.
 
