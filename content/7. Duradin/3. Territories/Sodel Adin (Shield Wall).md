@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.351-08:00
-modified: 2026-02-06T08:21:46.912-08:00
+modified: 2026-02-07T15:07:19.776-08:00
 tags:
   - location
   - territory
@@ -22,6 +22,8 @@ A region that is ravaged by frequent lightning storms that occasionally strike s
 
 ## Scene
 Professors walking down the polished stone paths of the Academy. A market street with insistent vendors selling kebabs to hungry miners. Excavators packing furiously onto skiffs, ready to take advantage of a recent lightning storm. The storm alert blaring citywide.
+
+![[Images/Sodel Adin.webp]]
 
 ## NPCs
 #### Nish Grimnail

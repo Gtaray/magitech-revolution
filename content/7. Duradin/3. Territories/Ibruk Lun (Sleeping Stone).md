@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.346-08:00
-modified: 2026-02-06T08:21:12.169-08:00
+modified: 2026-02-07T14:56:20.688-08:00
 tags:
   - location
   - territory
@@ -22,6 +22,8 @@ A sizeable portion of magitech components manufactured in [[7. Duradin/1. Dwarve
 
 ## Scene
 Dark and dirty canyons from which the forges of industry belch black smoke. Masked workers walking along metal platforms mounted to canyon walls. Workers use cranes to load large airship components onto a lightning rail car.
+
+![[Images/Ibruk Lun.webp]]
 
 ## NPCs
 #### Locke Goldengut

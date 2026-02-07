@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.340-08:00
-modified: 2026-02-06T12:56:05.581-08:00
+modified: 2026-02-07T15:04:05.007-08:00
 tags:
   - location
   - territory
@@ -22,6 +22,8 @@ Dozens of cities surrounding a large lake. The foothills and mountains north of 
 
 ## Scene
 Lightning storms crack upon the hills while a summer monsoon swells the lake. Industrial workers dredge the shores of the lake. Cloaked strangers congregating around a steel warehouse before an auction opens. Row after row of airships grounded in open water.
+
+![[Images/Dåtan Tor.webp]]
 
 ## Notable NPCs
 #### "Hex". 
