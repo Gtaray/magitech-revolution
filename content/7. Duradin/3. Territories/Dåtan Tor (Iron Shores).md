@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.340-08:00
-modified: 2026-02-06T08:20:36.895-08:00
+modified: 2026-02-06T12:56:05.581-08:00
 tags:
   - location
   - territory
@@ -35,6 +35,5 @@ Sun-smoking, grizzled ex-aeronaut of the [[6. Factions/4. Industrialists/21st Sq
 
 ## Cities
 - [[7. Duradin/4. Cities/Dur Moro]]
-- [[7. Duradin/4. Cities/Khal Korkhad]]
 
 

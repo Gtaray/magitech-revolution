@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.343-08:00
-modified: 2026-02-06T08:20:54.355-08:00
+modified: 2026-02-06T13:00:06.354-08:00
 tags:
   - location
   - territory
@@ -22,6 +22,8 @@ The western mountain range in [[7. Duradin/2. Khorvates/Ladur]] that contains so
 
 ## Scene
 Ancient caverns beneath the mountains that hide untold treasures and dangers. A temple carved and crafted over centuries with groups of silent pilgrims entering and exiting. A celebration thrown in a grand feasting hall underground. A small settlement nestled in a mountain valley.
+
+![[Images/Egar Lûrit.webp]]
 
 ## Notable NPCs
 #### Saren Galia

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.351-08:00
-modified: 2026-02-06T08:21:38.664-08:00
+modified: 2026-02-06T12:34:02.349-08:00
 tags:
   - location
   - territory
@@ -38,8 +38,7 @@ Jeweler known for incorporating magical enchantments into her work. Her creation
 - [[7. Duradin/4. Cities/Gomragh]]
 - [[7. Duradin/4. Cities/Dur Lodar]]
 - [[7. Duradin/4. Cities/Kar Darum]]
-- [[7. Duradin/4. Cities/Dun Bar]]
-- [[7. Duradin/4. Cities/Dol Kharak]]
+- [[7. Duradin/4. Cities/Dun Bor]]
 
 
 
