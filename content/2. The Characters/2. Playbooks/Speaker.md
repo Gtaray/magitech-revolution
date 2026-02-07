@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.409-08:00
-modified: 2026-02-04T18:11:41.556-08:00
+modified: 2026-02-07T13:51:46.589-08:00
 tags:
   - playbook
 cssclasses: ""
@@ -52,7 +52,7 @@ Whenever you use a **[[1. How to Play/3. Threat Roll/5. Gambits\|gambit]]** whil
 *You still gain +1d for whatever roll you need to make to explain yourself, likely **Consort**, **Sway**, or **Command**.*
 
 ### Favors Owed
-Make a [[1. How to Play/1. The Basics/3. Progress Clocks\|6-clock]] called “Favor.” When gaining [[4. The Job/6. Heat]] after a [[4. The Job/1. The Job\|job]], and during **[[5. Downtime/1. Downtime\|downtime]]**, tick this clock in place of spending **[[2. The Characters/4. Rules/Coin]]** or taking **[[4. The Job/6. Heat]]**, 1-for-1. When the clock fills, one of your friends or allies calls on the crew for help with something. When you help them, clear the clock.
+Make a [[1. How to Play/1. The Basics/3. Progress Clocks\|6-clock]] called “Favor.” When gaining [[4. The Job/6. Heat\|Heat]] after a [[4. The Job/1. The Job\|job]], and during **[[5. Downtime/1. Downtime\|downtime]]**, tick this clock in place of spending **[[2. The Characters/4. Rules/Coin]]** or taking **[[4. The Job/6. Heat\|Heat]]**, 1-for-1. When the clock fills, one of your friends or allies calls on the crew for help with something. When you help them, clear the clock.
 
 *Using your authority, connections, or inside information, you have a complex network of favors you owe and are owed.*
 
@@ -82,7 +82,7 @@ When you avoid a magical effect, you may expend your **[[1. How to Play/5. Armor
 *Avoiding an effect means you take no consequence from it, which normally requires rolling a 6 or **pushing yourself** to avoid the consequence. "Later use" means within a few scenes."*
 
 ### Shadow
-You may expend your **[[1. How to Play/5. Armor & Special Armor/Special Armor]]** to **[[1. How to Play/3. Threat Roll/2. Push Yourself]]** when facing a consequence from detection or security measures, or to perform a feat of athletics or stealth
+You may expend your **[[1. How to Play/5. Armor & Special Armor/Special Armor]]** to **[[1. How to Play/3. Threat Roll/2. Push Yourself\|Push Yourself]]** when facing a consequence from detection or security measures, or to perform a feat of athletics or stealth
 
 *You can spend this to reduce or avoid a negative consequence from, or to increase the effect of, an action related to stealth and subterfuge.*
 

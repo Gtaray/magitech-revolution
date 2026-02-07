@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-03T12:24:06.982-08:00
-modified: 2026-02-04T18:09:31.061-08:00
+modified: 2026-02-07T13:47:34.916-08:00
 tags:
   - rules
 cssclasses: ""
@@ -21,7 +21,7 @@ The **support** system is a collection of advanced utilities and subsystems that
 # System Rating
 Each ship system has a rating that ranges from 0 to 4, though airships often have a maximum for a system that is below 4. For example, the [[3. The Crew/3. Airships/Augur Class]] airship has a maximum Engines value of 2, meaning even the fastest Augur ship will be pretty lumbering.
 
-A ship's system rating can be used in several ways, most commonly used as a way to gauge the effectiveness of a ship in that particular area (a ship with Engines rating 3 will be faster than one with rating 2 by default). The rating can also be used as the basis for a [[1. How to Play/6. Fortune Roll]], using dice equal to the rating of a system.
+A ship's system rating can be used in several ways, most commonly used as a way to gauge the effectiveness of a ship in that particular area (a ship with Engines rating 3 will be faster than one with rating 2 by default). The rating can also be used as the basis for a [[1. How to Play/6. Fortune Roll\|Fortune Roll]], using dice equal to the rating of a system.
 
 But most importantly, **the rating of a ship's system is how many upgrades can be installed in that system.** A ship with a weapons rating of 1 can only have 1 [[3. The Crew/4. Ship Upgrades/3. Weapon Upgrades]] installed. A ship with a support rating of 3 can have 3 [[3. The Crew/4. Ship Upgrades/4. Support Upgrades]] installed.
 

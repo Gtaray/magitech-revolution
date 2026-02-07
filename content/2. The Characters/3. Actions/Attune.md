@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.376-08:00
-modified: 2026-02-04T18:07:00.918-08:00
+modified: 2026-02-07T11:19:55.864-08:00
 tags:
   - action
 cssclasses: ""
@@ -27,9 +27,9 @@ Druidic enclaves often regulate based on their understanding of the natural and 
 
 > *I Attune to the magic in the area to sense what is influencing me to speak only the truth with this Ashen Knives thug.*
 
-**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect]]:** You sense the influence of a magical artifact somewhere on the thug's person, but you can't identify exactly what it is. Is it that ornate necklace with the strange gem, or the mechanical looking ring?
+**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect\|Effect]]:** You sense the influence of a magical artifact somewhere on the thug's person, but you can't identify exactly what it is. Is it that ornate necklace with the strange gem, or the mechanical looking ring?
 
-**4/5 Risky [[1. How to Play/3. Threat Roll/3. Position]]:** Recognizing that her ring is exerting its effect on you, the thug turns to you and says, "Now then. We were discussing whether you had anything to do with the robbery last night." You can see her bodyguard's hands resting on the knives sheathed at his hips. What do you do?
+**4/5 Risky [[1. How to Play/3. Threat Roll/3. Position\|Position]]:** Recognizing that her ring is exerting its effect on you, the thug turns to you and says, "Now then. We were discussing whether you had anything to do with the robbery last night." You can see her bodyguard's hands resting on the knives sheathed at his hips. What do you do?
 
 ## Risky
 

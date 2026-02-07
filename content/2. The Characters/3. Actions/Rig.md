@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.386-08:00
-modified: 2026-02-04T18:06:57.187-08:00
+modified: 2026-02-07T11:24:32.387-08:00
 tags:
   - action
 cssclasses: ""
@@ -41,7 +41,7 @@ Often long-term projects in downtime use **Rig**. If you can get access to the r
 
 **4/5 Complication:** The first arm is a real beast to figure out. You have to wrench it apart manually. You run from arm to arm. As you finish wrenching the last, the ship is freed you see some guards rounding the stairs up to your position. What do you do?
 
-**4/5 Desperate [[1. How to Play/3. Threat Roll/3. Position]]:** As you force the arms open, you accidentally disconnect your [[8. Glossary/Airship\|airship]] from the dock entirely. The ship is free, but it begins listing away from the dock and losing altitude. How do you get back to the ship?
+**4/5 Desperate [[1. How to Play/3. Threat Roll/3. Position\|Position]]:** As you force the arms open, you accidentally disconnect your [[8. Glossary/Airship\|airship]] from the dock entirely. The ship is free, but it begins listing away from the dock and losing altitude. How do you get back to the ship?
 
 ## Desperate
 

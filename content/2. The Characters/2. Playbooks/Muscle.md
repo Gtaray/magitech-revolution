@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.405-08:00
-modified: 2026-02-04T18:10:12.544-08:00
+modified: 2026-02-07T13:50:31.190-08:00
 tags:
   - playbook
 cssclasses: ""
@@ -97,7 +97,7 @@ A heavy and imposing shield designed to stop all but the heaviest of artillery. 
 *What decorations does the shield have? How is yours distinctive? What wear marks does it bear?*
 
 ### Durven Boomshot
-This nasty piece is a military anti-vehicle weapon that lobs detonators at decent velocity. Use of detonators is highly scrutinized, so using this generates **[[4. The Job/6. Heat]]** when fired. Can be used to target/damage vehicles and structures. Not subtle. **\[2 Load\]**
+This nasty piece is a military anti-vehicle weapon that lobs detonators at decent velocity. Use of detonators is highly scrutinized, so using this generates **[[4. The Job/6. Heat\|Heat]]** when fired. Can be used to target/damage vehicles and structures. Not subtle. **\[2 Load\]**
 
 *When taken it includes a single detonator. Extra must be taken separately.*
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.410-08:00
-modified: 2026-02-04T18:10:22.455-08:00
+modified: 2026-02-07T13:45:24.015-08:00
 tags:
   - playbook
 cssclasses: ""
@@ -69,7 +69,7 @@ When you do the right thing at a cost to yourself, you and one crewmate each rec
 *The cost to yourself must be real, though it need not be devastating. Losing a meaningful opportunity, experiencing a setback with a project, or getting into a heated argument with a friend could all count.*
 
 ### Patch
-You can expend your **[[1. How to Play/5. Armor & Special Armor/Special Armor]]** to **[[1. How to Play/3. Threat Roll/2. Push Yourself]]** when **[[2. The Characters/3. Actions/Doctor\|Doctoring]]**. Your crew's **[[5. Downtime/5. Downtime Activities/Recover\|Recoveries]]** fill **+1 tick**.
+You can expend your **[[1. How to Play/5. Armor & Special Armor/Special Armor]]** to **[[1. How to Play/3. Threat Roll/2. Push Yourself\|Push Yourself]]** when **[[2. The Characters/3. Actions/Doctor\|Doctoring]]**. Your crew's **[[5. Downtime/5. Downtime Activities/Recover\|Recoveries]]** fill **+1 tick**.
 
 *Your special armor can be applied to any use of Doctor, either for resisting the consequences or to increase an action's effect.*
 

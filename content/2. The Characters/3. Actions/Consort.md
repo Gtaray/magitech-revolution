@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.379-08:00
-modified: 2026-02-04T18:07:00.926-08:00
+modified: 2026-02-07T11:22:44.173-08:00
 tags:
   - action
 cssclasses: ""
@@ -25,9 +25,9 @@ You might be forced to **Consort** in an unfamiliar situation in order to create
 
 > *Alor bartends for the underground pit fights and has definitely overheard a few choice comments. Does she know of any jobs we could pull?*
 
-**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect]]:** She’s been keeping her eye on the fights here and thinks she has an angle about how to rob the safe when the fight’s in progress. Just one problem: another fight isn’t scheduled for a week. You’ll have to set one up.
+**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect\|Effect]]:** She’s been keeping her eye on the fights here and thinks she has an angle about how to rob the safe when the fight’s in progress. Just one problem: another fight isn’t scheduled for a week. You’ll have to set one up.
 
-**1-3 Risky [[1. How to Play/3. Threat Roll/3. Position]]:** You notice the guards near the door whispering agitatedly. Alor leans in, “The owner here’s worse than the [[8. Glossary/Magnar]], and I have a new gig lined up in Dur Moro. I’ve managed to stash a chunk of the betting money. You get me out safe, and I’ll cut you in for half. Did you bring your weapons?
+**1-3 Risky [[1. How to Play/3. Threat Roll/3. Position\|Position]]:** You notice the guards near the door whispering agitatedly. Alor leans in, “The owner here’s worse than the [[8. Glossary/Magnar]], and I have a new gig lined up in Dur Moro. I’ve managed to stash a chunk of the betting money. You get me out safe, and I’ll cut you in for half. Did you bring your weapons?
 
 ## Risky
 
@@ -35,7 +35,7 @@ You might be forced to **Consort** in an unfamiliar situation in order to create
 
 **4/5 [[1. How to Play/4. Harm, Stress & Trauma/Harm]]:** You do it, but in order to prove you’re one of the ‘hands you get roped into a drinking contest. Take level 2 harm “Trashed.” Which is when they decide it’d be a grand idea to introduce you to your target—the local Cobalt Syndicate organizer.
 
-**1-3 Desperate [[1. How to Play/3. Threat Roll/3. Position]]:** You’re drinking till closing, and things are going well, when one of the dockhands knocks over their glass. As you reach to pick it up one of them recognizes the tattoo on your arm. “Wait a minute, you’re not a dockhand! You’re that bounty hunter!” Now there are six very angry, very large Cobalt Syndicate thugs reaching for any weapon at hand. What do you do?
+**1-3 Desperate [[1. How to Play/3. Threat Roll/3. Position\|Position]]:** You’re drinking till closing, and things are going well, when one of the dockhands knocks over their glass. As you reach to pick it up one of them recognizes the tattoo on your arm. “Wait a minute, you’re not a dockhand! You’re that bounty hunter!” Now there are six very angry, very large Cobalt Syndicate thugs reaching for any weapon at hand. What do you do?
 
 ## Desperate
 

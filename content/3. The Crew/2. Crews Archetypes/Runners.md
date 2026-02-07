@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.421-08:00
-modified: 2026-02-04T18:11:11.249-08:00
+modified: 2026-02-07T13:51:23.613-08:00
 tags:
   - crewtype
 cssclasses: ""
@@ -34,12 +34,12 @@ You gain **potency** when repairing your ship while out in the wilds. If you spe
 *The potency may functionally let you do repairs others can’t — for example, temporarily fixing a ship injury that usually requires drydock. The extra dice from the gambit apply to any Rig roll, not just repairs.*
 
 ### Leverage
-Your crew knows how to pull strings and cash in favors. After assigning **[[4. The Job/6. Heat]]** after a job, you can take **-1 [[6. Factions/3. Faction Status\|status]]** with a faction at Helpful (+1) or better to reduce your **[[4. The Job/6. Heat#Wanted Level\|Wanted Level]]** by 1, and set your **[[4. The Job/6. Heat]]** to 0 in a region.
+Your crew knows how to pull strings and cash in favors. After assigning **[[4. The Job/6. Heat\|Heat]]** after a job, you can take **-1 [[6. Factions/3. Faction Status\|status]]** with a faction at Helpful (+1) or better to reduce your **[[4. The Job/6. Heat#Wanted Level\|Wanted Level]]** by 1, and set your **[[4. The Job/6. Heat\|Heat]]** to 0 in a region.
 
 *You can cash in faction changes you gained from the current job. You don’t have to clear the system you did the job in—the faction will help cover your tracks regardless.*
 
 ### Just Passing Through
-During **payoff**, take **-1 [[4. The Job/6. Heat]]** from the job. When your **[[4. The Job/6. Heat]] is 4** or less in your current region, you still have two **[[5. Downtime/4. Downtime Activities\|downtime activities]]** even if you’re at [[6. Factions/3. Faction Status#Faction Status Levels\|War (-3)]] with any faction, as they have trouble locating you.
+During **payoff**, take **-1 [[4. The Job/6. Heat\|Heat]]** from the job. When your **[[4. The Job/6. Heat\|Heat]] is 4** or less in your current region, you still have two **[[5. Downtime/4. Downtime Activities\|downtime activities]]** even if you’re at [[6. Factions/3. Faction Status#Faction Status Levels\|War (-3)]] with any faction, as they have trouble locating you.
 
 *Use the Heat of the region you’re in at the start of downtime to determine the number of activities each crew member gets. If, during downtime, the crew passes through a region in which they have high Heat, enemy factions might find them anyway.*
 

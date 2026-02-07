@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.381-08:00
-modified: 2026-02-04T18:07:00.923-08:00
+modified: 2026-02-07T11:23:39.450-08:00
 tags:
   - action
 cssclasses: ""
@@ -27,7 +27,7 @@ You can **Doctor** someone to forcibly administer drugs or handle a hostile pati
 
 > *I want to figure out where our bounty has gone. You mentioned there were boot prints in the hall. Can I get a soil sample?*
 
-**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect]]:** The dirt sample is common, though you do find traces of minerals found in a sizable cave system north of the city. You’ll have to search the area to find which specific cave it is though.
+**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect\|Effect]]:** The dirt sample is common, though you do find traces of minerals found in a sizable cave system north of the city. You’ll have to search the area to find which specific cave it is though.
 
 **4/5 Lesser [[1. How to Play/4. Harm, Stress & Trauma/Harm]]:** As you’re gathering the soil, your skin begins to blister. Take level 1 harm “Chemical Burns.” On the plus side, there’s only one place near town that has soil that burns like that. Your target has been hiding in the old factory dumping ground!
 
@@ -37,7 +37,7 @@ You can **Doctor** someone to forcibly administer drugs or handle a hostile pati
 
 **4/5 [[1. How to Play/4. Harm, Stress & Trauma/Harm]]:** The leg feels great but Suhn is barely aware of your presence as you put the splint on. She takes level 2 harm “Drugged.” You might have to **Command** her to get her to move.
 
-**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect]]:** You go to your medkit, but find out that your painkillers would have a bad reaction with the stimulants she takes. You splint her leg up, but if you want to make it back to your ship in any sort of reasonable time, you’ll need to haul her out of here with a **[[2. The Characters/3. Actions/Scramble]]** roll, or she can make a **[[1. How to Play/2. Actions & Attributes/Attributes#Resolve\|Resolve]]** resist to just suck up the pain while she hobbles.
+**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect\|Effect]]:** You go to your medkit, but find out that your painkillers would have a bad reaction with the stimulants she takes. You splint her leg up, but if you want to make it back to your ship in any sort of reasonable time, you’ll need to haul her out of here with a **[[2. The Characters/3. Actions/Scramble]]** roll, or she can make a **[[1. How to Play/2. Actions & Attributes/Attributes#Resolve\|Resolve]]** resist to just suck up the pain while she hobbles.
 
 ## Desperate
 

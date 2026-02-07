@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.392-08:00
-modified: 2026-02-04T18:07:00.934-08:00
+modified: 2026-02-07T11:25:15.990-08:00
 tags:
   - action
 cssclasses: ""
@@ -38,7 +38,7 @@ Research of all kinds (often a long-term project) uses **Study**. Want to find o
 
 **4/5 Complication:** There’s a perfect time when one of the guards brings in cake for his birthday and many of the guards stop in to grab a treat. It takes a bit of time before you get the opening, so I’m going to add two segments to this "Building Locks Down" clock.
 
-**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect]]:** You find the best time to drill, but it’s not much of a window. You’ll have to crack the safe in the five minutes between shifts. How do you get through a foot of metal that quickly?
+**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect\|Effect]]:** You find the best time to drill, but it’s not much of a window. You’ll have to crack the safe in the five minutes between shifts. How do you get through a foot of metal that quickly?
 
 ## Desperate
 

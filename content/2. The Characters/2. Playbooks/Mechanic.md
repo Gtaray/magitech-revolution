@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.403-08:00
-modified: 2026-02-04T18:10:50.244-08:00
+modified: 2026-02-07T13:44:28.208-08:00
 tags:
   - playbook
 cssclasses: ""
@@ -85,7 +85,7 @@ When you spend a **[[1. How to Play/3. Threat Roll/5. Gambits\|gambit]]** on a *
 *You may make a **Rig** roll during a job to simply to get more out of a system, but such temporary boosts are only situational and need to be backed out the next time you hit drydock. You can overclock systems that aren’t ships, enhancing the system’s quality.*
 
 ### Eccentric
-You have as many hobbies as you have ideas. When you make a **[[1. How to Play/3. Threat Roll/1. Threat Roll\|threat roll]]** with 1 or fewer dice, the cost to **[[1. How to Play/3. Threat Roll/2. Push Yourself]]** is **1 [[1. How to Play/4. Harm, Stress & Trauma/Stress]]** (instead of 2).
+You have as many hobbies as you have ideas. When you make a **[[1. How to Play/3. Threat Roll/1. Threat Roll\|threat roll]]** with 1 or fewer dice, the cost to **[[1. How to Play/3. Threat Roll/2. Push Yourself\|Push Yourself]]** is **1 [[1. How to Play/4. Harm, Stress & Trauma/Stress]]** (instead of 2).
 
 *This ability helps shore up your weaker actions, allowing you to more reliably get a good effect or reduce the consequences you suffer.*
 

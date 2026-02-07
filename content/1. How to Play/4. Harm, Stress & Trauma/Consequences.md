@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-28T08:37:42.362-08:00
-modified: 2026-02-04T18:10:22.443-08:00
+modified: 2026-02-07T13:46:46.228-08:00
 tags:
   - rules
 cssclasses: ""
@@ -11,12 +11,12 @@ PCs affect the world around them. When a PC suffers an effect from an **threat**
 
 Enemy actions, bad circumstances, or the outcome of a roll can inflict consequences on a PC. There are five types. A given circumstance might result in one or more consequences, depending on the situation. The GM determines the consequences, following from the fiction and the tone established by the group.
 
-- **Reduced [[1. How to Play/3. Threat Roll/4. Effect]]**
+- **Reduced [[1. How to Play/3. Threat Roll/4. Effect\|Effect]]**
 - **Complication**
 - **Lost Opportunity**
-- **Worse [[1. How to Play/3. Threat Roll/3. Position]]**
+- **Worse [[1. How to Play/3. Threat Roll/3. Position\|Position]]**
 - **[[1. How to Play/4. Harm, Stress & Trauma/Harm]]**
-## Reduced [[1. How to Play/3. Threat Roll/4. Effect]]
+## Reduced [[1. How to Play/3. Threat Roll/4. Effect\|Effect]]
 This consequence represents impaired performance. The PC’s action isn’t as effective as anticipated. *You hit him, but it’s only a flesh wound. She accepts the forged invitation, but she’ll keep her eye on you throughout the night. You’re able to scale the wall, but it’s slow going — you’re only halfway up.* This consequence essentially reduces the effect level of the PC’s action by one after all other factors are accounted for.
 
 ## Complication
@@ -31,7 +31,7 @@ A **serious complication** is more severe: the room catches fire and falling cei
 ## Lost Opportunity
 This consequence represents shifting circumstances. You had an opportunity to achieve your goal with this action, but it slipped away. To try again, you need a new approach—usually a new form of action or a change in circumstances. Maybe you tried to **[[2. The Characters/3. Actions/Scrap]]** with your bounty target to trap her on the balcony, but she evades your maneuver and leaps out of reach to another balcony. If you want to get to her now you’ll have to try another way—maybe by **[[2. The Characters/3. Actions/Scramble\|Scrambling]]** across the gap yourself.
 
-## Worse [[1. How to Play/3. Threat Roll/3. Position]]
+## Worse [[1. How to Play/3. Threat Roll/3. Position\|Position]]
 This consequence represents losing control of the situation—the action carries you into a more dangerous position. Perhaps you make the leap across to the next balcony, only to end up dangling by your fingertips. You haven’t failed, but you haven’t succeeded yet, either. You can try again, re-rolling at the new, worse position. This is a good consequence to choose to show escalating action. A situation might go from controlled, to risky, to desperate as the action plays out and the PC gets deeper and deeper in trouble.
 
 ## [[1. How to Play/4. Harm, Stress & Trauma/Harm]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.384-08:00
-modified: 2026-02-04T18:07:00.929-08:00
+modified: 2026-02-07T11:24:25.041-08:00
 tags:
   - action
 cssclasses: ""
@@ -31,7 +31,7 @@ There is little risk involved when traveling on established trade lanes, however
 
 **4/5 Minor Complication:** You manage to swing around to their rear arc and begin to line up your shots, but you see a squad of gliders depart from their ship, and they're headed your way!
 
-**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect]]:** They're more nimble than you expected. You get your guns in arc, but so are theirs!
+**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect\|Effect]]:** They're more nimble than you expected. You get your guns in arc, but so are theirs!
 
 ## Risky
 
@@ -39,7 +39,7 @@ There is little risk involved when traveling on established trade lanes, however
 
 **4/5 [[1. How to Play/4. Harm, Stress & Trauma/Harm]] and Complication:** You hit hard burn and get in close. Fire sprays across the deck of your ship, igniting the deck and several components, before you impact their ship and begin to drill through their hull. The fire mixed with the ram is too much. Your ship takes two damage to **Hull**, and an engine fire breaks out. Want to resist either of these?
 
-**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect]]:** You move into ram, but you have to pull away at the last moment to avoid a direct spray of fire. Your drill grazes the side of their hull, doing a bit of damage, but not enough to stop them.
+**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect\|Effect]]:** You move into ram, but you have to pull away at the last moment to avoid a direct spray of fire. Your drill grazes the side of their hull, doing a bit of damage, but not enough to stop them.
 
 ## Desperate
 

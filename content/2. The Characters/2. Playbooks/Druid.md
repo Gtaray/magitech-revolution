@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.402-08:00
-modified: 2026-02-04T18:10:50.240-08:00
+modified: 2026-02-07T13:43:08.570-08:00
 tags:
   - playbook
 cssclasses: ""
@@ -90,7 +90,7 @@ Gain **+1 [[1. How to Play/4. Harm, Stress & Trauma/Stress\|stress]]** for each 
 *Such confusions do not persist indefinitely, though those with vague memories will often fill in the missing details with assumptions. "I must’ve checked her license. I always do."*
 
 ### Wild Shape
-When you take animal form, you can **[[1. How to Play/3. Threat Roll/2. Push Yourself]]** to do one of the following:
+When you take animal form, you can **[[1. How to Play/3. Threat Roll/2. Push Yourself\|Push Yourself]]** to do one of the following:
 
 - Attack with dangerous force
 - Move at exceptional speeds, including swimming or flying.

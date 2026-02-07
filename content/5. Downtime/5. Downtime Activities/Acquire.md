@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-28T17:33:34.851-08:00
-modified: 2026-02-04T18:10:12.516-08:00
+modified: 2026-02-07T13:49:58.143-08:00
 tags:
   - downtime
 cssclasses: ""
@@ -12,7 +12,7 @@ Gain temporary items, services, vehicles, or specialists for the crew. Make a **
 
 - Pay **1 [[2. The Characters/4. Rules/Coin\|coin]]** for every level of **Quality** higher than the crew’s Tier.
 - Pay **+1 [[2. The Characters/4. Rules/Coin\|coin]]** for a special feature (hidden compartments, disguised or easily concealable, waterproof, etc.). 
-- If the acquisition is very rare, heavily regulated, restricted, or prohibited, ask the GM how much extra **coin** and/or **[[4. The Job/6. Heat]]** is required to get it, or if you’ll need to acquire it with a **[[4. The Job/1. The Job\|job]]**.
+- If the acquisition is very rare, heavily regulated, restricted, or prohibited, ask the GM how much extra **coin** and/or **[[4. The Job/6. Heat\|heat]]** is required to get it, or if you’ll need to acquire it with a **[[4. The Job/1. The Job\|job]]**.
 
 Generally, the whole crew gains access to what’s acquired, counting each individual member’s usage against the supply clock. 
 

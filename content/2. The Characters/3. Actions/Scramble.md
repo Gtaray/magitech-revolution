@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.387-08:00
-modified: 2026-02-04T18:07:00.931-08:00
+modified: 2026-02-07T11:24:41.672-08:00
 tags:
   - action
 cssclasses: ""
@@ -29,7 +29,7 @@ When a **Scramble** roll goes badly, it’s almost never because the action fail
 
 **4/5 Minor Complication:** You make it up and through the skylights, but you realize the rafters don’t provide much cover. The door to the room is opening. Do you want to hide someplace else?
 
-**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect]]:** You get the roof with time to spare, only to find the skylight’s locked. Perhaps you can **Rig** the latch from out here?
+**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect\|Effect]]:** You get the roof with time to spare, only to find the skylight’s locked. Perhaps you can **Rig** the latch from out here?
 
 ## Risky
 

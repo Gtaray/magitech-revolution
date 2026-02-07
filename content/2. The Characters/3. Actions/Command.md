@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.378-08:00
-modified: 2026-02-04T18:07:00.920-08:00
+modified: 2026-02-07T11:22:28.610-08:00
 tags:
   - action
 cssclasses: ""
@@ -25,15 +25,15 @@ You might be able to **Command** another PC. Ask the player if their character h
 
 > *As the doorman tries to stop me, I give him an icy glare and straighten my coat with my ship insignia on it so he remembers exactly who I am.*
 
-**4/5 Risky [[1. How to Play/3. Threat Roll/3. Position]]:** The bodyguard takes one look at you and flexes his enormously and obviously well-kept body. “I don’t care who you are. Get in line.” Are you going to get into it with him or back off?
+**4/5 Risky [[1. How to Play/3. Threat Roll/3. Position\|Position]]:** The bodyguard takes one look at you and flexes his enormously and obviously well-kept body. “I don’t care who you are. Get in line.” Are you going to get into it with him or back off?
 
-**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect]]:** The doorman holds up a hand and says respectfully. “I’m sorry sir. But if I let you go in without checking for weapons, it’s my job on the line.” If you go in, you’ll be doing it without a sidearm. That okay?
+**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect\|Effect]]:** The doorman holds up a hand and says respectfully. “I’m sorry sir. But if I let you go in without checking for weapons, it’s my job on the line.” If you go in, you’ll be doing it without a sidearm. That okay?
 
 ## Risky
 
 > *I shout at the officer firing at us that we’re licensed bounty hunters and that we need to go after our target!*
 
-**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect]]:** The authorities stop firing for a moment but keep their guns trained on you. “Nobody move! Give us your registration number and we’ll call it in!” This may take a moment. Do you wait for them to run your ID?
+**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect\|Effect]]:** The authorities stop firing for a moment but keep their guns trained on you. “Nobody move! Give us your registration number and we’ll call it in!” This may take a moment. Do you wait for them to run your ID?
 
 **4/5 [[1. How to Play/4. Harm, Stress & Trauma/Harm]]:** A bullet clips you as you stand up and shout at the officers. They immediately stop shooting when you identify yourselves, but you take level 2 harm “Shot” in the process. Do you want to resist that?
 

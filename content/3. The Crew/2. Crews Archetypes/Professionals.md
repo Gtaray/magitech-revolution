@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.419-08:00
-modified: 2026-02-04T18:10:12.553-08:00
+modified: 2026-02-07T13:50:47.833-08:00
 tags:
   - crewtype
 cssclasses: ""
@@ -19,7 +19,7 @@ Whatever your means, yours is the promise of violence, and you are paid well for
 
 # Special Abilities
 ### Licensed
-Take **-2 [[4. The Job/6. Heat]]** on any legitimate military job. Your ship can be outfitted with most weapons that are normally illegal, and your crew can carry and legally use military magitech while employed by the government.
+Take **-2 [[4. The Job/6. Heat\|Heat]]** on any legitimate military job. Your ship can be outfitted with most weapons that are normally illegal, and your crew can carry and legally use military magitech while employed by the government.
 
 *This also means that you carry mercenary licenses. Sometimes this can be leveraged to explain being places you generally shouldn’t be, and carry weapons when others may be stripped of them. Law cooperation varies from region to region.*
 

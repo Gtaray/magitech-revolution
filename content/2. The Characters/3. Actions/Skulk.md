@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.390-08:00
-modified: 2026-02-04T18:07:00.933-08:00
+modified: 2026-02-07T11:25:07.674-08:00
 tags:
   - action
 cssclasses: ""
@@ -25,17 +25,17 @@ When a **Skulk** roll goes awry, it doesn’t always end catastrophically. Inste
 
 > *I sneak up behind the guard and put him into a choke hold, real quiet-like.*
 
-**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect]]:** His knees buckle, but he pulls hard on your arm, creating space to breathe. He kicks against the wall and tries to wrestle out of your hold. He hasn’t had a chance to yell, but you don’t have him under control. What do you do?
+**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect\|Effect]]:** His knees buckle, but he pulls hard on your arm, creating space to breathe. He kicks against the wall and tries to wrestle out of your hold. He hasn’t had a chance to yell, but you don’t have him under control. What do you do?
 
-**4/5 Risky [[1. How to Play/3. Threat Roll/3. Position]]:** You pull off the choke hold and drag your target into the shadows with you. That’s when his comm crackles to life. “Rico, report in,” an anonymous guard says on the other end of the comms. “Rico?” What do you do?
+**4/5 Risky [[1. How to Play/3. Threat Roll/3. Position\|Position]]:** You pull off the choke hold and drag your target into the shadows with you. That’s when his comm crackles to life. “Rico, report in,” an anonymous guard says on the other end of the comms. “Rico?” What do you do?
 
 ## Risky
 
 > *I move through the crowd, following the bounty hunter, blending in with people going about their day.*
 
-**4/5 Complication and Reduced [[1. How to Play/3. Threat Roll/4. Effect]]:** You follow the bounty hunter down into an alley, where he’s meeting with a shadowy agent. You can’t tell exactly what faction is on the other side without going into the alley and possibly getting spotted. Things seem to be getting tense and you hear the hunter bellow out “I did the job, now pay up!” as he draws his pistol. What do you do?
+**4/5 Complication and Reduced [[1. How to Play/3. Threat Roll/4. Effect\|Effect]]:** You follow the bounty hunter down into an alley, where he’s meeting with a shadowy agent. You can’t tell exactly what faction is on the other side without going into the alley and possibly getting spotted. Things seem to be getting tense and you hear the hunter bellow out “I did the job, now pay up!” as he draws his pistol. What do you do?
 
-**1-3 Desperate [[1. How to Play/3. Threat Roll/3. Position]]:** You almost catch him as he makes a fast right. You come around the alleyway and realize he’s gone. That’s when you hear the low whistle. You see him hanging from a grappling line above you, rifle pointed at you. What do you do?
+**1-3 Desperate [[1. How to Play/3. Threat Roll/3. Position\|Position]]:** You almost catch him as he makes a fast right. You come around the alleyway and realize he’s gone. That’s when you hear the low whistle. You see him hanging from a grappling line above you, rifle pointed at you. What do you do?
 
 ## Desperate
 

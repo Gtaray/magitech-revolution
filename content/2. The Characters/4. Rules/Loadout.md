@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.375-08:00
-modified: 2026-02-04T18:48:37.956-08:00
+modified: 2026-02-07T11:27:08.698-08:00
 tags:
   - rules
 cssclasses: ""
@@ -44,7 +44,7 @@ This is common gear that anyone aboard an airship could have access to. For exam
 - **Parachute (2 Load).** Some wind riders consider this a luxury, some consider it essential. No matter your position, it's certainly a lifesaver when everything goes wrong.
 
 ## Devil's in the Details
-If you want to include advantages from specific details of your items—reach, speed, adaptability, etc.—consider a **[[1. How to Play/7. Devil's Bargain]]** that relates to a detail. Usually these bargains are suggested by the GM, but any player can suggest them! If both you and the GM agree, then you can take the extra die.
+If you want to include advantages from specific details of your items—reach, speed, adaptability, etc.—consider a **[[1. How to Play/7. Devil's Bargain\|Devil's Bargain]]** that relates to a detail. Usually these bargains are suggested by the GM, but any player can suggest them! If both you and the GM agree, then you can take the extra die.
 
 *“Can I take +1d here to Command by flashing my detonator? People will see it and go streaming out into the streets in a panic.”*
 

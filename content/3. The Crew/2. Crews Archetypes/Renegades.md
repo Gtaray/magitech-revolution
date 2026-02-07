@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.420-08:00
-modified: 2026-02-04T18:11:11.241-08:00
+modified: 2026-02-07T13:52:09.381-08:00
 tags:
   - crewtype
 cssclasses: ""
@@ -22,7 +22,7 @@ When you’re at [[6. Factions/3. Faction Status#Faction Status Levels\|War (-3)
 *Rolling one fewer die means you're less likely to overindulge.*
 
 ### Forged in Fire
-Your crew has been toughened by cruel experience. When you **[[1. How to Play/3. Threat Roll/2. Push Yourself]]** to avoid or reduce consequences, you each get **+1d**.
+Your crew has been toughened by cruel experience. When you **[[1. How to Play/3. Threat Roll/2. Push Yourself\|Push Yourself]]** to avoid or reduce consequences, you each get **+1d**.
 
 *This ability applies to all the PCs in the crew.*
 
@@ -37,7 +37,7 @@ When you run a job against government factions, take **+1d** to the **[[4. The J
 *This applies to any job where your primary target is one of the major government factions. If the job inconveniences a faction but doesn’t involve their members, the bonus does not apply.*
 
 ### Spark of Rebellion
-If you leave a calling card or a highly visible symbol of resistance on your job, gain **+2 [[4. The Job/6. Heat]]**. Ignore up to **2 [[2. The Characters/4. Rules/Coin]]** you would spend during the next **[[5. Downtime/1. Downtime]]**, as your sympathizers cover some of your expenses.
+If you leave a calling card or a highly visible symbol of resistance on your job, gain **+2 [[4. The Job/6. Heat\|Heat]]**. Ignore up to **2 [[2. The Characters/4. Rules/Coin]]** you would spend during the next **[[5. Downtime/1. Downtime]]**, as your sympathizers cover some of your expenses.
 
 *When you take this ability, discuss what the symbol of your rebellion is. When you leave behind your calling card, it should be prominent or sure to be found.*
 

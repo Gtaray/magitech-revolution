@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-01-28T17:33:38.826-08:00
-modified: 2026-02-04T18:10:22.442-08:00
+modified: 2026-02-07T13:52:38.521-08:00
 tags:
   - downtime
 cssclasses: ""
 ---
 
 
-Accomplish a **project** or work a **side job** to earn **1 [[2. The Characters/4. Rules/Coin\|coin]]**. Ask the GM if you can charge more (especially if you work for a wealthy client) or gain some other benefit instead of coin (like earning a favor, reducing **[[4. The Job/6. Heat]]**, etc.).
+Accomplish a **project** or work a **side job** to earn **1 [[2. The Characters/4. Rules/Coin\|coin]]**. Ask the GM if you can charge more (especially if you work for a wealthy client) or gain some other benefit instead of coin (like earning a favor, reducing **[[4. The Job/6. Heat\|Heat]]**, etc.).
 
 Note: this game is about rogues doing crime, not having regular jobs, so consider limiting side jobs to one per PC during [[5. Downtime/1. Downtime\|downtime]]. 
 
@@ -20,7 +20,7 @@ For a **long-term project**, make a **[[1. How to Play/1. The Basics/3. Progress
 To create something that doesn't require a progress clock, consider **[[5. Downtime/5. Downtime Activities/Craft\|crafting]]** it.
 
 # Lowering Wanted Level
-Since **[[4. The Job/6. Heat]]** reduction is handled immediately following a score, the former "Lay Low" downtime activity has been rolled into this downtime activity. The standard way of lowering your **[[4. The Job/6. Heat#Wanted Level\|Wanted Level]]** in a region is by doing [[4. The Job/6. Heat#Wanted Level\|jail time]]. But that's not ideal, so an alternative is to **Work** on a scheme to clear your **Wanted Level**.
+Since **[[4. The Job/6. Heat\|Heat]]** reduction is handled immediately following a score, the former "Lay Low" downtime activity has been rolled into this downtime activity. The standard way of lowering your **[[4. The Job/6. Heat#Wanted Level\|Wanted Level]]** in a region is by doing [[4. The Job/6. Heat#Wanted Level\|jail time]]. But that's not ideal, so an alternative is to **Work** on a scheme to clear your **Wanted Level**.
 
 These schemes can be a combination of **Long-Term Projects**, **Side Jobs**, and potentially culminate in a **[[4. The Job/1. The Job\|job]]** to pull it all together.
 

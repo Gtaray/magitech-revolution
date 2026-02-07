@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.389-08:00
-modified: 2026-02-04T18:07:00.941-08:00
+modified: 2026-02-07T11:24:49.846-08:00
 tags:
   - action
 cssclasses: ""
@@ -41,7 +41,7 @@ If you fight alongside your cohorts in battle, you **Scrap**. If you direct them
 
 > *When the guard reaches for me, I want to put him in a wrist lock and push him up against the wall.*
 
-**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect]]:** You grab his wrist, but he twirls with your twist, going for a kick. You have his hand but he’s not pinned. What do you do?
+**4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect\|Effect]]:** You grab his wrist, but he twirls with your twist, going for a kick. You have his hand but he’s not pinned. What do you do?
 
 ## Desperate
 
