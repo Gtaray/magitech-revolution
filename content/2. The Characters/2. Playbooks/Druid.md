@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.402-08:00
-modified: 2026-02-07T13:43:08.570-08:00
+modified: 2026-02-11T14:51:35.097-08:00
 tags:
   - playbook
 cssclasses: ""
@@ -50,7 +50,7 @@ You can spend a **[[1. How to Play/3. Threat Roll/5. Gambits\|gambit]]** instead
 ### Animal Companion
 Gain an animal companion cohort, and select its expertise (fighting, scouting, tracking, etc.). This companion obeys your commands and anticipates your actions.
 
-The animal companion has **quality** equal to your [[3. The Crew/5. Crew Quality]] +1. Their [[1. How to Play/3. Threat Roll/4. Effect#Scale\|scale]] is always zero (1 person).
+The animal companion has **quality** equal to your [[3. The Crew/5. Crew Quality\|Crew Quality]] +1. Their [[1. How to Play/3. Threat Roll/4. Effect#Scale\|scale]] is always zero (1 person).
 
 *Your animal companion is not tamed. It is a wild beast with whom you have a mutually respectful friendship. Does it accept your crewmates or barely tolerate them?*
 
