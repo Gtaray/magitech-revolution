@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.406-08:00
-modified: 2026-02-05T08:47:19.421-08:00
+modified: 2026-02-11T15:28:31.959-08:00
 tags:
   - playbook
 cssclasses: ""
@@ -66,7 +66,7 @@ You have sharp eyes and notice small details many might overlook. Gain **+1d** w
 *This can be used as a basis for resistance rolls to act first. “No, I want to act before him—I would’ve seen him reaching for the gun.” Also, trick shots can be performed with almost any kind of ranged weapon, not just ship weapons.*
 
 ### Leaf of the Wind
-When you **[[1. How to Play/3. Threat Roll/2. Push Yourself\|push yourself]]** to **[[1. How to Play/3. Threat Roll/2. Push Yourself#Resistance Roll\|resist]]** a threat, you may spend **+1 [[1. How to Play/4. Harm, Stress & Trauma/Stress]]** to increase the **[[1. How to Play/3. Threat Roll/4. Effect\|effect]]** of the **[[1. How to Play/3. Threat Roll/1. Threat Roll]]**.
+When you **[[1. How to Play/3. Threat Roll/2. Push Yourself\|push yourself]]** to **[[1. How to Play/3. Threat Roll/2. Push Yourself#Resistance Roll\|resist]]** a threat, you may spend **+1 [[1. How to Play/4. Harm, Stress & Trauma/Stress]]** to increase the **[[1. How to Play/3. Threat Roll/4. Effect\|effect]]** of the **[[1. How to Play/3. Threat Roll/1. Threat Roll\|Threat Roll]]**.
 
 *Normally it takes two separate pushes to achieve the same effect. This can be used on any roll.*
 
