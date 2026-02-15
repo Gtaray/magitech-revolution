@@ -17,12 +17,12 @@ This game will definitely stretch into science fantasy rather than your normal h
 # Latest Updates
 | File                                                                                | Modified               |
 | ----------------------------------------------------------------------------------- | ---------------------- |
+| [[2. The Characters/5. Character Advancement\|5. Character Advancement]]         | Feb 14, 2026, 7:53 PM  |
 | [[1. How to Play/3. Threat Roll/1. Threat Roll\|1. Threat Roll]]                 | Feb 14, 2026, 10:05 AM |
 | [[Untitled\|Untitled]]                                                           | Feb 12, 2026, 11:30 AM |
 | [[2. The Characters/2. Playbooks/Pilot\|Pilot]]                                  | Feb 11, 2026, 3:28 PM  |
 | [[2. The Characters/2. Playbooks/Druid\|Druid]]                                  | Feb 11, 2026, 2:51 PM  |
 | [[5. Downtime/4. Downtime Activities\|4. Downtime Activities]]                   | Feb 10, 2026, 7:28 AM  |
-| [[2. The Characters/5. Character Advancement\|5. Character Advancement]]         | Feb 9, 2026, 3:27 PM   |
 | [[7. Duradin/3. Territories/Sodel Adin (Shield Wall)\|Sodel Adin (Shield Wall)]] | Feb 7, 2026, 3:07 PM   |
 
 ## A Note on AI
