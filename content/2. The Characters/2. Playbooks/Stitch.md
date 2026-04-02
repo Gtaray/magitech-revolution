@@ -1,11 +1,13 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.410-08:00
-modified: 2026-02-07T13:45:24.015-08:00
+modified: 2026-02-18T14:00:40.607-08:00
 tags:
   - playbook
 cssclasses: ""
 ---
+
+# A healer or scientist
 
 Respected across the region, the skills to heal is one of the most valuable out on the marches. Properly trained physicians are, if not welcomed, at least treated well. For crews that tend to take a few injuries, a Stitch capable of knitting bones and patching bullet wounds is always a welcome addition.
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.424-08:00
-modified: 2026-02-04T18:09:34.532-08:00
+modified: 2026-03-25T09:00:58.648-07:00
 tags:
   - airshiptype
 cssclasses: ""
@@ -14,6 +14,7 @@ She has the most potential **Hull** of the starting ships, and thus the potentia
 This airship starts with a **Hover Module**, **Crew Quarters**, and **Mining Lance** installed, as well as the **Galley** upgrade.
 
 # Ship Qualities
+- **Size:** [[3. The Crew/3. Airships/Ship Sizes\|Large]]
 - **Crew Quality**: 0/3
 - **Hull**: 1/4
 - **Engines**: 1/2

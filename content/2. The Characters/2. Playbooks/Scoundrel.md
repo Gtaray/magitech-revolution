@@ -1,11 +1,13 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.407-08:00
-modified: 2026-02-04T18:10:22.449-08:00
+modified: 2026-02-18T14:00:23.207-08:00
 tags:
   - playbook
 cssclasses: ""
 ---
+
+# A scrappy and lucky survivor
 
 Neither the most reputable nor the one to choose the safe route, you’re a smooth-talking criminal and luck is just one of your many skills. You might be a charming rogue out for themselves. You might be the convict on the run who always has a trick up their sleeve. But while it’s true that anyone in [[8. Glossary/Khett]] can get into trouble, you always get into the very best kind.
 

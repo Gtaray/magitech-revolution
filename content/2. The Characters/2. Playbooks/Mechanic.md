@@ -1,11 +1,13 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.403-08:00
-modified: 2026-02-07T13:44:28.208-08:00
+modified: 2026-02-25T13:58:15.157-08:00
 tags:
   - playbook
 cssclasses: ""
 ---
+
+# A gearhead and techno-mage
 
 Whether it's fixing up the airship's engines or constructing a specialized hexcracker to break into a magically protected vault, a mechanic is an invaluable asset on most jobs. You might be the mousy one who has all the fancy toys, or more hands-on, lugging your gear to the job. Or you might prefer to literally make friends and specialize in construct creation. When something breaks, you're the one to call.
 
@@ -46,7 +48,7 @@ When you work on a clock with **[[2. The Characters/3. Actions/Rig]]** or **[[2.
 
 ## Special Abilities
 ### White Mage
-When you **[[1. How to Play/3. Threat Roll/2. Push Yourself\|resist]]** a magical effect, you can choose to either suffer one less stress, or allow a cremate to **resist** the magical effect as well. You have **[[1. How to Play/3. Threat Roll/4. Effect#Potency\|potency]]** when you **[[1. How to Play/8. Gathering Information\|gather info]]** on a magical effect or spell.
+When you **[[1. How to Play/3. Threat Roll/2. Push Yourself\|resist]]** a magical effect, you can choose to either suffer one less stress, or allow a crewmate to **resist** the magical effect as well. You have **[[1. How to Play/3. Threat Roll/4. Effect#Potency\|potency]]** when you **[[1. How to Play/8. Gathering Information\|gather info]]** on a magical effect or spell.
 
 *You're always aware of the dangers magical systems could pose, and are always looking for ways to keep yourself and your crew safe. How does this manifest? Is it innate, or a honed skill?*
 

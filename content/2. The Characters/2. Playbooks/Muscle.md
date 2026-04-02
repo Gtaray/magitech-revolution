@@ -1,11 +1,13 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.405-08:00
-modified: 2026-02-07T13:50:31.190-08:00
+modified: 2026-02-18T13:59:56.803-08:00
 tags:
   - playbook
 cssclasses: ""
 ---
+
+# A dangerous and intimidating fighter
 
 Most crews have one. The [[8. Glossary/Khett\|Khettish]] marches aren't always a safe place, and when negotiations and slick words fail, it’s time for swords, ship cannons, and close, swift violence. You are the crew’s ability to apply force. Your presence dissuades drawn weapons and your strength ends violent conversations. You can be a protector, enforcer, boarder, or quiet threat on the back burner. But you cannot be ignored.
 

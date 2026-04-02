@@ -1,11 +1,13 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.409-08:00
-modified: 2026-02-07T13:51:46.589-08:00
+modified: 2026-03-21T20:33:13.929-07:00
 tags:
   - playbook
 cssclasses: ""
 ---
+
+# A respectable person on the take
 
 Leave the blatant crimes to the rest of the crew. Your forte is the sophistication of polite society and the connections you leverage to get ahead of your next job before you even start. You open doors that might stay closed to the crew, and know just how to talk to powerful people. When things go south, you have a plan or a friend who might help. And afterwards, you know who can smooth things out and keep things under wraps.
 
@@ -41,7 +43,7 @@ For Veteran abilities, consider the [[2. The Characters/2. Playbooks/Stitch\|Sti
 ## Starting Ability
 ### Air of Respectability
 
-You can an extra **[[5. Downtime/4. Downtime Activities\|downtime activity]]** to **[[5. Downtime/5. Downtime Activities/Acquire]]** or **[[5. Downtime/5. Downtime Activities/Work]]** a side job.
+You gain an extra **[[5. Downtime/4. Downtime Activities\|downtime activity]]** to **[[5. Downtime/5. Downtime Activities/Acquire]]** or **[[5. Downtime/5. Downtime Activities/Work]]** a side job.
 
 *Your connections give you a continuous stream of material and people that you can use to smooth things over after your escapades.*
 

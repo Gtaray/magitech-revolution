@@ -1,11 +1,13 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.402-08:00
-modified: 2026-02-11T14:51:35.097-08:00
+modified: 2026-02-18T13:59:34.292-08:00
 tags:
   - playbook
 cssclasses: ""
 ---
+
+# A wanderer in touch with the land
 
 While your powers make you a force to be reckoned with in [[8. Glossary/Khett]], far more important is your ability to understand and deal with the natural magics and all things tied to it. From handling ancient artifacts to calming beasts in the deep wilderness, a Druid makes life on the steppes substantially safer.
 

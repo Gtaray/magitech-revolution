@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.426-08:00
-modified: 2026-02-04T18:09:34.533-08:00
+modified: 2026-03-25T09:01:05.297-07:00
 tags:
   - airshiptype
 cssclasses: ""
@@ -14,6 +14,7 @@ She has the most potential **Engine** of the starting airships, which means she 
 This airship starts with a **Cargo Hold**, **Afterburners**, and **Environment Stabilizer** installed, as well as the **Drop Hatch** upgrade.
 
 # Ship Qualities
+- **Size:** [[3. The Crew/3. Airships/Ship Sizes\|Large]]
 - **Crew Quality**: 0/3
 - **Hull**: 1/3
 - **Engines**: 1/4

@@ -1,11 +1,13 @@
 ---
 publish: true
 created: 2026-01-27T18:18:52.406-08:00
-modified: 2026-02-11T15:28:31.959-08:00
+modified: 2026-02-26T12:29:05.540-08:00
 tags:
   - playbook
 cssclasses: ""
 ---
+
+# A skyship wizard and danger addict
 
 You are the crew’s speed demon and "get out of trouble" card. When the chips are down and the [[6. Factions/4. Industrialists/21st Squadron\|Squadron]] is on your tail, there’s nobody else they’d rather turn to. There’s no [[8. Glossary/Airship\|skyship]] you can’t overdrive, no canyon or storm you can’t navigate through. You might be a hot-rodding show-off or calm and cool behind the helm. You might take desperate risks or thrive when everything is on the line. But you’re always ahead of the pack.
 
@@ -66,7 +68,7 @@ You have sharp eyes and notice small details many might overlook. Gain **+1d** w
 *This can be used as a basis for resistance rolls to act first. “No, I want to act before him—I would’ve seen him reaching for the gun.” Also, trick shots can be performed with almost any kind of ranged weapon, not just ship weapons.*
 
 ### Leaf of the Wind
-When you **[[1. How to Play/3. Threat Roll/2. Push Yourself\|push yourself]]** to **[[1. How to Play/3. Threat Roll/2. Push Yourself#Resistance Roll\|resist]]** a threat, you may spend **+1 [[1. How to Play/4. Harm, Stress & Trauma/Stress]]** to increase the **[[1. How to Play/3. Threat Roll/4. Effect\|effect]]** of the **[[1. How to Play/3. Threat Roll/1. Threat Roll\|Threat Roll]]**.
+When you **[[1. How to Play/3. Threat Roll/2. Push Yourself\|push yourself]]** to **[[1. How to Play/3. Threat Roll/2. Push Yourself#Resistance Roll\|resist]]** a threat, you may gain **+1 [[1. How to Play/4. Harm, Stress & Trauma/Stress]]** to increase the **[[1. How to Play/3. Threat Roll/4. Effect\|effect]]** of the **[[1. How to Play/3. Threat Roll/1. Threat Roll\|Threat Roll]]**.
 
 *Normally it takes two separate pushes to achieve the same effect. This can be used on any roll.*
 
@@ -92,9 +94,9 @@ Small, but mechanized. Can pull you up. Fits in your belt. **\[1 Load\]**
 *Makes you look dashing when you swing to the rescue. When did it last break?* 
 
 ### Guild License
-A simple weapon (often a cudgel or walking stick) that has been masterfully worked. In the age of high magic and firearms, this might seem antiquated, but it is a humble, honest weapon. **\[1 Load\]**
+Legit pilot certification (though it may not be yours). Will allow you passage across most borders. **\[1 Load\]**
 
-*Who made this weapon? What training have you had with it? Does it hold sentimental value?*
+*How did you get yours?*
 
 ### [[2. The Characters/4. Rules/Loadout#Quality\|Masterwork]] Homunculus
 A small homunculus that supports piloting and can carry a few items. Seems eerily sentient, though cannot communicate in a traditional sense. **\[2 Load\]**
@@ -102,7 +104,7 @@ A small homunculus that supports piloting and can carry a few items. Seems eeril
 *Homunculi are supposed to have their personalities wiped about once a year. How long has it been since you've had yours taken to the Guild for such a procedure? What is its designation and what personality quirks does it have? What does it look like, and how does it help you pilot?*
 
 ### [[2. The Characters/4. Rules/Loadout#Quality\|Masterwork]] Jumpsuit
-Sweet decals, emergency beacon, glide wings. Helps you survive getting shot down. Lets you move about a bit while falling and maybe even extends jumps from great heights. **\[1 Load\]**
+Sweet decals, emergency beacon, glide wings. Helps you survive getting shot down. Lets you move about a bit while falling and maybe even extends jumps from great heights. **\[2 Load\]**
 
 *What patches or custom artwork do you have on yours, and what does it mean?*
 

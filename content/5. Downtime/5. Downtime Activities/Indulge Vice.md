@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-28T17:10:00.351-08:00
-modified: 2026-02-07T13:50:11.291-08:00
+modified: 2026-04-02T12:33:41.538-07:00
 tags:
   - downtime
 cssclasses: ""
@@ -29,6 +29,7 @@ When you overindulge, you make a bad call because of your vice — in acquiring 
 | **4** | **Attract Trouble:** Face an **[[5. Downtime/3. Entanglements\|entanglement]]**.                                             |
 | **5** | **Tapped:** Your purveyor cuts you off. Find a new one.                                                          |
 | **6** | **Wasted:** Your vice costs a downtime activity.                                                                 |
+
 Alternately, you may choose to have your character voluntarily “lost in their vice” during a game session, allowing them to indulge off-camera while you play a different PC. A gang member, friend, someone on board the ship at the time, or a contact of the crew might be a good alternate character to play, thus fleshing out the landscape of PCs.
 
 ## Roleplaying & XP
