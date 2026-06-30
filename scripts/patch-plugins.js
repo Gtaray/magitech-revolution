@@ -45,6 +45,16 @@ const BREADCRUMBS_DIST_COMPONENT_PATH = path.join(
   ".quartz/plugins/breadcrumbs/dist/components/index.js"
 );
 
+const BACKLINKS_COMPONENT_PATH = path.join(
+  path.dirname(__dirname),
+  ".quartz/plugins/backlinks/src/components/Backlinks.tsx"
+);
+
+const BACKLINKS_DIST_COMPONENT_PATH = path.join(
+  path.dirname(__dirname),
+  ".quartz/plugins/backlinks/dist/components/index.js"
+);
+
 /**
  * Patch the Explorer component to strip numeric prefixes
  */
@@ -235,6 +245,70 @@ function patchBreadcrumbs() {
 }
 
 /**
+ * Patch the Backlinks component to strip numeric prefixes
+ */
+function patchBacklinks() {
+  if (!fs.existsSync(BACKLINKS_COMPONENT_PATH)) {
+    console.log("⚠️  Backlinks plugin source not found, skipping patch");
+  } else {
+    let content = fs.readFileSync(BACKLINKS_COMPONENT_PATH, "utf-8");
+    let changed = false;
+
+    if (!content.includes("function stripNumericPrefix(text: string): string")) {
+      content = content.replace(
+        "const defaultOptions: BacklinksOptions = {\n  hideWhenEmpty: true,\n};",
+        "const defaultOptions: BacklinksOptions = {\n  hideWhenEmpty: true,\n};\n\nfunction stripNumericPrefix(text: string): string {\n  return text.replace(/^\\d+\\.\\s+/, \"\");\n}",
+      );
+      changed = true;
+    }
+
+    const sourceOld = "{f.frontmatter?.title}";
+    const sourceNew = '{f.frontmatter?.title ? stripNumericPrefix(f.frontmatter.title) : ""}';
+    if (content.includes(sourceOld)) {
+      content = content.replace(sourceOld, sourceNew);
+      changed = true;
+    }
+
+    if (changed) {
+      fs.writeFileSync(BACKLINKS_COMPONENT_PATH, content, "utf-8");
+      console.log("✓ Backlinks source patched successfully");
+    } else {
+      console.log("✓ Backlinks source already patched");
+    }
+  }
+
+  if (!fs.existsSync(BACKLINKS_DIST_COMPONENT_PATH)) {
+    console.log("⚠️  Backlinks plugin dist not found, skipping patch");
+    return;
+  }
+
+  let distContent = fs.readFileSync(BACKLINKS_DIST_COMPONENT_PATH, "utf-8");
+  let distChanged = false;
+
+  if (!distContent.includes("function stripNumericPrefix(text)")) {
+    distContent = distContent.replace(
+      "var defaultOptions = {\n  hideWhenEmpty: true\n};",
+      "var defaultOptions = {\n  hideWhenEmpty: true\n};\nfunction stripNumericPrefix(text) {\n  return text.replace(/^\\d+\\.\\s+/, \"\");\n}",
+    );
+    distChanged = true;
+  }
+
+  const distOld = "children: f3.frontmatter?.title";
+  const distNew = 'children: f3.frontmatter?.title ? stripNumericPrefix(f3.frontmatter.title) : ""';
+  if (distContent.includes(distOld)) {
+    distContent = distContent.replace(distOld, distNew);
+    distChanged = true;
+  }
+
+  if (distChanged) {
+    fs.writeFileSync(BACKLINKS_DIST_COMPONENT_PATH, distContent, "utf-8");
+    console.log("✓ Backlinks dist patched successfully");
+  } else {
+    console.log("✓ Backlinks dist already patched");
+  }
+}
+
+/**
  * Main execution
  */
 function main() {
@@ -242,6 +316,7 @@ function main() {
   patchExplorer();
   patchArticleTitle();
   patchBreadcrumbs();
+  patchBacklinks();
   console.log("\n✅ Plugin patching complete");
 }
 
