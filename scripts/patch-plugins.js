@@ -25,6 +25,11 @@ const EXPLORER_DIST_COMPONENT_PATH = path.join(
   ".quartz/plugins/explorer/dist/components/index.js"
 );
 
+const EXPLORER_INLINE_SCRIPT_PATH = path.join(
+  path.dirname(__dirname),
+  ".quartz/plugins/explorer/src/components/scripts/explorer.inline.ts"
+);
+
 const ARTICLE_TITLE_COMPONENT_PATH = path.join(
   path.dirname(__dirname),
   ".quartz/plugins/article-title/src/components/ArticleTitle.tsx"
@@ -86,11 +91,38 @@ function patchExplorer() {
     return;
   }
 
+  if (!fs.existsSync(EXPLORER_INLINE_SCRIPT_PATH)) {
+    console.log("⚠️  Explorer inline script source not found, skipping patch");
+  } else {
+    let inlineContent = fs.readFileSync(EXPLORER_INLINE_SCRIPT_PATH, "utf-8");
+    const oldInlineOrder = `if (filterFn) trie.filter(filterFn);
+  if (mapFn) trie.map(mapFn);
+  if (sortFn) trie.sort(sortFn);`;
+    const newInlineOrder = `if (filterFn) trie.filter(filterFn);
+  if (sortFn) trie.sort(sortFn);
+  if (mapFn) trie.map(mapFn);`;
+
+    if (inlineContent.includes(oldInlineOrder)) {
+      inlineContent = inlineContent.replace(oldInlineOrder, newInlineOrder);
+      fs.writeFileSync(EXPLORER_INLINE_SCRIPT_PATH, inlineContent, "utf-8");
+      console.log("✓ Explorer inline source patched successfully");
+    } else {
+      console.log("✓ Explorer inline source already patched");
+    }
+  }
+
   let distContent = fs.readFileSync(EXPLORER_DIST_COMPONENT_PATH, "utf-8");
   let distChanged = false;
 
   if (distContent.includes('order: ["filter", "map", "sort"]')) {
     distContent = distContent.replace('order: ["filter", "map", "sort"]', 'order: ["filter", "sort", "map"]');
+    distChanged = true;
+  }
+
+  const oldDistInlineOrder = "function j(u,e,D,F){return D&&u.filter(D),F&&u.map(F),e&&u.sort(e),u}";
+  const newDistInlineOrder = "function j(u,e,D,F){return D&&u.filter(D),e&&u.sort(e),F&&u.map(F),u}";
+  if (distContent.includes(oldDistInlineOrder)) {
+    distContent = distContent.replace(oldDistInlineOrder, newDistInlineOrder);
     distChanged = true;
   }
 
