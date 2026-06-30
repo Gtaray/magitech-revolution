@@ -20,9 +20,24 @@ const EXPLORER_COMPONENT_PATH = path.join(
   ".quartz/plugins/explorer/src/components/Explorer.tsx"
 );
 
+const EXPLORER_DIST_COMPONENT_PATH = path.join(
+  path.dirname(__dirname),
+  ".quartz/plugins/explorer/dist/components/index.js"
+);
+
 const ARTICLE_TITLE_COMPONENT_PATH = path.join(
   path.dirname(__dirname),
   ".quartz/plugins/article-title/src/components/ArticleTitle.tsx"
+);
+
+const BREADCRUMBS_COMPONENT_PATH = path.join(
+  path.dirname(__dirname),
+  ".quartz/plugins/breadcrumbs/src/components/Breadcrumbs.tsx"
+);
+
+const BREADCRUMBS_DIST_COMPONENT_PATH = path.join(
+  path.dirname(__dirname),
+  ".quartz/plugins/breadcrumbs/dist/components/index.js"
 );
 
 /**
@@ -31,12 +46,12 @@ const ARTICLE_TITLE_COMPONENT_PATH = path.join(
 function patchExplorer() {
   if (!fs.existsSync(EXPLORER_COMPONENT_PATH)) {
     console.log("⚠️  Explorer plugin not found, skipping patch");
-    return;
-  }
+  } else {
+    let content = fs.readFileSync(EXPLORER_COMPONENT_PATH, "utf-8");
+    let changed = false;
 
-  let content = fs.readFileSync(EXPLORER_COMPONENT_PATH, "utf-8");
-
-  const mapFnPatch = `mapFn: (node: FileTrieNode) => {
+    const originalMapFn = /mapFn:\s*\(node:\s*FileTrieNode\)\s*=>\s*node,/;
+    const mapFnPatch = `mapFn: (node: FileTrieNode) => {
       // Strip numbered prefixes like "1. ", "2. " from display names
       if (node.displayName) {
         node.displayName = node.displayName.replace(/^\\d+\\.\\s+/, "")
@@ -44,20 +59,46 @@ function patchExplorer() {
       return node;
     },`;
 
-  // Check if patch is already applied
-  if (content.includes('node.displayName.replace(/^\\d+\\.\\s+/')) {
-    console.log("✓ Explorer plugin already patched");
+    if (!content.includes('node.displayName.replace(/^\\d+\\.\\s+/')) {
+      if (originalMapFn.test(content)) {
+        content = content.replace(originalMapFn, mapFnPatch);
+        changed = true;
+      } else {
+        console.log("⚠️  Could not find mapFn in Explorer source, patch may need manual application");
+      }
+    }
+
+    if (content.includes('order: ["filter", "map", "sort"],')) {
+      content = content.replace('order: ["filter", "map", "sort"],', 'order: ["filter", "sort", "map"],');
+      changed = true;
+    }
+
+    if (changed) {
+      fs.writeFileSync(EXPLORER_COMPONENT_PATH, content, "utf-8");
+      console.log("✓ Explorer source patched successfully");
+    } else {
+      console.log("✓ Explorer source already patched");
+    }
+  }
+
+  if (!fs.existsSync(EXPLORER_DIST_COMPONENT_PATH)) {
+    console.log("⚠️  Explorer plugin dist not found, skipping patch");
     return;
   }
 
-  // Find the default mapFn line and replace it
-  const originalMapFn = /mapFn:\s*\(node:\s*FileTrieNode\)\s*=>\s*node,/;
-  if (originalMapFn.test(content)) {
-    content = content.replace(originalMapFn, mapFnPatch);
-    fs.writeFileSync(EXPLORER_COMPONENT_PATH, content, "utf-8");
-    console.log("✓ Explorer plugin patched successfully");
+  let distContent = fs.readFileSync(EXPLORER_DIST_COMPONENT_PATH, "utf-8");
+  let distChanged = false;
+
+  if (distContent.includes('order: ["filter", "map", "sort"]')) {
+    distContent = distContent.replace('order: ["filter", "map", "sort"]', 'order: ["filter", "sort", "map"]');
+    distChanged = true;
+  }
+
+  if (distChanged) {
+    fs.writeFileSync(EXPLORER_DIST_COMPONENT_PATH, distContent, "utf-8");
+    console.log("✓ Explorer dist patched successfully");
   } else {
-    console.log("⚠️  Could not find mapFn in Explorer component, patch may need manual application");
+    console.log("✓ Explorer dist already patched");
   }
 }
 
@@ -99,12 +140,76 @@ function patchArticleTitle() {
 }
 
 /**
+ * Patch the Breadcrumbs component to strip numeric prefixes
+ */
+function patchBreadcrumbs() {
+  if (!fs.existsSync(BREADCRUMBS_COMPONENT_PATH)) {
+    console.log("⚠️  Breadcrumbs plugin source not found, skipping patch");
+  } else {
+    let content = fs.readFileSync(BREADCRUMBS_COMPONENT_PATH, "utf-8");
+
+    if (content.includes("stripNumericPrefix(node.displayName)")) {
+      console.log("✓ Breadcrumbs source already patched");
+    } else {
+      const oldCode = "const crumb = formatCrumb(node.displayName, slug, simplifySlug(node.slug));";
+      const newCode = "const crumb = formatCrumb(stripNumericPrefix(node.displayName), slug, simplifySlug(node.slug));";
+
+      if (!content.includes("function stripNumericPrefix(text: string): string")) {
+        content = content.replace(
+          "function formatCrumb(displayName: string, baseSlug: string, currentSlug: string): CrumbData {",
+          "function stripNumericPrefix(text: string): string {\n  return text.replace(/^\\d+\\.\\s+/, \"\");\n}\n\nfunction formatCrumb(displayName: string, baseSlug: string, currentSlug: string): CrumbData {",
+        );
+      }
+
+      if (content.includes(oldCode)) {
+        content = content.replace(oldCode, newCode);
+        fs.writeFileSync(BREADCRUMBS_COMPONENT_PATH, content, "utf-8");
+        console.log("✓ Breadcrumbs source patched successfully");
+      } else {
+        console.log("⚠️  Could not find Breadcrumbs source code pattern, patch may need manual application");
+      }
+    }
+  }
+
+  if (!fs.existsSync(BREADCRUMBS_DIST_COMPONENT_PATH)) {
+    console.log("⚠️  Breadcrumbs plugin dist not found, skipping patch");
+    return;
+  }
+
+  let distContent = fs.readFileSync(BREADCRUMBS_DIST_COMPONENT_PATH, "utf-8");
+
+  if (distContent.includes("stripNumericPrefix(node.displayName)")) {
+    console.log("✓ Breadcrumbs dist already patched");
+    return;
+  }
+
+  const distOldCode = "const crumb = formatCrumb(node.displayName, slug2, simplifySlug(node.slug));";
+  const distNewCode = "const crumb = formatCrumb(stripNumericPrefix(node.displayName), slug2, simplifySlug(node.slug));";
+
+  if (!distContent.includes("function stripNumericPrefix(text)")) {
+    distContent = distContent.replace(
+      "function formatCrumb(displayName, baseSlug, currentSlug) {",
+      "function stripNumericPrefix(text) {\n  return text.replace(/^\\d+\\.\\s+/, \"\");\n}\nfunction formatCrumb(displayName, baseSlug, currentSlug) {",
+    );
+  }
+
+  if (distContent.includes(distOldCode)) {
+    distContent = distContent.replace(distOldCode, distNewCode);
+    fs.writeFileSync(BREADCRUMBS_DIST_COMPONENT_PATH, distContent, "utf-8");
+    console.log("✓ Breadcrumbs dist patched successfully");
+  } else {
+    console.log("⚠️  Could not find Breadcrumbs dist code pattern, patch may need manual application");
+  }
+}
+
+/**
  * Main execution
  */
 function main() {
   console.log("🔧 Patching Quartz community plugins...\n");
   patchExplorer();
   patchArticleTitle();
+  patchBreadcrumbs();
   console.log("\n✅ Plugin patching complete");
 }
 
