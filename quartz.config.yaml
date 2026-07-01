@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Magitech Revolution
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -149,11 +149,13 @@ plugins:
   - source: github:quartz-community/content-page
     enabled: true
   - source: github:quartz-community/folder-page
-    enabled: true
+    enabled: false
   - source: github:quartz-community/tag-page
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      folderClickBehavior: collapse
     layout:
       position: left
       priority: 50

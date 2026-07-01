@@ -55,6 +55,16 @@ const BACKLINKS_DIST_COMPONENT_PATH = path.join(
   ".quartz/plugins/backlinks/dist/components/index.js"
 );
 
+const DARKMODE_INLINE_SCRIPT_PATH = path.join(
+  path.dirname(__dirname),
+  ".quartz/plugins/darkmode/src/components/scripts/darkmode.inline.ts"
+);
+
+const DARKMODE_DIST_PATH = path.join(
+  path.dirname(__dirname),
+  ".quartz/plugins/darkmode/dist/index.js"
+);
+
 /**
  * Patch the Explorer component to strip numeric prefixes
  */
@@ -309,6 +319,48 @@ function patchBacklinks() {
 }
 
 /**
+ * Patch the Darkmode component to default to dark theme
+ */
+function patchDarkmode() {
+  if (!fs.existsSync(DARKMODE_INLINE_SCRIPT_PATH)) {
+    console.log("⚠️  Darkmode inline source not found, skipping patch");
+  } else {
+    let content = fs.readFileSync(DARKMODE_INLINE_SCRIPT_PATH, "utf-8");
+    const oldSource =
+      'const currentTheme = localStorage.getItem("theme") ?? userPref;';
+    const newSource =
+      'const currentTheme = localStorage.getItem("theme") ?? "dark";';
+
+    if (content.includes(oldSource)) {
+      content = content.replace(oldSource, newSource);
+      fs.writeFileSync(DARKMODE_INLINE_SCRIPT_PATH, content, "utf-8");
+      console.log("✓ Darkmode source patched successfully");
+    } else {
+      console.log("✓ Darkmode source already patched");
+    }
+  }
+
+  if (!fs.existsSync(DARKMODE_DIST_PATH)) {
+    console.log("⚠️  Darkmode dist not found, skipping patch");
+    return;
+  }
+
+  let distContent = fs.readFileSync(DARKMODE_DIST_PATH, "utf-8");
+  const oldDist =
+    'h=localStorage.getItem("theme")??r;document.documentElement.setAttribute("saved-theme",h);';
+  const newDist =
+    'h=localStorage.getItem("theme")??"dark";document.documentElement.setAttribute("saved-theme",h);';
+
+  if (distContent.includes(oldDist)) {
+    distContent = distContent.replace(oldDist, newDist);
+    fs.writeFileSync(DARKMODE_DIST_PATH, distContent, "utf-8");
+    console.log("✓ Darkmode dist patched successfully");
+  } else {
+    console.log("✓ Darkmode dist already patched");
+  }
+}
+
+/**
  * Main execution
  */
 function main() {
@@ -317,6 +369,7 @@ function main() {
   patchArticleTitle();
   patchBreadcrumbs();
   patchBacklinks();
+  patchDarkmode();
   console.log("\n✅ Plugin patching complete");
 }
 
