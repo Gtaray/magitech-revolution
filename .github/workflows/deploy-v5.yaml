@@ -57,7 +57,7 @@ jobs:
         run: npm run check
 
       - name: Build Quartz
-        run: npx quartz build -d docs -v
+        run: npx quartz build
 
       - name: Upload to GitHub Pages
         uses: actions/upload-pages-artifact@v3
