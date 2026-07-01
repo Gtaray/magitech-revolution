@@ -65,6 +65,8 @@ const DARKMODE_DIST_PATH = path.join(
   ".quartz/plugins/darkmode/dist/index.js",
 )
 
+const NUMERIC_PREFIX_REGEX_SOURCE = "^\\d+(?:\\.\\d+)*\\.(?:\\s*[-_]\\s*|\\s+)*"
+
 /**
  * Patch the Explorer component to strip numeric prefixes
  */
@@ -79,12 +81,22 @@ function patchExplorer() {
     const mapFnPatch = `mapFn: (node: FileTrieNode) => {
       // Strip numbered prefixes like "1. ", "2. " from display names
       if (node.displayName) {
-        node.displayName = node.displayName.replace(/^\\d+\\.\\s+/, "")
+        node.displayName = node.displayName.replace(/^\\d+(?:\\.\\d+)*\\.(?:\\s*[-_]\\s*|\\s+)*/, "")
       }
       return node;
     },`
 
-    if (!content.includes("node.displayName.replace(/^\\d+\\.\\s+/")) {
+    if (content.includes("node.displayName.replace(/^\\d+\\.\\s+/")) {
+      content = content.replaceAll(
+        "node.displayName.replace(/^\\d+\\.\\s+/",
+        "node.displayName.replace(/^\\d+(?:\\.\\d+)*\\.(?:\\s*[-_]\\s*|\\s+)*/",
+      )
+      changed = true
+    }
+
+    if (
+      !content.includes("node.displayName.replace(/^\\d+(?:\\.\\d+)*\\.(?:\\s*[-_]\\s*|\\s+)*/")
+    ) {
       if (originalMapFn.test(content)) {
         content = content.replace(originalMapFn, mapFnPatch)
         changed = true
@@ -149,6 +161,13 @@ function patchExplorer() {
 
   const oldDistInlineOrder = "function j(u,e,D,F){return D&&u.filter(D),F&&u.map(F),e&&u.sort(e),u}"
   const newDistInlineOrder = "function j(u,e,D,F){return D&&u.filter(D),e&&u.sort(e),F&&u.map(F),u}"
+  if (distContent.includes("node.displayName.replace(/^\\d+\\.\\s+/")) {
+    distContent = distContent.replaceAll(
+      "node.displayName.replace(/^\\d+\\.\\s+/",
+      "node.displayName.replace(/^\\d+(?:\\.\\d+)*\\.(?:\\s*[-_]\\s*|\\s+)*/",
+    )
+    distChanged = true
+  }
   if (distContent.includes(oldDistInlineOrder)) {
     distContent = distContent.replace(oldDistInlineOrder, newDistInlineOrder)
     distChanged = true
@@ -174,7 +193,7 @@ function patchArticleTitle() {
   let content = fs.readFileSync(ARTICLE_TITLE_COMPONENT_PATH, "utf-8")
 
   // Check if patch is already applied
-  if (content.includes("title.replace(/^\\d+\\.\\s+/")) {
+  if (content.includes("title.replace(/^\\d+(?:\\.\\d+)*\\.(?:\\s*[-_]\\s*|\\s+)*/")) {
     console.log("✓ ArticleTitle plugin already patched")
     return
   }
@@ -187,7 +206,7 @@ function patchArticleTitle() {
   const patchedCode = `let title = (fileData.frontmatter as { title?: string } | undefined)?.title;
   if (title) {
     // Strip numbered prefixes like "1. ", "2. " from display names
-    title = title.replace(/^\\d+\\.\\s+/, "");
+    title = title.replace(/^\\d+(?:\\.\\d+)*\\.(?:\\s*[-_]\\s*|\\s+)*/, "");
     return <h1 class={classNames(displayClass, "article-title")}>{title}</h1>;`
 
   if (content.includes(originalCode)) {
@@ -207,6 +226,7 @@ function patchBreadcrumbs() {
     console.log("⚠️  Breadcrumbs plugin source not found, skipping patch")
   } else {
     let content = fs.readFileSync(BREADCRUMBS_COMPONENT_PATH, "utf-8")
+    content = content.replaceAll("/^\\d+\\.\\s+/", `/^${NUMERIC_PREFIX_REGEX_SOURCE}/`)
 
     if (content.includes("stripNumericPrefix(node.displayName)")) {
       console.log("✓ Breadcrumbs source already patched")
@@ -218,7 +238,7 @@ function patchBreadcrumbs() {
       if (!content.includes("function stripNumericPrefix(text: string): string")) {
         content = content.replace(
           "function formatCrumb(displayName: string, baseSlug: string, currentSlug: string): CrumbData {",
-          'function stripNumericPrefix(text: string): string {\n  return text.replace(/^\\d+\\.\\s+/, "");\n}\n\nfunction formatCrumb(displayName: string, baseSlug: string, currentSlug: string): CrumbData {',
+          'function stripNumericPrefix(text: string): string {\n  return text.replace(/^\\d+(?:\\.\\d+)*\\.(?:\\s*[-_]\\s*|\\s+)*/, "");\n}\n\nfunction formatCrumb(displayName: string, baseSlug: string, currentSlug: string): CrumbData {',
         )
       }
 
@@ -240,6 +260,7 @@ function patchBreadcrumbs() {
   }
 
   let distContent = fs.readFileSync(BREADCRUMBS_DIST_COMPONENT_PATH, "utf-8")
+  distContent = distContent.replaceAll("/^\\d+\\.\\s+/", `/^${NUMERIC_PREFIX_REGEX_SOURCE}/`)
 
   if (distContent.includes("stripNumericPrefix(node.displayName)")) {
     console.log("✓ Breadcrumbs dist already patched")
@@ -253,7 +274,7 @@ function patchBreadcrumbs() {
   if (!distContent.includes("function stripNumericPrefix(text)")) {
     distContent = distContent.replace(
       "function formatCrumb(displayName, baseSlug, currentSlug) {",
-      'function stripNumericPrefix(text) {\n  return text.replace(/^\\d+\\.\\s+/, "");\n}\nfunction formatCrumb(displayName, baseSlug, currentSlug) {',
+      'function stripNumericPrefix(text) {\n  return text.replace(/^\\d+(?:\\.\\d+)*\\.(?:\\s*[-_]\\s*|\\s+)*/, "");\n}\nfunction formatCrumb(displayName, baseSlug, currentSlug) {',
     )
   }
 
@@ -276,12 +297,13 @@ function patchBacklinks() {
     console.log("⚠️  Backlinks plugin source not found, skipping patch")
   } else {
     let content = fs.readFileSync(BACKLINKS_COMPONENT_PATH, "utf-8")
+    content = content.replaceAll("/^\\d+\\.\\s+/", `/^${NUMERIC_PREFIX_REGEX_SOURCE}/`)
     let changed = false
 
     if (!content.includes("function stripNumericPrefix(text: string): string")) {
       content = content.replace(
         "const defaultOptions: BacklinksOptions = {\n  hideWhenEmpty: true,\n};",
-        'const defaultOptions: BacklinksOptions = {\n  hideWhenEmpty: true,\n};\n\nfunction stripNumericPrefix(text: string): string {\n  return text.replace(/^\\d+\\.\\s+/, "");\n}',
+        'const defaultOptions: BacklinksOptions = {\n  hideWhenEmpty: true,\n};\n\nfunction stripNumericPrefix(text: string): string {\n  return text.replace(/^\\d+(?:\\.\\d+)*\\.(?:\\s*[-_]\\s*|\\s+)*/, "");\n}',
       )
       changed = true
     }
@@ -307,19 +329,20 @@ function patchBacklinks() {
   }
 
   let distContent = fs.readFileSync(BACKLINKS_DIST_COMPONENT_PATH, "utf-8")
+  distContent = distContent.replaceAll("/^\\d+\\.\\s+/", `/^${NUMERIC_PREFIX_REGEX_SOURCE}/`)
   let distChanged = false
 
   if (!distContent.includes("function stripNumericPrefix(text)")) {
     distContent = distContent.replace(
       "var defaultOptions = {\n  hideWhenEmpty: true\n};",
-      'var defaultOptions = {\n  hideWhenEmpty: true\n};\nfunction stripNumericPrefix(text) {\n  return text.replace(/^\\d+\\.\\s+/, "");\n}',
+      'var defaultOptions = {\n  hideWhenEmpty: true\n};\nfunction stripNumericPrefix(text) {\n  return text.replace(/^\\d+(?:\\.\\d+)*\\.(?:\\s*[-_]\\s*|\\s+)*/, "");\n}',
     )
     distChanged = true
   }
 
   const distOld = "children: f3.frontmatter?.title"
   const distNew = 'children: f3.frontmatter?.title ? stripNumericPrefix(f3.frontmatter.title) : ""'
-  if (distContent.includes(distOld)) {
+  if (!distContent.includes(distNew) && distContent.includes(distOld)) {
     distContent = distContent.replace(distOld, distNew)
     distChanged = true
   }
