@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-02-04T15:23:19.873-08:00
+modified: 2026-06-30T20:50:45.552-07:00
 cssclasses: ""
 ---
 
-Sandwyrms are desert-dwelling large winged lizards. They mostly hunt the giant insects that live in the desert (scorpions, tarantulas, and the like), but have been known to attack smaller groups of dwarves that find themselves in their desert territories. 
+
+Sandwyrms are desert-dwelling large winged lizards. They mostly hunt the giant insects that live in the desert (scorpions, tarantulas, and the like), but have been known to attack smaller groups of dwarves that find themselves in their desert territories.
 
 Sandwyrms are highly territorial, combined with flight means they'll spot you long before you can do anything about it. They also have been known to attack airships, though only do so in larger groups.
 

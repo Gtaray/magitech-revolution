@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-02-07T09:24:41.881-08:00
+modified: 2026-06-30T20:50:45.471-07:00
 tags:
   - location
   - city
   - setting
 cssclasses: ""
 ---
+
 
 The Khalud Academy is the most prominent features of the city Khalud. While much of the city's resources is directed at the academy, the city does not solely exist to support the academy.
 

@@ -1,9 +1,10 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-02-04T15:23:25.433-08:00
+modified: 2026-06-30T20:50:45.559-07:00
 cssclasses: ""
 ---
+
 
 The common name given to the advanced thinking constructs (also shorthanded to ATCs). It is a reference to the little spark of lightning that is their power source, but also a more poetic reference to the idea of the "spark of life".
 

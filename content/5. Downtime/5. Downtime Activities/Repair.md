@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-15T09:23:40.158-07:00
+modified: 2026-06-30T20:50:45.245-07:00
 tags:
   - downtime
 cssclasses: ""
 ---
+
 
 When you repair, you take the time to buy the appropriate parts and oversee major fixes to the ship. If you want to repair a crossed wire or a sparking oscillator, you just need a **[[2. The Characters/3. Actions/Rig]]** roll. These kinds of repairs fix battle damage and bring back systems from the brink.
 

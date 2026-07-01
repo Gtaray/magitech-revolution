@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-02-05T12:01:44.649-08:00
+modified: 2026-06-30T20:50:45.485-07:00
 tags:
   - location
   - city
   - setting
 cssclasses: ""
 ---
+
 
 The largest open-air city built into nearly the entirety of the top of one of the tallest mountain in Duradin: Ramthas. Massive columns have been carved out over hundreds of years to hold up the mountain's peak, and on these columns the city is built, layer by layer, as the city expands.
 

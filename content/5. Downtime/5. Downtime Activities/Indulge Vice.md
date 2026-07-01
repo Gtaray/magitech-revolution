@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-04-02T12:33:41.538-07:00
+modified: 2026-06-30T20:50:45.240-07:00
 tags:
   - downtime
 cssclasses: ""
@@ -17,7 +17,8 @@ When you **indulge your vice**, spend **1 [[2. The Characters/4. Rules/Coin]]**,
 Explain how your character indulges their vice. What it is like? This is an opportunity to explore parts of your character you're not likely to see during a job.
 
 ## Overindulgence
-If your vice roll is a **critical**, you overindulge. A vice is not a reliable, controllable habit. It’s a risk —  and one that can drive your character to act against their own best interests.
+
+If your vice roll is a **critical**, you overindulge. A vice is not a reliable, controllable habit. It’s a risk — and one that can drive your character to act against their own best interests.
 
 When you overindulge, you make a bad call because of your vice — in acquiring it or while under its influence. To bring the effect of this bad decision into the game, roll on the following table to see what happens:
 
@@ -33,6 +34,7 @@ When you overindulge, you make a bad call because of your vice — in acquiring 
 Alternately, you may choose to have your character voluntarily “lost in their vice” during a game session, allowing them to indulge off-camera while you play a different PC. A gang member, friend, someone on board the ship at the time, or a contact of the crew might be a good alternate character to play, thus fleshing out the landscape of PCs.
 
 ## Roleplaying & XP
+
 Your character’s vice tells us what kind of person they are. This obsession impacts motivations, goals, and behavior. When your vice causes troubles, or when you overindulge, you earn [[2. The Characters/5. Character Advancement\|xp]]. The cost to yourself must be real, though it doesn’t have to be devastating. Losing a meaningful opportunity, experiencing a setback with a project, or getting into a heated argument with a friend could all count.
 
 Talk to your GM about problems your vice may cause you. Remember that you can roleplay as much or as little of your vice as you choose and it need not be a constant presence in the game for you.

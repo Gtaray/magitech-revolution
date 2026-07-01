@@ -1,9 +1,10 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-02-04T15:23:01.209-08:00
+modified: 2026-06-30T20:50:45.525-07:00
 cssclasses: ""
 ---
+
 
 20 individuals From each [[8. Glossary/Khorvate]], each from a different clan, are sent to the Grand Council. This council oversees the entirety of Duradin, enacting laws and such required to keep the country running.
 

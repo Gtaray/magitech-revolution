@@ -1,9 +1,10 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-02-04T15:22:52.280-08:00
+modified: 2026-06-30T20:50:45.516-07:00
 cssclasses: ""
 ---
+
 
 The single most valuable resource in all of Duradin. Duranium is an alloy of, among other mundane metals, [[8. Glossary/Mithril]] and [[8. Glossary/Adamantine]]. It balances Mithril's natural lightness with Adamantine's hardiness. Alloying these two notoriously hardy metals requires precise alchemical processes that are dangerous and produce highly toxic waste materials (heavy metals).
 

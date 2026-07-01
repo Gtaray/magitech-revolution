@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-02-06T12:53:16.241-08:00
+modified: 2026-06-30T20:50:45.452-07:00
 tags:
   - location
   - city
   - setting
 cssclasses: ""
 ---
+
 
 The only town found in the deserts of [[7. Duradin/3. Territories/Ang Zareth (Red Wastes)]], cut from the sides of a deep river canyon. The [[8. Glossary/Lightning Rail\|Lightning Rail's]] route passes by here, though it rarely stops at the town.
 

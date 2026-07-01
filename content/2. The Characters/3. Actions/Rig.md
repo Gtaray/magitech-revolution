@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-02-07T11:24:32.387-08:00
+modified: 2026-06-30T20:50:45.034-07:00
 tags:
   - action
 cssclasses: ""
@@ -9,6 +9,7 @@ cssclasses: ""
 
 
 When you **Rig** mechanisms, you alter how an existing mechanism works or create a new one. You might disable a trap. You might repair a damaged [[8. Glossary/Airship\|airship]] system. You might crack a safe. You might overdrive an engine. You might force a door open (though **[[2. The Characters/3. Actions/Hack]]** might be better).
+
 ## GM Questions
 
 - What do you **Rig** with? What tools are usually required?
@@ -26,10 +27,12 @@ In order to **Rig**, you need physical access to something, and at least a plaus
 Consequences of **Rig** vary, from additional parts frying, fires and shocks causing harm, or complications from security systems and additional time or tools required.
 
 Often long-term projects in downtime use **Rig**. If you can get access to the right materials and put in the effort, **Rig** can be used to make almost any physical device you might want, though you may need to Study a schematic first. Just as common is using **Rig** to fix gear that gets broken while on a job.
+
 # Examples
+
 ## Controlled
 
-> *We have to catch up to them. I’m going to juice up our engine so we can get them before they get to the city.*
+> _We have to catch up to them. I’m going to juice up our engine so we can get them before they get to the city._
 
 **4/5 Minor Complication:** The engine flares into overdrive, but the sudden surge of magic causes your weapons systems to pop and sizzle. Your weapons are likely to malfunction for the rest of the job.
 
@@ -37,7 +40,7 @@ Often long-term projects in downtime use **Rig**. If you can get access to the r
 
 ## Risky
 
-> *I override the mechanical arms securing our ship from leaving. I cut into the side of it and start cutting through the metal until it pops free.*
+> _I override the mechanical arms securing our ship from leaving. I cut into the side of it and start cutting through the metal until it pops free._
 
 **4/5 Complication:** The first arm is a real beast to figure out. You have to wrench it apart manually. You run from arm to arm. As you finish wrenching the last, the ship is freed you see some guards rounding the stairs up to your position. What do you do?
 
@@ -45,7 +48,7 @@ Often long-term projects in downtime use **Rig**. If you can get access to the r
 
 ## Desperate
 
-> *So rather than run, I’ll disarm the booby trap detonators before the time runs out. It’s nice that you trap your treasure, sky pirates, but that sweet plunder will be mine!*
+> _So rather than run, I’ll disarm the booby trap detonators before the time runs out. It’s nice that you trap your treasure, sky pirates, but that sweet plunder will be mine!_
 
 **4/5 Serious [[1. How to Play/4. Harm, Stress & Trauma/Harm]]:** There are multiple bombs here. You get one. You get the second. Third. You’re down to the last one when time ticks down. 4… 3… 2… You throw the explosive… KABOOM! The explosion throws you and the treasure around. The trap is disarmed, and you’re half-covered in stolen treasure, and all it cost you was one level 3 harm “Broken Ribs.”
 

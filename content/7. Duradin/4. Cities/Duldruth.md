@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-02-06T11:27:41.500-08:00
+modified: 2026-06-30T20:50:45.449-07:00
 tags:
   - location
   - city
   - setting
 cssclasses: ""
 ---
+
 
 A major trading hub in the southern reaches of [[7. Duradin/3. Territories/Egar Lûrit (Old Spine)]]. This city sits atop the high hills of the Old Spine, and is the first big city one would encounter on the road from Arran'ak to Duradin.
 

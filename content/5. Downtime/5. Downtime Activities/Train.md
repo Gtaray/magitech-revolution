@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-15T09:24:40.808-07:00
+modified: 2026-06-30T20:50:45.248-07:00
 tags:
   - downtime
 cssclasses: ""
 ---
+
 
 Use this activity to spend **[[2. The Characters/5. Character Advancement\|advancements]]** to improve your character.
 
@@ -13,4 +14,4 @@ Describe a training montage, then spend **xp** to advance. To advance an [[1. Ho
 
 You can use this activity to act as an **instructor** with Quality equal to your rating in the relevant action rating being advanced. When you’re an instructor, you may also spend **xp** to advance.
 
-> *What’s your relationship with your instructor? Has it changed? What’s the most challenging or valuable part of your training session?*
+> _What’s your relationship with your instructor? Has it changed? What’s the most challenging or valuable part of your training session?_
