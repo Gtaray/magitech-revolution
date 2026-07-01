@@ -320,7 +320,7 @@ function patchArticleTitle() {
 }
 
 /**
- * Patch NoteProperties so `permalink` becomes canonical slug (old slug stays as alias)
+ * Keep NoteProperties permalink behavior alias-only (do not override canonical slug)
  */
 function patchNoteProperties() {
   if (!fs.existsSync(NOTE_PROPERTIES_TRANSFORMER_PATH)) {
@@ -337,7 +337,7 @@ function patchNoteProperties() {
               allSlugs.push(data.permalink);
             }`
 
-    const sourceNew = `if (data.permalink != null && data.permalink.toString() !== "") {
+    const sourceCanonical = `if (data.permalink != null && data.permalink.toString() !== "") {
               const originalSlug = file.data.slug as FullSlug | undefined;
               data.permalink = data.permalink.toString() as FullSlug;
 
@@ -354,8 +354,8 @@ function patchNoteProperties() {
               }
             }`
 
-    if (content.includes(sourceOld)) {
-      content = content.replace(sourceOld, sourceNew)
+    if (content.includes(sourceCanonical)) {
+      content = content.replace(sourceCanonical, sourceOld)
       changed = true
     }
 
@@ -383,7 +383,7 @@ function patchNoteProperties() {
               allSlugs.push(data.permalink);
             }`
 
-  const distNew = `if (data.permalink != null && data.permalink.toString() !== "") {
+  const distCanonical = `if (data.permalink != null && data.permalink.toString() !== "") {
               const originalSlug = file.data.slug;
               data.permalink = data.permalink.toString();
               const fileAliases = file.data.aliases ?? [];
@@ -398,8 +398,8 @@ function patchNoteProperties() {
               }
             }`
 
-  if (distContent.includes(distOld)) {
-    distContent = distContent.replace(distOld, distNew)
+  if (distContent.includes(distCanonical)) {
+    distContent = distContent.replace(distCanonical, distOld)
     distChanged = true
   }
 
