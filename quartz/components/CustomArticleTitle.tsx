@@ -3,7 +3,7 @@ import type {
   QuartzComponentProps,
   QuartzComponentConstructor,
 } from "@quartz-community/types";
-import { classNames } from "./util/lang";
+import { classNames } from "../util/lang";
 import { stripNumericPrefix } from "../util/prefixStrip";
 
 /**
