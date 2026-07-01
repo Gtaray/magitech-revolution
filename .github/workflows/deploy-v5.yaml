@@ -9,12 +9,13 @@ on:
 permissions:
   contents: read
   deployments: write
+  pages: write
+  id-token: write
 
 jobs:
   deploy-v5:
-    if: ${{ github.repository == 'jackyzha0/quartz' }}
     runs-on: ubuntu-latest
-    name: Deploy v5 to Cloudflare Pages
+    name: Deploy v5 to GitHub Pages
     steps:
       - uses: actions/checkout@v6
         with:
@@ -52,13 +53,11 @@ jobs:
       - name: Build Quartz
         run: npx quartz build -d docs -v
 
-      - name: Deploy to Cloudflare Pages
-        uses: AdrianGonz97/refined-cf-pages-action@v1
+      - name: Upload to GitHub Pages
+        uses: actions/upload-pages-artifact@v3
         with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          githubToken: ${{ secrets.GITHUB_TOKEN }}
-          projectName: quartz
-          deploymentName: v5 Branch Preview
-          branch: v5
-          directory: public
+          path: public
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
