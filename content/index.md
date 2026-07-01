@@ -17,15 +17,15 @@ This game will definitely stretch into science fantasy rather than your normal h
 
 # Latest Updates
 
-| File                                                                                   | Modified              |
-| -------------------------------------------------------------------------------------- | --------------------- |
-| [[Uncreated Files\|Uncreated Files]]                                                | Jun 30, 2026, 8:50 PM |
-| [[index\|index]]                                                                    | Jun 30, 2026, 8:50 PM |
-| [[copilot/copilot-custom-prompts/Translate to Chinese\|Translate to Chinese]]       | Jun 30, 2026, 8:50 PM |
-| [[copilot/copilot-custom-prompts/Summarize\|Summarize]]                             | Jun 30, 2026, 8:50 PM |
-| [[copilot/copilot-custom-prompts/Simplify\|Simplify]]                               | Jun 30, 2026, 8:50 PM |
-| [[copilot/copilot-custom-prompts/Rewrite as tweet\|Rewrite as tweet]]               | Jun 30, 2026, 8:50 PM |
-| [[copilot/copilot-custom-prompts/Rewrite as tweet thread\|Rewrite as tweet thread]] | Jun 30, 2026, 8:50 PM |
+| File                                                | Modified              |
+| --------------------------------------------------- | --------------------- |
+| [[Uncreated Files\|Uncreated Files]]             | Jun 30, 2026, 8:50 PM |
+| [[index\|index]]                                 | Jun 30, 2026, 8:50 PM |
+| [[8. Glossary/Thane\|Thane]]                     | Jun 30, 2026, 8:50 PM |
+| [[8. Glossary/Sundrop\|Sundrop]]                 | Jun 30, 2026, 8:50 PM |
+| [[8. Glossary/Spark\|Spark]]                     | Jun 30, 2026, 8:50 PM |
+| [[8. Glossary/Sending Network\|Sending Network]] | Jun 30, 2026, 8:50 PM |
+| [[8. Glossary/Sending Array\|Sending Array]]     | Jun 30, 2026, 8:50 PM |
 
 
 ## A Note on AI
