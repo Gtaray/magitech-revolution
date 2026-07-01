@@ -17,15 +17,15 @@ This game will definitely stretch into science fantasy rather than your normal h
 
 # Latest Updates
 
-| File                                                | Modified              |
-| --------------------------------------------------- | --------------------- |
-| [[Uncreated Files\|Uncreated Files]]             | Jun 30, 2026, 8:50 PM |
-| [[index\|index]]                                 | Jun 30, 2026, 8:50 PM |
-| [[8. Glossary/Thane\|Thane]]                     | Jun 30, 2026, 8:50 PM |
-| [[8. Glossary/Sundrop\|Sundrop]]                 | Jun 30, 2026, 8:50 PM |
-| [[8. Glossary/Spark\|Spark]]                     | Jun 30, 2026, 8:50 PM |
-| [[8. Glossary/Sending Network\|Sending Network]] | Jun 30, 2026, 8:50 PM |
-| [[8. Glossary/Sending Array\|Sending Array]]     | Jun 30, 2026, 8:50 PM |
+| File                                                      | Modified              |
+| --------------------------------------------------------- | --------------------- |
+| [[3. The Crew/3. Airships/Dragon Class\|Dragon Class]] | Jun 30, 2026, 9:06 PM |
+| [[3. The Crew/3. Airships/Aurora Class\|Aurora Class]] | Jun 30, 2026, 9:06 PM |
+| [[Uncreated Files\|Uncreated Files]]                   | Jun 30, 2026, 8:50 PM |
+| [[index\|index]]                                       | Jun 30, 2026, 8:50 PM |
+| [[8. Glossary/Thane\|Thane]]                           | Jun 30, 2026, 8:50 PM |
+| [[8. Glossary/Sundrop\|Sundrop]]                       | Jun 30, 2026, 8:50 PM |
+| [[8. Glossary/Spark\|Spark]]                           | Jun 30, 2026, 8:50 PM |
 
 
 ## A Note on AI
