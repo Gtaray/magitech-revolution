@@ -25,6 +25,11 @@ const EXPLORER_DIST_COMPONENT_PATH = path.join(
   ".quartz/plugins/explorer/dist/components/index.js",
 )
 
+const EXPLORER_DIST_INDEX_PATH = path.join(
+  path.dirname(__dirname),
+  ".quartz/plugins/explorer/dist/index.js",
+)
+
 const EXPLORER_INLINE_SCRIPT_PATH = path.join(
   path.dirname(__dirname),
   ".quartz/plugins/explorer/src/components/scripts/explorer.inline.ts",
@@ -33,6 +38,16 @@ const EXPLORER_INLINE_SCRIPT_PATH = path.join(
 const ARTICLE_TITLE_COMPONENT_PATH = path.join(
   path.dirname(__dirname),
   ".quartz/plugins/article-title/src/components/ArticleTitle.tsx",
+)
+
+const ARTICLE_TITLE_DIST_COMPONENT_PATH = path.join(
+  path.dirname(__dirname),
+  ".quartz/plugins/article-title/dist/components/index.js",
+)
+
+const ARTICLE_TITLE_DIST_INDEX_PATH = path.join(
+  path.dirname(__dirname),
+  ".quartz/plugins/article-title/dist/index.js",
 )
 
 const BREADCRUMBS_COMPONENT_PATH = path.join(
@@ -53,6 +68,16 @@ const BACKLINKS_COMPONENT_PATH = path.join(
 const BACKLINKS_DIST_COMPONENT_PATH = path.join(
   path.dirname(__dirname),
   ".quartz/plugins/backlinks/dist/components/index.js",
+)
+
+const NOTE_PROPERTIES_TRANSFORMER_PATH = path.join(
+  path.dirname(__dirname),
+  ".quartz/plugins/note-properties/src/transformer.ts",
+)
+
+const NOTE_PROPERTIES_DIST_PATH = path.join(
+  path.dirname(__dirname),
+  ".quartz/plugins/note-properties/dist/index.js",
 )
 
 const DARKMODE_INLINE_SCRIPT_PATH = path.join(
@@ -179,6 +204,31 @@ function patchExplorer() {
   } else {
     console.log("✓ Explorer dist already patched")
   }
+
+  if (!fs.existsSync(EXPLORER_DIST_INDEX_PATH)) {
+    console.log("⚠️  Explorer dist index not found, skipping patch")
+    return
+  }
+
+  let distIndexContent = fs.readFileSync(EXPLORER_DIST_INDEX_PATH, "utf-8")
+  let distIndexChanged = false
+
+  if (
+    distIndexContent.includes('node.displayName = node.displayName.replace(/^\\d+\\.\\s+/, "");')
+  ) {
+    distIndexContent = distIndexContent.replaceAll(
+      'node.displayName = node.displayName.replace(/^\\d+\\.\\s+/, "");',
+      'node.displayName = node.displayName.replace(/^\\d+(?:\\.\\d+)*\\.(?:\\s*[-_]\\s*|\\s+)*/, "");',
+    )
+    distIndexChanged = true
+  }
+
+  if (distIndexChanged) {
+    fs.writeFileSync(EXPLORER_DIST_INDEX_PATH, distIndexContent, "utf-8")
+    console.log("✓ Explorer dist index patched successfully")
+  } else {
+    console.log("✓ Explorer dist index already patched")
+  }
 }
 
 /**
@@ -187,34 +237,177 @@ function patchExplorer() {
 function patchArticleTitle() {
   if (!fs.existsSync(ARTICLE_TITLE_COMPONENT_PATH)) {
     console.log("⚠️  ArticleTitle plugin not found, skipping patch")
-    return
-  }
+  } else {
+    let content = fs.readFileSync(ARTICLE_TITLE_COMPONENT_PATH, "utf-8")
+    let changed = false
 
-  let content = fs.readFileSync(ARTICLE_TITLE_COMPONENT_PATH, "utf-8")
+    if (content.includes("title.replace(/^\\d+\\.\\s+/")) {
+      content = content.replaceAll(
+        "title.replace(/^\\d+\\.\\s+/",
+        "title.replace(/^\\d+(?:\\.\\d+)*\\.(?:\\s*[-_]\\s*|\\s+)*/",
+      )
+      changed = true
+    }
 
-  // Check if patch is already applied
-  if (content.includes("title.replace(/^\\d+(?:\\.\\d+)*\\.(?:\\s*[-_]\\s*|\\s+)*/")) {
-    console.log("✓ ArticleTitle plugin already patched")
-    return
-  }
-
-  // Replace the const title line with let and add the stripping logic
-  const originalCode = `const title = (fileData.frontmatter as { title?: string } | undefined)?.title;
+    // Replace the const title line with let and add the stripping logic
+    const originalCode = `const title = (fileData.frontmatter as { title?: string } | undefined)?.title;
   if (title) {
     return <h1 class={classNames(displayClass, "article-title")}>{title}</h1>;`
 
-  const patchedCode = `let title = (fileData.frontmatter as { title?: string } | undefined)?.title;
+    const patchedCode = `let title = (fileData.frontmatter as { title?: string } | undefined)?.title;
   if (title) {
     // Strip numbered prefixes like "1. ", "2. " from display names
     title = title.replace(/^\\d+(?:\\.\\d+)*\\.(?:\\s*[-_]\\s*|\\s+)*/, "");
     return <h1 class={classNames(displayClass, "article-title")}>{title}</h1>;`
 
-  if (content.includes(originalCode)) {
-    content = content.replace(originalCode, patchedCode)
-    fs.writeFileSync(ARTICLE_TITLE_COMPONENT_PATH, content, "utf-8")
-    console.log("✓ ArticleTitle plugin patched successfully")
+    if (content.includes(originalCode)) {
+      content = content.replace(originalCode, patchedCode)
+      changed = true
+    }
+
+    if (changed) {
+      fs.writeFileSync(ARTICLE_TITLE_COMPONENT_PATH, content, "utf-8")
+      console.log("✓ ArticleTitle source patched successfully")
+    } else {
+      console.log("✓ ArticleTitle source already patched")
+    }
+  }
+
+  if (!fs.existsSync(ARTICLE_TITLE_DIST_COMPONENT_PATH)) {
+    console.log("⚠️  ArticleTitle dist not found, skipping patch")
   } else {
-    console.log("⚠️  Could not find ArticleTitle code pattern, patch may need manual application")
+    let distContent = fs.readFileSync(ARTICLE_TITLE_DIST_COMPONENT_PATH, "utf-8")
+    let distChanged = false
+
+    if (distContent.includes("title = title.replace(/^\\d+\\.\\s+/")) {
+      distContent = distContent.replaceAll(
+        "title = title.replace(/^\\d+\\.\\s+/",
+        "title = title.replace(/^\\d+(?:\\.\\d+)*\\.(?:\\s*[-_]\\s*|\\s+)*/",
+      )
+      distChanged = true
+    }
+
+    if (distChanged) {
+      fs.writeFileSync(ARTICLE_TITLE_DIST_COMPONENT_PATH, distContent, "utf-8")
+      console.log("✓ ArticleTitle dist patched successfully")
+    } else {
+      console.log("✓ ArticleTitle dist already patched")
+    }
+
+    if (!fs.existsSync(ARTICLE_TITLE_DIST_INDEX_PATH)) {
+      console.log("⚠️  ArticleTitle dist index not found, skipping patch")
+      return
+    }
+
+    let distIndexContent = fs.readFileSync(ARTICLE_TITLE_DIST_INDEX_PATH, "utf-8")
+    let distIndexChanged = false
+
+    if (distIndexContent.includes('title = title.replace(/^\\d+\\.\\s+/, "");')) {
+      distIndexContent = distIndexContent.replaceAll(
+        'title = title.replace(/^\\d+\\.\\s+/, "");',
+        'title = title.replace(/^\\d+(?:\\.\\d+)*\\.(?:\\s*[-_]\\s*|\\s+)*/, "");',
+      )
+      distIndexChanged = true
+    }
+
+    if (distIndexChanged) {
+      fs.writeFileSync(ARTICLE_TITLE_DIST_INDEX_PATH, distIndexContent, "utf-8")
+      console.log("✓ ArticleTitle dist index patched successfully")
+    } else {
+      console.log("✓ ArticleTitle dist index already patched")
+    }
+  }
+}
+
+/**
+ * Patch NoteProperties so `permalink` becomes canonical slug (old slug stays as alias)
+ */
+function patchNoteProperties() {
+  if (!fs.existsSync(NOTE_PROPERTIES_TRANSFORMER_PATH)) {
+    console.log("⚠️  NoteProperties source not found, skipping patch")
+  } else {
+    let content = fs.readFileSync(NOTE_PROPERTIES_TRANSFORMER_PATH, "utf-8")
+    let changed = false
+
+    const sourceOld = `if (data.permalink != null && data.permalink.toString() !== "") {
+              data.permalink = data.permalink.toString() as FullSlug;
+              const fileAliases = (file.data.aliases as FullSlug[]) ?? [];
+              fileAliases.push(data.permalink);
+              file.data.aliases = fileAliases;
+              allSlugs.push(data.permalink);
+            }`
+
+    const sourceNew = `if (data.permalink != null && data.permalink.toString() !== "") {
+              const originalSlug = file.data.slug as FullSlug | undefined;
+              data.permalink = data.permalink.toString() as FullSlug;
+
+              const fileAliases = (file.data.aliases as FullSlug[]) ?? [];
+              if (originalSlug && originalSlug !== data.permalink) {
+                fileAliases.push(originalSlug);
+              }
+              file.data.aliases = [...new Set(fileAliases)];
+              file.data.slug = data.permalink;
+
+              allSlugs.push(data.permalink);
+              if (originalSlug && originalSlug !== data.permalink) {
+                allSlugs.push(originalSlug);
+              }
+            }`
+
+    if (content.includes(sourceOld)) {
+      content = content.replace(sourceOld, sourceNew)
+      changed = true
+    }
+
+    if (changed) {
+      fs.writeFileSync(NOTE_PROPERTIES_TRANSFORMER_PATH, content, "utf-8")
+      console.log("✓ NoteProperties source patched successfully")
+    } else {
+      console.log("✓ NoteProperties source already patched")
+    }
+  }
+
+  if (!fs.existsSync(NOTE_PROPERTIES_DIST_PATH)) {
+    console.log("⚠️  NoteProperties dist not found, skipping patch")
+    return
+  }
+
+  let distContent = fs.readFileSync(NOTE_PROPERTIES_DIST_PATH, "utf-8")
+  let distChanged = false
+
+  const distOld = `if (data.permalink != null && data.permalink.toString() !== "") {
+              data.permalink = data.permalink.toString();
+              const fileAliases = file.data.aliases ?? [];
+              fileAliases.push(data.permalink);
+              file.data.aliases = fileAliases;
+              allSlugs.push(data.permalink);
+            }`
+
+  const distNew = `if (data.permalink != null && data.permalink.toString() !== "") {
+              const originalSlug = file.data.slug;
+              data.permalink = data.permalink.toString();
+              const fileAliases = file.data.aliases ?? [];
+              if (originalSlug && originalSlug !== data.permalink) {
+                fileAliases.push(originalSlug);
+              }
+              file.data.aliases = [...new Set(fileAliases)];
+              file.data.slug = data.permalink;
+              allSlugs.push(data.permalink);
+              if (originalSlug && originalSlug !== data.permalink) {
+                allSlugs.push(originalSlug);
+              }
+            }`
+
+  if (distContent.includes(distOld)) {
+    distContent = distContent.replace(distOld, distNew)
+    distChanged = true
+  }
+
+  if (distChanged) {
+    fs.writeFileSync(NOTE_PROPERTIES_DIST_PATH, distContent, "utf-8")
+    console.log("✓ NoteProperties dist patched successfully")
+  } else {
+    console.log("✓ NoteProperties dist already patched")
   }
 }
 
@@ -402,6 +595,7 @@ function main() {
   console.log("🔧 Patching Quartz community plugins...\n")
   patchExplorer()
   patchArticleTitle()
+  patchNoteProperties()
   patchBreadcrumbs()
   patchBacklinks()
   patchDarkmode()
