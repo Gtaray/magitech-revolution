@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.292-07:00
+modified: 2026-06-30T21:45:48.150-07:00
 tags:
   - faction
   - industrialist
   - clan
 cssclasses: ""
 ---
-
 
 Operates the one and only currency mint as well as the largest bank in [[7. Duradin/1. Dwarven Republic of Duradin\|Duradin]].
 

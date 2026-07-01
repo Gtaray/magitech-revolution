@@ -1,13 +1,12 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.338-07:00
+modified: 2026-06-30T21:45:48.205-07:00
 tags:
   - faction
   - criminal
 cssclasses: ""
 ---
-
 
 Once a labor union, the Cobalt Syndicate has turned to smuggling and extortion to carve out some turf and have a real say. Highly decentralized, so can be found nearly everywhere, but because of that their influence is pretty limited.
 

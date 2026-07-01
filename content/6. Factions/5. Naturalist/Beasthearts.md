@@ -1,13 +1,12 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.309-07:00
+modified: 2026-06-30T21:45:48.169-07:00
 tags:
   - faction
   - naturalist
 cssclasses: ""
 ---
-
 
 Primal druids that have made special pacts with wild beasts. They travel the lands, resolving issues related to wild animals.
 

@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.321-07:00
+modified: 2026-06-30T21:45:48.184-07:00
 tags:
   - faction
   - naturalist
   - clan
 cssclasses: ""
 ---
-
 
 Dwarves whose ancestors made a pact with an ancient spirit of the earth to transform themselves into elementals, eschewing all organic biology for near immortality as beings of rock and stone.
 

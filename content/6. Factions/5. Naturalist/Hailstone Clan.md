@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.329-07:00
+modified: 2026-06-30T21:45:48.194-07:00
 tags:
   - faction
   - naturalist
   - clan
 cssclasses: ""
 ---
-
 
 The ruling clan of [[7. Duradin/2. Khorvates/Oghrann]] and one of the oldest clans in all of [[7. Duradin/1. Dwarven Republic of Duradin\|Duradin]], predating the republic by over a millennia if they're to be believed. Some of the staunchest holders of ancient ways and fiercest opponents of the magitech revolution.
 

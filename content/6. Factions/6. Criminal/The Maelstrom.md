@@ -1,13 +1,12 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.362-07:00
+modified: 2026-06-30T21:45:48.235-07:00
 tags:
   - faction
   - criminal
 cssclasses: ""
 ---
-
 
 A band of ferocious brigands and pirates hiding among the remote craggy cliffs in the unincorporated highlands of [[7. Duradin/2. Khorvates/Durvos]].
 

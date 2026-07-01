@@ -1,13 +1,12 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.315-07:00
+modified: 2026-06-30T21:45:48.176-07:00
 tags:
   - faction
   - naturalist
 cssclasses: ""
 ---
-
 
 A group of druids and shamans who serve the realm by managing the land to avoid catastrophic wildfires. They are equal parts prevention and response, making sure that wildfires are less likely to start, and also by containing them once they have. They may also be a cult.
 

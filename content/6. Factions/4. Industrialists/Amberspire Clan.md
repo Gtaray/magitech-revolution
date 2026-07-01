@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.269-07:00
+modified: 2026-06-30T21:45:48.121-07:00
 tags:
   - faction
   - industrialist
   - clan
 cssclasses: ""
 ---
-
 
 The ruling clan of [[7. Duradin/2. Khorvates/Durvos]]. A clan filled with some of the best alchemist and magitechnicians in [[7. Duradin/1. Dwarven Republic of Duradin\|Duradin]]. Nearly every technological invention has an Amberspire seal on it somewhere
 

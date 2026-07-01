@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.295-07:00
+modified: 2026-06-30T21:45:48.154-07:00
 tags:
   - faction
   - industrialist
   - guild
 cssclasses: ""
 ---
-
 
 The guild that maintains the [[8. Glossary/Sending Network\|sending network]] throughout all of [[7. Duradin/1. Dwarven Republic of Duradin\|Duradin]]. They run all skydocks, as well as a number of relay outposts out in the deserts. If you want to communicate on the [[8. Glossary/Sending Network\|sending network]] you have to go through the Sender's Guild. Surely they're not listening in, right?
 

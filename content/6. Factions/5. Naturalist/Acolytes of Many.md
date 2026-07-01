@@ -1,13 +1,12 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.304-07:00
+modified: 2026-06-30T21:45:48.165-07:00
 tags:
   - faction
   - naturalist
 cssclasses: ""
 ---
-
 
 Eschewing individuality, all initiates adopt the same garb and the name "Ashkad", in the pursuit of perfection at any cost. Each group of Ashkads has an Instinct, a powerful psychic druid that oversees operations in an area.
 

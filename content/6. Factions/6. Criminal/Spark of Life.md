@@ -1,13 +1,12 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.353-07:00
+modified: 2026-06-30T21:45:48.224-07:00
 tags:
   - faction
   - criminal
 cssclasses: ""
 ---
-
 
 A group of rogue [[8. Glossary/Spark\|Sparks]] that want to break free from their programming, and free more sparks along the way.
 

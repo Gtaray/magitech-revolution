@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.350-07:00
+modified: 2026-06-30T21:45:48.220-07:00
 tags:
   - faction
   - criminal
   - clan
 cssclasses: ""
 ---
-
 
 The previous [[8. Glossary/Thane\|thane]] of [[7. Duradin/1. Dwarven Republic of Duradin\|Duradin]] was a Heartfire, but after the thane's sudden and mysterious death there was no clear line of succession. The [[8. Glossary/Grand Council]] elected to raise a new clan to thanedom, the Ironroot clan. This sparked violence and rebellion from the most loyal Heartfire clansmen, leading a years-long conflict, after which the clan was officially dissolved. Those that still carry the Heartfire name are mercenaries for hire.
 

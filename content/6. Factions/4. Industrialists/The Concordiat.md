@@ -1,13 +1,12 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.300-07:00
+modified: 2026-06-30T21:45:48.161-07:00
 tags:
   - faction
   - industrialist
 cssclasses: ""
 ---
-
 
 Fourth and fifth children, these young nobles have taken an oath sanctified by the republic to seek the Worldsoul.
 

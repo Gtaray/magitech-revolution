@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.492-07:00
+modified: 2026-06-30T21:45:48.421-07:00
 tags:
   - location
   - city
   - setting
 cssclasses: ""
 ---
-
 
 A sprawling complex of old megalithic temples that, in the past, was a place of congregation for the many druid circles and shamanic orders. Many relics of that lost age still hide within the abandoned reaches of the temple complex, protected by forgotten magics.
 

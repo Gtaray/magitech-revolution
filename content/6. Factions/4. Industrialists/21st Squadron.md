@@ -1,13 +1,12 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.266-07:00
+modified: 2026-06-30T21:45:48.117-07:00
 tags:
   - faction
   - industrialist
 cssclasses: ""
 ---
-
 
 Formerly an independent military, the 21st Squadron was recently put under the direct control of the [[8. Glossary/Grand Council]] when it was discovered that the former leaders of the squadron were conspiring with [[Ajax the Invincible]] to bring about the downfall of [[8. Glossary/Thane]] Hruun Ironroot IV.
 

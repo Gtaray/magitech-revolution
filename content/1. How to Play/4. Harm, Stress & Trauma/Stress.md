@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:44.867-07:00
+modified: 2026-06-30T21:45:47.849-07:00
 tags:
   - rules
 cssclasses: ""
 ---
-
 
 Player characters have a special reserve of fortitude and luck called **stress**. When they suffer a consequence that they don’t want to accept, they can take stress instead. The result a **[[1. How to Play/3. Threat Roll/2. Push Yourself#Resistance Roll\|resistance]] roll** determines how much stress it costs to avoid a bad outcome.
 

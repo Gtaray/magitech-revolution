@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.286-07:00
+modified: 2026-06-30T21:45:48.143-07:00
 tags:
   - faction
   - industrialist
   - guild
 cssclasses: ""
 ---
-
 
 The singular largest guild in [[7. Duradin/1. Dwarven Republic of Duradin\|Duradin]], responsible for resource acquisition, [[8. Glossary/Airship\|airship]] and [[8. Glossary/Exosuit\|exosuit]] manufacture, magitech R&D, and more.
 

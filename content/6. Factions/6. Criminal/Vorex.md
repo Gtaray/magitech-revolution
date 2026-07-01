@@ -1,13 +1,12 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.367-07:00
+modified: 2026-06-30T21:45:48.242-07:00
 tags:
   - faction
   - criminal
 cssclasses: ""
 ---
-
 
 The most successful information broker to ever live. Has access to the entire sending network and seemingly has spies everywhere - though no one can explain how.
 

@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.275-07:00
+modified: 2026-06-30T21:45:48.128-07:00
 tags:
   - faction
   - industrialist
   - guild
 cssclasses: ""
 ---
-
 
 The Broadsheet Guild, also called "The Font", was born when Inan Thunderbrand created the first printing press. In a world with fantastic magitech inventions appearing left and right, the printing press was a humble creation that has likely had more impact on society than everything else combined. While the guild itself is a relatively small operation, their influence is rapidly growing as more and more of the population relies on the broadsheets.
 

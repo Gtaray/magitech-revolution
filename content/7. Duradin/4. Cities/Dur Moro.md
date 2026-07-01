@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.456-07:00
+modified: 2026-06-30T21:45:48.353-07:00
 tags:
   - location
   - city
   - setting
 cssclasses: ""
 ---
-
 
 The largest city in [[7. Duradin/3. Territories/Dåtan Tor (Iron Shores)]], built on the northern shores of Rustwaters. It serves as a major transit hub for the [[8. Glossary/Lightning Rail]] as well as a common rest stop for skyships, as the lake afford ample room for ships to [[8. Glossary/Airship#Grounding\|ground]].
 

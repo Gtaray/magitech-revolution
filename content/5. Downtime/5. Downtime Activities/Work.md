@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.252-07:00
+modified: 2026-06-30T21:45:48.102-07:00
 tags:
   - downtime
 cssclasses: ""
 ---
-
 
 Accomplish a **project** or work a **side job** to earn **1 [[2. The Characters/4. Rules/Coin\|coin]]**. Ask the GM if you can charge more (especially if you work for a wealthy client) or gain some other benefit instead of coin (like earning a favor, reducing **[[4. The Job/6. Heat\|Heat]]**, etc.).
 
@@ -15,13 +14,11 @@ Note: this game is about rogues doing crime, not having regular jobs, so conside
 > _Who do you do work for? Ask the GM if there’s anything going on with them. What challenge do you address on your project?_
 
 # Long-Term Project
-
 For a **long-term project**, make a **[[1. How to Play/1. The Basics/3. Progress Clocks\|progress clock]]**. When you spend an activity working on it, mark a number of ticks equal to your **[[1. How to Play/2. Actions & Attributes/Actions\|action rating]]**. Add **one tick** if you have a **[[3. The Crew/4. Ship Upgrades/5. Auxiliary Upgrades#Workshop\|workshop]]** (or some other type of appropriate advantage). Elaborate projects require multiple clocks (and may also call for a successful score to fully complete).
 
 To create something that doesn't require a progress clock, consider **[[5. Downtime/5. Downtime Activities/Craft\|crafting]]** it.
 
 # Lowering Wanted Level
-
 Since **[[4. The Job/6. Heat\|Heat]]** reduction is handled immediately following a score, the former "Lay Low" downtime activity has been rolled into this downtime activity. The standard way of lowering your **[[4. The Job/6. Heat#Wanted Level\|Wanted Level]]** in a region is by doing [[4. The Job/6. Heat#Wanted Level\|jail time]]. But that's not ideal, so an alternative is to **Work** on a scheme to clear your **Wanted Level**.
 
 These schemes can be a combination of **Long-Term Projects**, **Side Jobs**, and potentially culminate in a **[[4. The Job/1. The Job\|job]]** to pull it all together.

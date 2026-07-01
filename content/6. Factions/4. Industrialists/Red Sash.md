@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.289-07:00
+modified: 2026-06-30T21:45:48.146-07:00
 tags:
   - faction
   - industrialist
   - guild
 cssclasses: ""
 ---
-
 
 A small guild of doctors and medical magitech researchers pushing the boundaries of what is possible with magitech prosthetics and augmentations. Used to a department within the [[6. Factions/4. Industrialists/Guild of Engineers]], but was spun off into its own organization.
 

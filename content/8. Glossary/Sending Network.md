@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.558-07:00
+modified: 2026-06-30T21:45:48.519-07:00
 cssclasses: ""
 ---
-
 
 The sending network is a high speed communication network that is set up across most of [[7. Duradin/1. Dwarven Republic of Duradin\|Duradin]], with the exception that there is only a single relay station in [[7. Duradin/2. Khorvates/Oghrann]].
 

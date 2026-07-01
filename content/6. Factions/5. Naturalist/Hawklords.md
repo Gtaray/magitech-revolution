@@ -1,13 +1,12 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.331-07:00
+modified: 2026-06-30T21:45:48.198-07:00
 tags:
   - faction
   - naturalist
 cssclasses: ""
 ---
-
 
 A group of dwarves dedicated to protecting the skies above [[7. Duradin/1. Dwarven Republic of Duradin\|Duradin]]. Their duty was more necessary before [[8. Glossary/Airship\|airships]] could defend themselves against wyverns and such, but now is largely outmoded.
 

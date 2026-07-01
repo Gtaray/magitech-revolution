@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.248-07:00
+modified: 2026-06-30T21:45:48.098-07:00
 tags:
   - downtime
 cssclasses: ""
 ---
-
 
 Use this activity to spend **[[2. The Characters/5. Character Advancement\|advancements]]** to improve your character.
 

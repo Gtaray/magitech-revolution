@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.486-07:00
+modified: 2026-06-30T21:45:48.406-07:00
 tags:
   - location
   - city
   - setting
 cssclasses: ""
 ---
-
 
 Red Hill is a city built into the face of the massive red mountains that split northern and southern Duradin.
 

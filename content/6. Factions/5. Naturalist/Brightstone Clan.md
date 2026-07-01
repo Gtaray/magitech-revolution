@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.312-07:00
+modified: 2026-06-30T21:45:48.172-07:00
 tags:
   - faction
   - naturalist
   - clan
 cssclasses: ""
 ---
-
 
 A smaller [[8. Glossary/Clan\|clan]] that owns and operates the only mithril mines in all of [[7. Duradin/1. Dwarven Republic of Duradin\|Duradin]].
 

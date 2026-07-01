@@ -1,17 +1,15 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:44.998-07:00
+modified: 2026-06-30T21:45:47.909-07:00
 tags:
   - action
 cssclasses: ""
 ---
 
-
 When you **Attune**, you open your mind to the magical energies that flow through the world. It is how you connect with both the natural and the mystical. You might communicate with a wild animal. You could conjure or calm the wild fury of nature. You might safely handle ancient artifacts or remnants from bygone eras (though **[[2. The Characters/3. Actions/Doctor]]** might be better). It can even be used to detect ambient magical effects, either natural or conjured (though **[[2. The Characters/3. Actions/Study]]** might be better).
 
 ## GM Questions
-
 - How do you connect to the mystical? What does that look like?
 - What energy are you **Attuning** to? What do you hope the energy will do?
 - Does anything about you change when you **Attune**?
@@ -27,7 +25,6 @@ Druidic enclaves often regulate based on their understanding of the natural and 
 # Examples
 
 ## Controlled
-
 > _I Attune to the magic in the area to sense what is influencing me to speak only the truth with this Ashen Knives thug._
 
 **4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect\|Effect]]:** You sense the influence of a magical artifact somewhere on the thug's person, but you can't identify exactly what it is. Is it that ornate necklace with the strange gem, or the mechanical looking ring?
@@ -35,7 +32,6 @@ Druidic enclaves often regulate based on their understanding of the natural and 
 **4/5 Risky [[1. How to Play/3. Threat Roll/3. Position\|Position]]:** Recognizing that her ring is exerting its effect on you, the thug turns to you and says, "Now then. We were discussing whether you had anything to do with the robbery last night." You can see her bodyguard's hands resting on the knives sheathed at his hips. What do you do?
 
 ## Risky
-
 > _Now that I'm on the enemy ship, I'd like to Attune to the spirits in their relic engine and try to limit their output to shut down the ship._
 
 **4/5 Complication:** You reach out to the spirits of fire and lightning trapped in the relic engine and temporarily quell their fury. The ship creaks and you lurch forward as the ship loses speed. You can also immediately feel that the ship is losing altitude, fast. What do you do?
@@ -43,7 +39,6 @@ Druidic enclaves often regulate based on their understanding of the natural and 
 **4/5 [[1. How to Play/4. Harm, Stress & Trauma/Harm]]:** The spirit's fury is turned on you, and before you can fully reach them a power surge in the engine knocks you backwards and into some machinery. The engine dims, but you take level 2 harm "Bruised ribs."
 
 ## Desperate
-
 > _As this desert sandwyrm is about to bear down on me, I'll Attune to it so it can understand me before I Command it to stop._
 
 **4/5 Serious Complication:** You reach out to its mind. The wyrm will understand you and you have a few moments before its on top of you, but you see a shift in the sands a few hundred feet away; it's mate is quickly burrowing towards you! What do you do?

@@ -1,13 +1,12 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.347-07:00
+modified: 2026-06-30T21:45:48.216-07:00
 tags:
   - faction
   - criminal
 cssclasses: ""
 ---
-
 
 Although they often hire themselves out as bounty hunters, the Green Dragons are an infamous group of assassins.
 

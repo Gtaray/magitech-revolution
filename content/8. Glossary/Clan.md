@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.512-07:00
+modified: 2026-06-30T21:45:48.450-07:00
 cssclasses: ""
 ---
-
 
 Dwarven families, called clans, vary wildly in size. Small clans might only be a few dozen dwarves. The largest clans (of which there are very few) might have tens of thousands of individuals. Most clans range somewhere in the low thousands (1 to 4 thousand).
 

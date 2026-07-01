@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.520-07:00
+modified: 2026-06-30T21:45:48.464-07:00
 cssclasses: ""
 ---
-
 
 No bit of magitech is as widely adopted as the gun. Firearms were first invented two centuries ago, only then they used black powder as the mechanism with which to propel a metal slug at lethal velocities. This idea, however, was quickly abandoned; in a world where magical fire is a commonly conjured weapon, carrying around a sachet of explosive and volatile powder was a terrible idea. Firearms were an interesting footnote in history, but nothing more.
 

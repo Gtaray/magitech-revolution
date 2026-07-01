@@ -1,13 +1,12 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.359-07:00
+modified: 2026-06-30T21:45:48.231-07:00
 tags:
   - faction
   - criminal
 cssclasses: ""
 ---
-
 
 The largest and most well-known orc tribe in [[7. Duradin/1. Dwarven Republic of Duradin\|Duradin]]. Their leader has taken a diplomatic approach to coexistence and works with most anyone he deems worthy.
 

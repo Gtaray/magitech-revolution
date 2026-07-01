@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.272-07:00
+modified: 2026-06-30T21:45:48.124-07:00
 tags:
   - faction
   - industrialist
   - clan
 cssclasses: ""
 ---
-
 
 The ruling clan of [[7. Duradin/2. Khorvates/Torhmek]]. Their aggressive warrior-culture keeps the clan squabbles to a minimum, and protects their lands from the monsters that roam it.
 

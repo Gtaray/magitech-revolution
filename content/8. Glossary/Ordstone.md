@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.547-07:00
+modified: 2026-06-30T21:45:48.504-07:00
 cssclasses: ""
 ---
-
 
 Ordstone's are large precious gemstones that are scribed with runes that describe the process of performing a specific enchantment. The stone's hold magic needed for such enchantments, and can help significantly when applied correctly
 

@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.298-07:00
+modified: 2026-06-30T21:45:48.157-07:00
 tags:
   - faction
   - industrialist
   - clan
 cssclasses: ""
 ---
-
 
 A young clan that have mastered the art of capturing lightning from storm clouds and using it to give life to [[8. Glossary/Spark\|Sparks]]; thinking automatons much more sophisticated than normal constructs.
 

@@ -1,17 +1,15 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.051-07:00
+modified: 2026-06-30T21:45:47.943-07:00
 tags:
   - action
 cssclasses: ""
 ---
 
-
 When you **Skulk**, you move stealthily or without being noticed. You might sneak past security or hide in the shadows. You might lift a purse off a mark. You might sneak up behind someone to attack them by surprise (but **[[2. The Characters/3. Actions/Scrap]]** might be better). You could try to climb up the side of a building (but **[[2. The Characters/3. Actions/Scramble]]** might be better).
 
 ## GM Questions
-
 - How do you **Skulk**? How do you conceal your actions?
 - Whose notice are you trying to avoid?
 - Where do you want to end up?
@@ -25,7 +23,6 @@ When a **Skulk** roll goes awry, it doesn’t always end catastrophically. Inste
 # Examples
 
 ## Controlled
-
 > _I sneak up behind the guard and put him into a choke hold, real quiet-like._
 
 **4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect\|Effect]]:** His knees buckle, but he pulls hard on your arm, creating space to breathe. He kicks against the wall and tries to wrestle out of your hold. He hasn’t had a chance to yell, but you don’t have him under control. What do you do?
@@ -33,7 +30,6 @@ When a **Skulk** roll goes awry, it doesn’t always end catastrophically. Inste
 **4/5 Risky [[1. How to Play/3. Threat Roll/3. Position\|Position]]:** You pull off the choke hold and drag your target into the shadows with you. That’s when his comm crackles to life. “Rico, report in,” an anonymous guard says on the other end of the comms. “Rico?” What do you do?
 
 ## Risky
-
 > _I move through the crowd, following the bounty hunter, blending in with people going about their day._
 
 **4/5 Complication and Reduced [[1. How to Play/3. Threat Roll/4. Effect\|Effect]]:** You follow the bounty hunter down into an alley, where he’s meeting with a shadowy agent. You can’t tell exactly what faction is on the other side without going into the alley and possibly getting spotted. Things seem to be getting tense and you hear the hunter bellow out “I did the job, now pay up!” as he draws his pistol. What do you do?
@@ -41,7 +37,6 @@ When a **Skulk** roll goes awry, it doesn’t always end catastrophically. Inste
 **1-3 Desperate [[1. How to Play/3. Threat Roll/3. Position\|Position]]:** You almost catch him as he makes a fast right. You come around the alleyway and realize he’s gone. That’s when you hear the low whistle. You see him hanging from a grappling line above you, rifle pointed at you. What do you do?
 
 ## Desperate
-
 > _Well it’s not like I have a choice. As the bandits are moving towards me I’ll try to creep along the wall, sticking to the shadows until I can turn the corner._
 
 **4/5 Severe [[1. How to Play/4. Harm, Stress & Trauma/Harm]]:** You make it most of the way there, when one of them spots you right as you turn. “Oy!” she yells, and heavy munitions tears through the wall. One gets lucky, slamming into your back. Take level 3 harm “Shot in the back.” But you get away at least.
