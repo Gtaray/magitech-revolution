@@ -9,6 +9,6 @@ tags:
 cssclasses: ""
 ---
 
-An industrial city in southern [[7. Duradin/3. Territories/Omer Tobul (Verdant Valley)]], filled with high magitech wonders. 
+An industrial city in southern [[7. Duradin/3. Territories/Omer Tobul (Verdant Valley)]], filled with high magitech wonders.
 
 ![[Images/Gomragh.webp]]

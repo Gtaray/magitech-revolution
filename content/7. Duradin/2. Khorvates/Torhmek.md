@@ -20,21 +20,31 @@ The dwarves in Tohrmek are perhaps more laid back than in other Tohrmek. They su
 Outsiders are often met with suspicion or distrust. At least until you earn their respect, at which point you're more than welcome.
 
 ## Territories
+
 - [[7. Duradin/3. Territories/Etar Nökor (King's Crest)]]
 - [[7. Duradin/3. Territories/Ibruk Lun (Sleeping Stone)]]
 - [[7. Duradin/3. Territories/Nòm Råsh (Titan's Rest)]]
 
 ## Notable Places
+
 #### [[7. Duradin/4. Cities/Giant's Fall]]
+
 The [[6. Factions/4. Industrialists/Bloodhammer Clan]]'s seat of power in Torhmek and its largest city. All disputes and criminal proceedings are resolved in one of the many fighting pits in the city, and gambling on such is a passtime for many a dwarf here. Giant's Fall boasts a number of guildhalls that manage guild operations in the Khorvate.
+
 #### [[7. Duradin/4. Cities/Deeprock Hold]]
+
 Nestled deep in the mountain valley city of [[7. Duradin/4. Cities/Siege Rock]], [[7. Duradin/4. Cities/Deeprock Hold]] is the most notorious prison in Duradin. Wardens broker audiences with prisoners and grant communications for the powerful and wealthy. It's operated by [[6. Factions/4. Industrialists/Deeprock]], who report directly to the Ironroot Clan, but are mostly left to run the prison themslelves.
+
 #### The Scars
+
 A series of canyons formed during an ancient cataclysm, now used as racing grounds by the [[6. Factions/6. Criminal/Echo Wave Riders]]. Despite the lethality of the sport, racers all over Duradin compete for coin and fame. Invitations to the races are exclusive and require qualifying in hazardous conditions.
+
 #### [[7. Duradin/5. Places/The Hanging Tree]]
+
 A small, out-of-the-way tavern run by Dohma Raskovar of [[6. Factions/6. Criminal/The Ivory Throne]], an orc tribe that exists alongside the dwarves. While brawls do occasionally break out here, they are ended quickly and the instigators are banned for a time. Because of this, some parties conduct negotiations here to discourage escalation.
 
 ## Cities
+
 - [[7. Duradin/4. Cities/Red Hill]]
 - [[7. Duradin/4. Cities/Giant's Fall]]
 - [[7. Duradin/4. Cities/Overlook]]

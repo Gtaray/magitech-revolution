@@ -7,10 +7,10 @@ tags:
 cssclasses: ""
 ---
 
-
 When you **Scramble**, you lift, climb, jump, run, or swim, usually either away from or into danger. You might vault over a barricade while escaping authorities. You might climb up the side of a cliff to approach a secret base. You might dodge gun fire as you cross the hanger to get to your ship. You might chase after a mark you’re following (though **[[2. The Characters/3. Actions/Skulk]]** may be better).
 
 You can also use **Scramble** to move across difficult terrain. Perhaps you want to push through a deep river with decent speed, trek through the desert without suffering dehydration or alerting sandwyrms, or leap from your rigging to another [[8. Glossary/Airship\|airship]].
+
 ## GM Questions
 
 - How fast are you trying to move?
@@ -22,10 +22,12 @@ When you **Scramble**, you’re trading finesse for efficiency. You chase or eva
 You can use **Scramble** as a group action, when the entire group is running away from the problems they’ve just caused. When you consider the scene, imagine what that action scene looks like. Perhaps there’s gun fire raining down on them from across the courtyard. Perhaps all of them are scaling up a skydock's exterior. All **Scrambling** has an element of action or danger to it.
 
 When a **Scramble** roll goes badly, it’s almost never because the action fails outright. There may be unexpected complications, or trouble you didn’t see due to your speed. Let the action progress before demonstrating how it gets derailed. Push to the last possible moment to inject failure into the scene and **Scrambling** will feel punchy and tense.
+
 # Examples
+
 ## Controlled
 
-> *I want to climb up the side of the building, so I can drop in and listen in on their meeting from the rafters.*
+> _I want to climb up the side of the building, so I can drop in and listen in on their meeting from the rafters._
 
 **4/5 Minor Complication:** You make it up and through the skylights, but you realize the rafters don’t provide much cover. The door to the room is opening. Do you want to hide someplace else?
 
@@ -33,7 +35,7 @@ When a **Scramble** roll goes badly, it’s almost never because the action fail
 
 ## Risky
 
-> *Time to get out of here. I’m going to run across the hanger and onto our ship while they’re firing at us, dashing from crate to crate to block their shots.*
+> _Time to get out of here. I’m going to run across the hanger and onto our ship while they’re firing at us, dashing from crate to crate to block their shots._
 
 **4/5 [[1. How to Play/4. Harm, Stress & Trauma/Harm]]:** You make a mad dash for the [[8. Glossary/Airship\|airship]]. A few of the crates you hide behind get shot through. A brick wall lets you catch your breath for a moment. You’re almost to the ship, and you dive for a box before you look up and see the “Warning: Volatile” stamp on it. The explosion knocks both you and your opponents down. Take level 2 harm “Deaf and Concussed” as you manage to find your feet and scramble up the ship's gangplank.
 
@@ -41,7 +43,7 @@ When a **Scramble** roll goes badly, it’s almost never because the action fail
 
 ## Desperate
 
-> *I jump off the side of the airship as it explodes, looking to land on the rooftop below.*
+> _I jump off the side of the airship as it explodes, looking to land on the rooftop below._
 
 **4/5 Severe [[1. How to Play/4. Harm, Stress & Trauma/Harm]]:** You make it out and are halfway to the roof when the [[8. Glossary/Airship\|airship]] explodes. Take level 3 harm “Battered and Broken” as you bounce across the roof. Do you want to resist or use armor?
 

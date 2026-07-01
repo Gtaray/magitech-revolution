@@ -7,8 +7,8 @@ tags:
 cssclasses: ""
 ---
 
-
 When you **Attune**, you open your mind to the magical energies that flow through the world. It is how you connect with both the natural and the mystical. You might communicate with a wild animal. You could conjure or calm the wild fury of nature. You might safely handle ancient artifacts or remnants from bygone eras (though **[[2. The Characters/3. Actions/Doctor]]** might be better). It can even be used to detect ambient magical effects, either natural or conjured (though **[[2. The Characters/3. Actions/Study]]** might be better).
+
 ## GM Questions
 
 - How do you connect to the mystical? What does that look like?
@@ -22,10 +22,12 @@ The fact that most people don't consider these things does not, of course, keep 
 Any PC can **Attune**. It's not a rare or supernatural gift, or tied to specific bloodlines. The land is always there for those with the willingness to push their awareness. Druids can (and sometimes must) **Attune** as the action for many of their powers. Without a connection to the land, such powers cannot manifest.
 
 Druidic enclaves often regulate based on their understanding of the natural and mystical world. They might forbid travel through an area, or recommend common folk take certain actions to appease natural spirits. Be aware that manifesting such powers may put you under a spotlight. Some people will see you as blessed and ask for aid, while others will turn you in to the authorities for being a threat or menace.
+
 # Examples
+
 ## Controlled
 
-> *I Attune to the magic in the area to sense what is influencing me to speak only the truth with this Ashen Knives thug.*
+> _I Attune to the magic in the area to sense what is influencing me to speak only the truth with this Ashen Knives thug._
 
 **4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect\|Effect]]:** You sense the influence of a magical artifact somewhere on the thug's person, but you can't identify exactly what it is. Is it that ornate necklace with the strange gem, or the mechanical looking ring?
 
@@ -33,7 +35,7 @@ Druidic enclaves often regulate based on their understanding of the natural and 
 
 ## Risky
 
-> *Now that I'm on the enemy ship, I'd like to Attune to the spirits in their relic engine and try to limit their output to shut down the ship.*
+> _Now that I'm on the enemy ship, I'd like to Attune to the spirits in their relic engine and try to limit their output to shut down the ship._
 
 **4/5 Complication:** You reach out to the spirits of fire and lightning trapped in the relic engine and temporarily quell their fury. The ship creaks and you lurch forward as the ship loses speed. You can also immediately feel that the ship is losing altitude, fast. What do you do?
 
@@ -41,8 +43,8 @@ Druidic enclaves often regulate based on their understanding of the natural and 
 
 ## Desperate
 
-> *As this desert sandwyrm is about to bear down on me, I'll Attune to it so it can understand me before I Command it to stop.*
+> _As this desert sandwyrm is about to bear down on me, I'll Attune to it so it can understand me before I Command it to stop._
 
 **4/5 Serious Complication:** You reach out to its mind. The wyrm will understand you and you have a few moments before its on top of you, but you see a shift in the sands a few hundred feet away; it's mate is quickly burrowing towards you! What do you do?
 
-**1-3 Severe [[1. How to Play/4. Harm, Stress & Trauma/Harm]]:** The wyrm leaps as you speak at it and tears at your throat. You sense in it a loyalty to some unseen master, and its rage at you as an invader on its territory. You're knocked down and pinned by the wyrm, and also suffer level 3 harm "Crushed Throat." You can resist either or both of these.**
+**1-3 Severe [[1. How to Play/4. Harm, Stress & Trauma/Harm]]:** The wyrm leaps as you speak at it and tears at your throat. You sense in it a loyalty to some unseen master, and its rage at you as an invader on its territory. You're knocked down and pinned by the wyrm, and also suffer level 3 harm "Crushed Throat." You can resist either or both of these.\*\*

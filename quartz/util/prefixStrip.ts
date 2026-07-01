@@ -3,5 +3,5 @@
  * Removes patterns like "1. ", "2. ", etc. from the beginning of a string
  */
 export function stripNumericPrefix(text: string): string {
-  return text.replace(/^\d+\.\s+/, "");
+  return text.replace(/^\d+\.\s+/, "")
 }

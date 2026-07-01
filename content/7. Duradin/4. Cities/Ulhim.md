@@ -9,7 +9,7 @@ tags:
 cssclasses: ""
 ---
 
-A sprawling complex of old megalithic temples that, in the past, was a place of congregation for the many druid circles and shamanic orders. Many relics of that lost age still hide within the abandoned reaches of the temple complex, protected by forgotten magics. 
+A sprawling complex of old megalithic temples that, in the past, was a place of congregation for the many druid circles and shamanic orders. Many relics of that lost age still hide within the abandoned reaches of the temple complex, protected by forgotten magics.
 
 The population of permanent residence is quite small, as the town is mostly a place for nomadic tribes to shelter from the weather.
 

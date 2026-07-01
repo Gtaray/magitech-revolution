@@ -7,8 +7,8 @@ tags:
 cssclasses: ""
 ---
 
-
 When you **Sway**, you influence someone with guile, charm, or logic. You might outright lie to someone’s face. You might persuade a sucker to believe you. You might argue the facts with an officer. You could try to trick people into affection or obedience (but **[[2. The Characters/3. Actions/Consort]]** or **[[2. The Characters/3. Actions/Command]]** might be better).
+
 ## GM Questions
 
 - Who do you **Sway**? What kind of leverage do you have here?
@@ -22,10 +22,12 @@ Additionally, **Swaying** someone isn’t mind control. You need some reason for
 It’s not possible to use **Sway** when the target won’t listen to you. No amount of fast talk will convince the pirates whose ship you boarded that you fell in through an airlock by accident. If you need to convince someone that you’re someone you’re not for a moment, look at the Druid’s [[2. The Characters/2. Playbooks/Druid#Special Abilities\|The Old Tongue]] ability.
 
 You might be able to **Sway** another character. Ask the player if they have some reason they could be **Swayed** by you—perhaps you’re the captain and it’s your ship, or they owe you a favor. If you don’t have anything, you won’t be able to convince them.
+
 # Examples
+
 ## Controlled
 
-> *“Look, we helped you out on that last gig for almost no profit. I’m just saying you need to look the other way on this one. You owe us.”*
+> _“Look, we helped you out on that last gig for almost no profit. I’m just saying you need to look the other way on this one. You owe us.”_
 
 **4/5 Minor Complication:** “Okay fine. But you know they’ll grill both of us about what happened after this, and our stories better match. The Knives don’t mess around. Give me your word.”
 
@@ -35,7 +37,7 @@ You might be able to **Sway** another character. Ask the player if they have som
 
 ## Risky
 
-> *Of course I’m scheduled for this delivery. Didn’t you get the updated manifest? Look, the boss will have both our heads if I don’t get this package inside.*
+> _Of course I’m scheduled for this delivery. Didn’t you get the updated manifest? Look, the boss will have both our heads if I don’t get this package inside._
 
 **4/5 Complication:** “No problem. Go right to bay 3 and get the cargo unloaded. Jak and his crew are in there already waiting for the refit.”
 
@@ -45,7 +47,7 @@ You might be able to **Sway** another character. Ask the player if they have som
 
 ## Desperate
 
-> *Look, we’re just regular turnip merchants traveling to Ramthas. There’s no need to go through all this trouble.*
+> _Look, we’re just regular turnip merchants traveling to Ramthas. There’s no need to go through all this trouble._
 
 **4/5 Serious Complication:** “Yeah, we heard. Prepare to be boarded. The lieutenant is coming over to discuss our... ‘import fees.’”
 

@@ -7,8 +7,8 @@ tags:
 cssclasses: ""
 ---
 
-
 When you **Command**, you compel obedience with your force of personality. You might intimidate or threaten to get what you want. You may lead an action with NPCs. You might order people to do what you want (though **[[2. The Characters/3. Actions/Sway]]** might be better)
+
 ## GM Questions
 
 - Who do you **Command**? How do you do it—what’s your leverage here?
@@ -20,10 +20,12 @@ When you **Command** someone, you don’t care about what they want. You tell th
 You can lead a group of people by giving orders with **Command**, or sending a group of NPCs to do something according to your instructions. Handle it as a “group action” teamwork maneuver with you rolling Command and the group of NPCs rolling their quality.
 
 You might be able to **Command** another PC. Ask the player if their character has reason to follow your orders—fear, trust, respect, etc. If they do, then your action can force them to comply. If they don’t, then your action can only disrupt them somehow. You might frighten them with intimidation (inflicting harm), cause them to hesitate at a crucial moment, make them look weak in front of others, etc. Remember, **Command** isn’t mind control, but it is an intense interaction. The other player will judge if their character can be ordered around or not.
+
 # Examples
+
 ## Controlled
 
-> *As the doorman tries to stop me, I give him an icy glare and straighten my coat with my ship insignia on it so he remembers exactly who I am.*
+> _As the doorman tries to stop me, I give him an icy glare and straighten my coat with my ship insignia on it so he remembers exactly who I am._
 
 **4/5 Risky [[1. How to Play/3. Threat Roll/3. Position\|Position]]:** The bodyguard takes one look at you and flexes his enormously and obviously well-kept body. “I don’t care who you are. Get in line.” Are you going to get into it with him or back off?
 
@@ -31,7 +33,7 @@ You might be able to **Command** another PC. Ask the player if their character h
 
 ## Risky
 
-> *I shout at the officer firing at us that we’re licensed bounty hunters and that we need to go after our target!*
+> _I shout at the officer firing at us that we’re licensed bounty hunters and that we need to go after our target!_
 
 **4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect\|Effect]]:** The authorities stop firing for a moment but keep their guns trained on you. “Nobody move! Give us your registration number and we’ll call it in!” This may take a moment. Do you wait for them to run your ID?
 
@@ -39,7 +41,7 @@ You might be able to **Command** another PC. Ask the player if their character h
 
 ## Desperate
 
-> *I hold up a switch, and tell Kreel it’s not his day. I Command him to take his thugs and go or I’ll blow this whole ship to pieces.*
+> _I hold up a switch, and tell Kreel it’s not his day. I Command him to take his thugs and go or I’ll blow this whole ship to pieces._
 
 **4/5 Serious Complication:** Kreel holds up a hand and his underlings freeze. “This isn’t over,” he pronounces, as they back off. Let’s make a clock, called “Kreel Exacts Revenge” with four segments, and start with three of those filled in. Crossing a criminal of this power should not be done lightly.
 
