@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T21:45:47.973-07:00
+modified: 2026-07-01T11:16:52.966-07:00
 tags:
   - crewtype
 cssclasses: ""
@@ -25,7 +25,7 @@ Take **-2 [[4. The Job/6. Heat\|Heat]]** on any legitimate military job. Your sh
 _This also means that you carry mercenary licenses. Sometimes this can be leveraged to explain being places you generally shouldn’t be, and carry weapons when others may be stripped of them. Law cooperation varies from region to region._
 
 ### Forewarned, Forearmed
-During a job, the first **[[4. The Job/3. Flashbacks\|flashback]]** anyone in the crew initiates costs **0 [[1. How to Play/4. Harm, Stress & Trauma/Stress\|stress]]**, and if it involves a **[[5. Downtime/5. Downtime Activities/Work#Long-Term Project\|long-term project]]** or **[[5. Downtime/5. Downtime Activities/Acquire\|acquiring an asset]]**, it also costs **0 [[2. The Characters/4. Rules/Coin]]**.
+During a job, the first **[[4. The Job/3. Flashbacks\|flashback]]** anyone in the crew initiates costs **0 [[1. How to Play/4. Harm, Stress & Trauma/Stress\|stress]]**, or if it involves a **[[5. Downtime/5. Downtime Activities/Work#Long-Term Project\|long-term project]]** or **[[5. Downtime/5. Downtime Activities/Acquire\|acquiring an asset]]**, it costs **0 [[2. The Characters/4. Rules/Coin]]**.
 
 _Knowing what mess you're about to step in goes a long way in this line of work. Depending on your contacts and leverage, more than a simple gather info check might be required._
 
@@ -50,7 +50,7 @@ When you intentionally let a mark slip, make them a crew contact.
 _While you may not receive payout from the factions hiring you, many marks have a few coin saved up they’re willing to trade for freedom. More lucrative though are the jobs or hot tips they might have. Add the target as a crew contact, though bear in mind they may someday get captured by other crew (and may pay for a rescue by your crew). Not every mercenary captures their targets, so the GM will (or won’t) adjust faction status as fictionally required at the end of such a job._
 
 ### Deadly
-Each PC may add 1 action rating to **[[2. The Characters/3. Actions/Command]]**, **[[2. The Characters/3. Actions/Scrap]]**, or **[[2. The Characters/3. Actions/Skulk]]** (up to a max of 3).
+Each PC may add 1 action rating to **[[2. The Characters/3. Actions/Study]]**, **[[2. The Characters/3. Actions/Scrap]]**, or **[[2. The Characters/3. Actions/Skulk]]** (up to a max of 3).
 
 _Each player may choose the action they prefer (you don’t all have to choose the same one). If you take this ability during initial character and crew creation, it supersedes the normal starting limit for action ratings._
 
@@ -63,7 +63,7 @@ Sometimes legality is only a question of who's quickest to the draw. Each crew m
 A suite of gear that is designed to help you manage folks and get them to do what you want them to do. Gain **potency** for such actions.
 
 ### Hard Knocks
-Sometimes luck is just hard-earned experience. Your crew starts each job with **+1 [[1. How to Play/3. Threat Roll/5. Gambits\|gambit]]**. It costs two advancements to unlock this instead of the usual one.
+Luck is just hard-earned experience. Your crew starts each job with **+1 [[1. How to Play/3. Threat Roll/5. Gambits\|gambit]]**. It costs two advancements to unlock this instead of the usual one.
 
 ### Tracers
 A wide array of ways to track your targets. Includes a variety of divination and detection spells, uniquely attuned scrying targets that can be hidden on clothes with a suave pat on the back, marks that can attach to hulls, and even ways to intercept unprotected messages from a Sending array. Legality varies, often by the importance of the target, but a [[3. The Crew/2. Crews Archetypes/Professionals#Licensed\|license]] makes it all legal.

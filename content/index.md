@@ -15,15 +15,15 @@ In this homebrewed **Blades in the Dark** campaign, you will play as a crew of d
 This game will definitely stretch into science fantasy rather than your normal heroic fantasy. Depending on how your crew shakes out, any of the following bits of media could give you a good idea for the kind of game to expect: Firefly/Serenity, Cowboy Bebop, Star Wars, Ocean's Eleven, Burn Notice, Stargate SG-1, Final Fantasy 7, The Black Company.
 
 # Latest Updates
-| File                                                      | Modified               |
-| --------------------------------------------------------- | ---------------------- |
-| [[4. The Job/5. Payoff\|5. Payoff]]                    | Jun 30, 2026, 10:36 PM |
-| [[3. The Crew/3. Airships/Aurora Class\|Aurora Class]] | Jun 30, 2026, 10:33 PM |
-| [[3. The Crew/3. Airships/Dragon Class\|Dragon Class]] | Jun 30, 2026, 10:26 PM |
-| [[2. The Characters/2. Playbooks/Pilot\|Pilot]]        | Jun 30, 2026, 10:17 PM |
-| [[4. The Job/4. Teamwork\|4. Teamwork]]                | Jun 30, 2026, 10:16 PM |
-| [[2. The Characters/2. Playbooks/Muscle\|Muscle]]      | Jun 30, 2026, 10:05 PM |
-| [[Uncreated Files\|Uncreated Files]]                   | Jun 30, 2026, 9:45 PM  |
+| File                                                                  | Modified               |
+| --------------------------------------------------------------------- | ---------------------- |
+| [[3. The Crew/2. Crews Archetypes/Weirdos\|Weirdos]]               | Jul 1, 2026, 11:59 AM  |
+| [[2. The Characters/1. Character Creation\|1. Character Creation]] | Jul 1, 2026, 11:56 AM  |
+| [[3. The Crew/2. Crews Archetypes/Professionals\|Professionals]]   | Jul 1, 2026, 11:16 AM  |
+| [[3. The Crew/2. Crews Archetypes/Renegades\|Renegades]]           | Jul 1, 2026, 10:05 AM  |
+| [[4. The Job/5. Payoff\|5. Payoff]]                                | Jun 30, 2026, 10:36 PM |
+| [[3. The Crew/3. Airships/Aurora Class\|Aurora Class]]             | Jun 30, 2026, 10:33 PM |
+| [[3. The Crew/3. Airships/Dragon Class\|Dragon Class]]             | Jun 30, 2026, 10:26 PM |
 
 
 ## A Note on AI

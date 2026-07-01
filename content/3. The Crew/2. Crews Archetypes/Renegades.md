@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T21:45:47.977-07:00
+modified: 2026-07-01T10:05:02.236-07:00
 tags:
   - crewtype
 cssclasses: ""
@@ -38,7 +38,7 @@ When you run a job against government factions, take **+1d** to the **[[4. The J
 _This applies to any job where your primary target is one of the major government factions. If the job inconveniences a faction but doesn’t involve their members, the bonus does not apply._
 
 ### Spark of Rebellion
-If you leave a calling card or a highly visible symbol of resistance on your job, gain **+2 [[4. The Job/6. Heat\|Heat]]**. Ignore up to **2 [[2. The Characters/4. Rules/Coin]]** you would spend during the next **[[5. Downtime/1. Downtime]]**, as your sympathizers cover some of your expenses.
+If you leave a calling card or a highly visible symbol of resistance on your job, gain **+2 [[4. The Job/6. Heat\|Heat]]**. Ignore up to **2 [[2. The Characters/4. Rules/Coin]]** you would spend during the next **[[5. Downtime/1. Downtime\|Downtime]]**, as your sympathizers cover some of your expenses.
 
 _When you take this ability, discuss what the symbol of your rebellion is. When you leave behind your calling card, it should be prominent or sure to be found._
 
