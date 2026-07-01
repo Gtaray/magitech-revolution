@@ -156,6 +156,45 @@ plugins:
     enabled: true
     options:
       folderClickBehavior: collapse
+      sortFn: |
+        (a, b) => {
+          const segA = (a?.slugSegment || "").toString()
+          const segB = (b?.slugSegment || "").toString()
+
+          const parsePrefix = (seg) => {
+            const m = seg.match(/^(\d+(?:\.\d+)*)\./)
+            return m ? m[1].split(".").map((n) => Number(n)) : null
+          }
+
+          const cmpArrays = (x, y) => {
+            const len = Math.max(x.length, y.length)
+            for (let i = 0; i < len; i++) {
+              const xv = x[i] ?? -1
+              const yv = y[i] ?? -1
+              if (xv !== yv) return xv - yv
+            }
+            return 0
+          }
+
+          if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+            const pa = parsePrefix(segA)
+            const pb = parsePrefix(segB)
+
+            if (pa && pb) {
+              const c = cmpArrays(pa, pb)
+              if (c !== 0) return c
+            } else if (pa && !pb) {
+              return -1
+            } else if (!pa && pb) {
+              return 1
+            }
+
+            return segA.localeCompare(segB, undefined, { numeric: true, sensitivity: "base" })
+          }
+
+          if (!a.isFolder && b.isFolder) return 1
+          return -1
+        }
       mapFn: |
         (node) => {
           if (node.displayName) {
