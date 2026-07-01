@@ -156,6 +156,13 @@ plugins:
     enabled: true
     options:
       folderClickBehavior: collapse
+      mapFn: |
+        (node) => {
+          if (node.displayName) {
+            node.displayName = node.displayName.replace(/^\d+(?:\.\d+)*\.(?:\s*[-_]\s*|\s+)*/, "")
+          }
+          return node
+        }
     layout:
       position: left
       priority: 50
