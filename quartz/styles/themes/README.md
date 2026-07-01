@@ -1,13 +1,13 @@
-# Tokyo Night
+# Behave dark
 
-- Theme: Tokyo Night
-- Author: tcmmichaelb139
+- Theme: Behave dark
+- Author: <a href="https://gitlab.com/chrismettal" target="_blank" rel="noopener noreferrer">Chrismettal</a>
 
 ## Preview
 
-[Open live preview (Quartz)](https://quartz-themes.github.io/tokyo-night/)
+[Open live preview (Quartz)](https://quartz-themes.github.io/behave-dark/)
 
-[Open live preview (Publish)](https://publish.saberzero.one/tokyo-night)
+[Open live preview (Publish)](https://publish.saberzero.one/behave-dark)
 
 ## Usage (Quartz)
 
@@ -15,7 +15,7 @@
 
 ```yaml
 env:
-  THEME_NAME: tokyo-night
+  THEME_NAME: behave-dark
 ```
 
 ```yaml
@@ -28,7 +28,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh tokyo-night
+./action.sh behave-dark
 ```
 
 ### Manual install

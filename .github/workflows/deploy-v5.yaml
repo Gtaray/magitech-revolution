@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  THEME_NAME: tokyo-night
+  THEME_NAME: behave-dark
 
 permissions:
   contents: read
