@@ -1,6 +1,6 @@
 ---
 publish: true
-created: 2026-01-27T18:18:52.261-08:00
+created: 1969-12-31T16:00:00.000-08:00
 modified: 2026-02-06T08:33:48.851-08:00
 tags:
   - faction
@@ -14,14 +14,14 @@ The Broadsheet Guild, also called "The Font", was born when Inan Thunderbrand cr
 - **Tier:** 2
 - **Turf:** Guild headquarters in [[7. Duradin/4. Cities/Ramthas]]. Field offices in any major city.
 - **NPCs:**
-  - Inan Thunderbrand, guild leader. Inventory and engineer, antisocial, genius.
-  - Onyx Orebeard, chief editor. Ambitious, opportunistic, skeezy.
-  - "Ozo", reporter. Trained spy, always grinning, nose for trouble.
+	- Inan Thunderbrand, guild leader. Inventory and engineer, antisocial, genius.
+	- Onyx Orebeard, chief editor. Ambitious, opportunistic, skeezy.
+	- "Ozo", reporter. Trained spy, always grinning, nose for trouble.
 
 - **Notable Assets:** Country-wide communications. Many independent journalists feeding them news.
 - **Quirks:** The bulk of the guild's workforce are contractors, selling stories they find. Many reporters are also trained spies.
 - **Allies:** [[6. Factions/4. Industrialists/Sender's Guild]], [[6. Factions/4. Industrialists/Dragonshield Clan]]
 - **Enemies:** [[6. Factions/6. Criminal/The Voice]]
 - **Situation:** While Inan invented the press, she's doesn't care much for the business of it; she's in it for the technology and keeps to herself. Onyx actually runs the business, and The Font is effectively his own private intelligence agency. The director leverages information coming into the network to blackmail and influence the powerful. Onyx has had a taste of the high-life and is looking to find a way into nobility.
-- **Goals:**
-  - Find blackmail on clan leaders
+- **Goals:** 
+	- Find blackmail on clan leaders

@@ -1,6 +1,6 @@
 ---
 publish: true
-created: 2026-01-27T18:18:52.303-08:00
+created: 1969-12-31T16:00:00.000-08:00
 modified: 2026-02-22T10:05:36.197-08:00
 cssclasses: ""
 ---
@@ -17,13 +17,13 @@ cssclasses: ""
 - Carrack Class - Heavy long-range cargo ship meant to haul mass goods from place to place. No weapons, fairly slow, moderately armored.
 - Auger Class - Heavy-duty mining ship. Includes crew quarters for a small crew, heavy armor, and a large enough cargo hold to haul raw materials. Might even include a [[3. The Crew/4. Ship Upgrades/1. Hull Upgrades#Exosuit Bay\|exosuit bay]] bay (though [[8. Glossary/Exosuit\|exosuit]] is not included)
 - Nomad Class - A medium sized exploration vessel that's perfect for a small crew to run daily jobs. It's not particularly fast, nor heavily armored, and lacks built-in weaponry, but it's a homey place to live while on the move. Its efficient engines means that it never needs to dock, ground, or even stop to recharge its engine.
-- Mantis Class - Blisteringly fast interdiction vessel designed to overwhelm other light and medium craft. Its weapons are designed for maximum disruption rather than outright destruction.
+- Mantis Class - Blisteringly fast interdiction vessel designed to overwhelm other light and medium craft. Its weapons are designed for maximum disruption rather than outright destruction. 
 
 # Altitude
 
-Most airships operate best when above 500 feet and below 3,000 feet. Maintaining an even altitude is not always reliable so you want to have a few hundred feet of vertical leeway. Not only that, but the engines operate best when out in open air; the elemental spirits of air and fire contained within the relic engines weaken when in the presence of earth and water.
+Most airships operate best when above 500 feet and below 3,000 feet. Maintaining an even altitude is not always reliable so you want to have a few hundred feet of vertical leeway. Not only that, but the engines operate best when out in open air; the elemental spirits of air and fire contained within the relic engines weaken when in the presence of earth and water. 
 
-Any fancy maneuvers when under 200 feet are automatically harder and have a weakened effect.
+Any fancy maneuvers when under 200 feet are automatically harder and have a weakened effect. 
 
 # Grounding
 

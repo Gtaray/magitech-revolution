@@ -1,6 +1,6 @@
 ---
 publish: true
-created: 2026-01-27T18:18:52.217-08:00
+created: 1969-12-31T16:00:00.000-08:00
 modified: 2026-02-06T12:37:03.184-08:00
 tags:
   - location
@@ -14,3 +14,4 @@ The capital city of all of [[7. Duradin/1. Dwarven Republic of Duradin\|Duradin]
 Baern is where the [[8. Glossary/Grand Council]] meets and deliberates, and it is where [[8. Glossary/Thane]] Hruun Ironroot IV spends most of his time, running the country.
 
 ![[Images/Baern.webp]]
+

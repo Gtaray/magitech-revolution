@@ -1,14 +1,14 @@
 ---
 publish: true
-created: 2026-01-27T18:18:52.381-08:00
+created: 1969-12-31T16:00:00.000-08:00
 modified: 2026-02-07T11:23:39.450-08:00
 tags:
   - action
 cssclasses: ""
 ---
 
-When you **Doctor**, you attend to the needs of another by lending aid and comfort, or you look scientifically at the world. You might treat someone’s injuries. You might analyze a substance’s composition to learn how it functions. You might comfort someone in distress (but **[[2. The Characters/3. Actions/Consort]]** might be better).
 
+When you **Doctor**, you attend to the needs of another by lending aid and comfort, or you look scientifically at the world. You might treat someone’s injuries. You might analyze a substance’s composition to learn how it functions. You might comfort someone in distress (but **[[2. The Characters/3. Actions/Consort]]** might be better).
 ## GM Questions
 
 - How do you attend to the patient in your care? What tools might be required to do so?
@@ -22,12 +22,10 @@ You can **Doctor** someone to connect with them and ease their fears. It can be 
 To **Doctor**, you need to establish some level of control over your subject. You can **Doctor** a patient in a medical office, or analyze a magical item in a laboratory. You can try to **Doctor** someone to help them shake off the effects of magical influences (though **[[2. The Characters/3. Actions/Command]]** or **[[2. The Characters/3. Actions/Attune]]** may be more appropriate). When you **Doctor** with the perfect tools, you can expect a better position and/or increased effect.
 
 You can **Doctor** someone to forcibly administer drugs or handle a hostile patient. In these situations, the subject must be vulnerable in some way. For instance, you may need to **[[2. The Characters/3. Actions/Skulk]]** up to a pirate before injecting them with a knock-out drug, or pin a hallucinating patient with **[[2. The Characters/3. Actions/Scrap]]** before giving them an antidote. Be mindful: **Doctoring** an unwilling patient can ruin relationships permanently
-
 # Examples
-
 ## Controlled
 
-> _I want to figure out where our bounty has gone. You mentioned there were boot prints in the hall. Can I get a soil sample?_
+> *I want to figure out where our bounty has gone. You mentioned there were boot prints in the hall. Can I get a soil sample?*
 
 **4/5 Reduced [[1. How to Play/3. Threat Roll/4. Effect\|Effect]]:** The dirt sample is common, though you do find traces of minerals found in a sizable cave system north of the city. You’ll have to search the area to find which specific cave it is though.
 
@@ -35,7 +33,7 @@ You can **Doctor** someone to forcibly administer drugs or handle a hostile pati
 
 ## Risky
 
-> _We’ll never make it to the ship with Suhn clutching her leg like that. I’m going to Doctor her up with some combat meds that’ll let her ignore the break and snap a field splint on her leg._
+> *We’ll never make it to the ship with Suhn clutching her leg like that. I’m going to Doctor her up with some combat meds that’ll let her ignore the break and snap a field splint on her leg.*
 
 **4/5 [[1. How to Play/4. Harm, Stress & Trauma/Harm]]:** The leg feels great but Suhn is barely aware of your presence as you put the splint on. She takes level 2 harm “Drugged.” You might have to **Command** her to get her to move.
 
@@ -43,7 +41,7 @@ You can **Doctor** someone to forcibly administer drugs or handle a hostile pati
 
 ## Desperate
 
-> _Two trained guards against a Stitch? I guess it’s lucky we’re in my lab. I smash a few vials of chemicals against the wall to create a cloud that’ll incapacitate them._
+> *Two trained guards against a Stitch? I guess it’s lucky we’re in my lab. I smash a few vials of chemicals against the wall to create a cloud that’ll incapacitate them.*
 
 **4/5 Severe [[1. How to Play/4. Harm, Stress & Trauma/Harm]]:** You throw two vials up, and a purple fog billows out. The guard fires and misses you. But you forgot this mixture was very volatile. There’s a sizable explosion. The guards are out cold, but you’re thrown into the opposing wall, shattering your ribs. Care to resist?
 

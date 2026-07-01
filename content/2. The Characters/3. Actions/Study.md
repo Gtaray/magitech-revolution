@@ -1,14 +1,14 @@
 ---
 publish: true
-created: 2026-01-27T18:18:52.392-08:00
+created: 1969-12-31T16:00:00.000-08:00
 modified: 2026-02-07T11:25:15.990-08:00
 tags:
   - action
 cssclasses: ""
 ---
 
-When you **Study**, you scrutinize details and interpret evidence. You might gather information from documents, schematics, and books. You might do research on an esoteric topic. You could try to examine events to understand a pressing situation. You might closely analyze a person to detect lies or true feelings (but **[Consort]** might be better). You could understand how a magic effect might be applied (but **[[2. The Characters/3. Actions/Doctor]]** or **[[2. The Characters/3. Actions/Attune]]** might be better).
 
+When you **Study**, you scrutinize details and interpret evidence. You might gather information from documents, schematics, and books. You might do research on an esoteric topic. You could try to examine events to understand a pressing situation. You might closely analyze a person to detect lies or true feelings (but **[Consort]** might be better). You could understand how a magic effect might be applied (but **[[2. The Characters/3. Actions/Doctor]]** or **[[2. The Characters/3. Actions/Attune]]** might be better).
 ## GM Questions
 
 - What details do you scrutinize? What kinds of things are you looking for?
@@ -23,12 +23,10 @@ You can also **Study** a situation or a place. Finding clues, finding out who’
 When you have all the data available to you, but you need to make sense of it, **Study** is the appropriate action. Occasionally, it may be questionable if you have all the right data. For instance, you may need to **[[2. The Characters/3. Actions/Attune]]** to sense the weird magical energies at a house before you can Study their pattern, or you may need to Hack into the mansion’s security system before you can **Study** the guards’ patrol schedule.
 
 Research of all kinds (often a long-term project) uses **Study**. Want to find out who has an interesting magical artifact collection and inadequate security? Want to know where the rebellion hangs out? Virtually any fact can be discovered through **Study**.
-
 # Examples
-
 ## Controlled
 
-> _I’m going to size up this guard. Is she really going to shoot me if I just bolt? Is there an opening here for me to escape?_
+> *I’m going to size up this guard. Is she really going to shoot me if I just bolt? Is there an opening here for me to escape?*
 
 **4/5 Minor Complication:** Her hands shake as she holds up the gun, and you get the sense that she’s never shot anyone before. In fact, the safety is still on. But she calls for backup. What do you do?
 
@@ -36,7 +34,7 @@ Research of all kinds (often a long-term project) uses **Study**. Want to find o
 
 ## Risky
 
-> _I’m going to watch the guard patrols with my scry-drone and try to time our safe drilling for when they’re far enough away that they can’t hear._
+> *I’m going to watch the guard patrols with my scry-drone and try to time our safe drilling for when they’re far enough away that they can’t hear.*
 
 **4/5 Complication:** There’s a perfect time when one of the guards brings in cake for his birthday and many of the guards stop in to grab a treat. It takes a bit of time before you get the opening, so I’m going to add two segments to this "Building Locks Down" clock.
 
@@ -44,7 +42,7 @@ Research of all kinds (often a long-term project) uses **Study**. Want to find o
 
 ## Desperate
 
-> _That exosuit has to have some sort of weakness somewhere. I keep my head down against the crates and try to pull up a schematic to Study if there’s anything I can do before he shreds me to pieces._
+> *That exosuit has to have some sort of weakness somewhere. I keep my head down against the crates and try to pull up a schematic to Study if there’s anything I can do before he shreds me to pieces.*
 
 **4/5 Severe [[1. How to Play/4. Harm, Stress & Trauma/Harm]] and serious complication:** The pirate laughs and charges in, knocking those crates on top of you. They’re seriously heavy. Take level 3 harm “Crushed.” You hear him laugh as he reaches down and picks you up, the mechanical hand easily encircling your torso. That’s when you spot it—a plate that would protect the relic engine has been knocked loose. The engine is right there...
 

@@ -1,29 +1,30 @@
 ---
 publish: true
-created: 2026-01-27T18:18:52.255-08:00
-modified: 2026-02-06T08:33:30.128-08:00
+created: 1969-12-31T16:00:00.000-08:00
+modified: 2026-06-15T08:45:01.256-07:00
 tags:
   - faction
   - industrialist
 cssclasses: ""
 ---
 
-The premier [[8. Glossary/Airship\|airship]] squadron. Highly meritocratic (mostly). Quietly preparing for a coup against the current [[8. Glossary/Thane\|thane]]. Has imperialistic ideas about spreading dwarven civilization.
+Formerly an independent military, the 21st Squadron was recently put under the direct control of the [[8. Glossary/Grand Council]] when it was discovered that the former leaders of the squadron were conspiring with [[Ajax the Invincible]] to bring about the downfall of [[8. Glossary/Thane]] Hruun Ironroot IV.
 
-- **Tier:** 4
+- **Tier:** 3
 - **Turf:** The Indomitable, their dreadnaught [[8. Glossary/Airship\|airship]] (Their HQ).
 - **NPCs:**
-  - Rigoth Sunblood, Commander. Disciplined, imposing
-  - Mundri Runemantle, Lieutenant. Wizard, loyal, eerie
-  - Sigrid Stormcloud, Ace pilot. Reckless, gambler, loyal
-  - R6, Spy. Construct, unreadable, mysterious, loyal
+	- High Admiral Estok Anvilhelm. Strict, disciplined
+	- Mundri Runemantle, Lieutenant. Wizard, suspicious, eerie
+	- Sigrid Stormcloud, Ace pilot. Reckless, gambler, loyal
+	- R6, Spy. Construct, unreadable, mysterious
+	- Rigoth Sunblood, Former Commander. Disciplined, imposing
+	- Talus Ashwind, Former commander. Serious, traitorous
 
 - **Notable Assets:** The Indomitable (largest airship ever built. "Steel Citadel", "The Mountain that Moves"). A fleet of smaller [[8. Glossary/Airship\|airship]] and the crews for them. Experimental magitech.
 - **Quirks:** There are no non-dwarves in the squadron
 - **Allies:** [[6. Factions/4. Industrialists/Amberspire Clan]], [[6. Factions/4. Industrialists/Sender's Guild]]
 - **Enemies:** [[6. Factions/6. Criminal/Ashen Knives]], [[6. Factions/5. Naturalist/Earthen Enclave]], [[6. Factions/6. Criminal/Heartfire Clan]], [[6. Factions/6. Criminal/The Maelstrom]]
-- **Situation:** Rigoth earned many commendations on the battlefield, but swore to cleanse the military of nepotism when his command was sacrificed to a Noble's daughter. He uses his arcanist lieutenant to vet officers and quietly place those loyal to him in positions of power.
+- **Situation:** Following the squadron's nationalization and the purge of the former leadership, the rank and file of the squadron are in a weird place. Most of the squadron had nothing to do with the conspiracy, but nonetheless they were highly loyal to the previous admirals. It is unclear how this change is going to shake out in the long-term
 - **Goal:**
-  - Remove anyone disloyal from the squadron
-  - Place loyal soldiers in positions of power
-  - Deposing the thane and installing a new thane loyal to the squadron
+	- Remove all traces of loyalty to the former leadership and claim complete control of the Squadron on behalf of the [[8. Glossary/Grand Council]]
+	- Discover caches of 21st Squadron gear that were hidden under the former leadership

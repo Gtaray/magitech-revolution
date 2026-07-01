@@ -1,31 +1,29 @@
 ---
 publish: true
 title: Home
-created: 2026-01-27T18:18:11.660-08:00
+created: 1969-12-31T16:00:00.000-08:00
 modified: 2026-02-07T11:15:37.085-08:00
 cssclasses: ""
 ---
 
-The game takes place in the [[7. Duradin/1. Dwarven Republic of Duradin|Dwarven Republic of Duradin]]: a massive country roughly the size of the continental United States. A millennia ago dwarves here invented the first [[8. Glossary/Airship|skyship]]. Over the centuries they've honed their craft, allowing their influence to spread larger than most empires could hope to. The last 50 years especially have seen arcanists, alchemists, and engineers inventing wonder after wonder: mechanical prosthetic limbs, advanced thinking constructs, medical devices, [[8. Glossary/Exosuit|exosuits]], [[8. Glossary/Lightning Rail|lightning trains]], and [[8. Glossary/Firearms|firearms]]. It is truly the age of the **Magitech Revolution**.
+The game takes place in the [[7. Duradin/1. Dwarven Republic of Duradin\|Dwarven Republic of Duradin]]: a massive country roughly the size of the continental United States. A millennia ago dwarves here invented the first [[8. Glossary/Airship\|skyship]]. Over the centuries they've honed their craft, allowing their influence to spread larger than most empires could hope to. The last 50 years especially have seen arcanists, alchemists, and engineers inventing wonder after wonder: mechanical prosthetic limbs, advanced thinking constructs, medical devices, [[8. Glossary/Exosuit\|exosuits]], [[8. Glossary/Lightning Rail\|lightning trains]], and [[8. Glossary/Firearms\|firearms]]. It is truly the age of the **Magitech Revolution**.
 
 But progress is not without its detractors. The ancient dwarven traditions of root and stream and stone have been cast aside, and practitioners of the natural magics decry the societal and ecological damage that industry is doing. Indeed a sizeable portion of the populace sees how magitech twists, warps, and even enslaves the natural magics of the earth. But progress cares not for the nostalgia of yesteryear, and marches ever forward to a brighter tomorrow.
 
-In this homebrewed **Blades in the Dark** campaign, you will play as a crew of dwarves operating your very own [[8. Glossary/Airship|airship]]. You are not heroes, adventurers, campaigners, or even ratcatchers. You are mercenaries, brigands, or terrorists operating on the fringes of society, living in the realms of questionable morality. You live one job to the next, hoping to make enough coin to keep your boat in the air, food in your bellies, and bullets in your sidearm.
+In this homebrewed **Blades in the Dark** campaign, you will play as a crew of dwarves operating your very own [[8. Glossary/Airship\|airship]]. You are not heroes, adventurers, campaigners, or even ratcatchers. You are mercenaries, brigands, or terrorists operating on the fringes of society, living in the realms of questionable morality. You live one job to the next, hoping to make enough coin to keep your boat in the air, food in your bellies, and bullets in your sidearm.
 
 This game will definitely stretch into science fantasy rather than your normal heroic fantasy. Depending on how your crew shakes out, any of the following bits of media could give you a good idea for the kind of game to expect: Firefly/Serenity, Cowboy Bebop, Star Wars, Ocean's Eleven, Burn Notice, Stargate SG-1, Final Fantasy 7, The Black Company.
 
 # Latest Updates
-
-| File                                                                    | Modified              |
-| ----------------------------------------------------------------------- | --------------------- |
-| [[5. Downtime/5. Downtime Activities/Indulge Vice\|Indulge Vice]]       | Apr 2, 2026, 12:33 PM |
-| [[3. The Crew/3. Airships/Aurora Class\|Aurora Class]]                  | Mar 25, 2026, 9:22 AM |
-| [[3. The Crew/4. Ship Upgrades/2. Engine Upgrades\|2. Engine Upgrades]] | Mar 25, 2026, 9:10 AM |
-| [[3. The Crew/3. Airships/Dragon Class\|Dragon Class]]                  | Mar 25, 2026, 9:06 AM |
-| [[3. The Crew/3. Airships/Oracle Class\|Oracle Class]]                  | Mar 25, 2026, 9:01 AM |
-| [[3. The Crew/3. Airships/Nomad Class\|Nomad Class]]                    | Mar 25, 2026, 9:01 AM |
-| [[3. The Crew/3. Airships/Augur Class\|Augur Class]]                    | Mar 25, 2026, 9:00 AM |
+| File                                                                                         | Modified              |
+| -------------------------------------------------------------------------------------------- | --------------------- |
+| [[copilot/copilot-custom-prompts/Rewrite as tweet thread\|Rewrite as tweet thread]]       | Jun 30, 2026, 8:01 PM |
+| [[copilot/copilot-custom-prompts/Clip YouTube Transcript\|Clip YouTube Transcript]]       | Jun 30, 2026, 8:01 PM |
+| [[copilot/copilot-custom-prompts/Clip Web Page\|Clip Web Page]]                           | Jun 30, 2026, 8:01 PM |
+| [[copilot/copilot-custom-prompts/Remove URLs\|Remove URLs]]                               | Jun 30, 2026, 8:01 PM |
+| [[copilot/copilot-custom-prompts/Rewrite as tweet\|Rewrite as tweet]]                     | Jun 30, 2026, 8:01 PM |
+| [[copilot/copilot-custom-prompts/Make longer\|Make longer]]                               | Jun 30, 2026, 8:01 PM |
+| [[copilot/copilot-custom-prompts/Generate table of contents\|Generate table of contents]] | Jun 30, 2026, 8:01 PM |
 
 ## A Note on AI
-
 Anyone who has tried to search for art to use in a TTRPG has undoubtedly discovered how difficult it is to find human-made art. None of the art you will find in this compendium was generated by me, but some of the images here are AI-generated images I found online. I will make every effort possible to find human-made art first, but for when that fails, I will have to resort to (already generated) AI images.
