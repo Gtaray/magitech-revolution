@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T21:45:48.220-07:00
+modified: 2026-07-02T07:41:52.510-07:00
 tags:
   - faction
   - criminal
@@ -14,11 +14,11 @@ The previous [[8. Glossary/Thane\|thane]] of [[7. Duradin/1. Dwarven Republic of
 - **Tier:** 4
 - **Turf:** Heartfire, a skyship built for battle. A hideout in an abandoned mining town (HQ).
 - **NPCs:**
-  - [[8. Glossary/Magnar]] Ulfar Heartfire. Disciplined, veteran, inspiring.
-  - Captain Jukka. Tough, stoic, unhesitating.
-  - Lt. Sani. Ace pilot, bitter, just.
-  - Doedra Heartfire, the one true Heartfire heir. Young, royal, clever.
-  - Ertra. Royal guard, potent, unstoppable.
+	- [[8. Glossary/Magnar]] Ulfar Heartfire. Disciplined, veteran, inspiring.
+	- Captain Jukka. Tough, stoic, unhesitating.
+	- Lt. Sani. Ace pilot, bitter, just.
+	- Doedra Heartfire, the one true Heartfire heir. Young, royal, clever.
+	- Ertra. Royal guard, potent, unstoppable.
 
 - **Notable Assets:** A warship. State secrets. Many highly trained warriors.
 - **Quirks:** All heartfire clansmen have been branded as traitors. Many bear the tattoo of a roaring flame.
@@ -26,4 +26,4 @@ The previous [[8. Glossary/Thane\|thane]] of [[7. Duradin/1. Dwarven Republic of
 - **Enemies:** Most, if not all, governmental clans and organizations
 - **Situation:** Those still calling themselves Heartfire Clan are committed to reclaiming the thanedom. They protect a young girl who is the heir to the last thane, whom they intend to reinstate. They plan to steal the Spear of Memories from the Ironroots and use it to bless the girl.
 - **Goals:**
-  - Steal the Spear of Memories
+	- Steal the Spear of Memories

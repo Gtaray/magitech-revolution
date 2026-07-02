@@ -2,7 +2,7 @@
 publish: true
 title: Home
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T21:45:48.534-07:00
+modified: 2026-07-02T07:41:52.826-07:00
 cssclasses: ""
 ---
 
@@ -15,15 +15,15 @@ In this homebrewed **Blades in the Dark** campaign, you will play as a crew of d
 This game will definitely stretch into science fantasy rather than your normal heroic fantasy. Depending on how your crew shakes out, any of the following bits of media could give you a good idea for the kind of game to expect: Firefly/Serenity, Cowboy Bebop, Star Wars, Ocean's Eleven, Burn Notice, Stargate SG-1, Final Fantasy 7, The Black Company.
 
 # Latest Updates
-| File                                                                  | Modified               |
-| --------------------------------------------------------------------- | ---------------------- |
-| [[3. The Crew/2. Crews Archetypes/Weirdos\|Weirdos]]               | Jul 1, 2026, 11:59 AM  |
-| [[2. The Characters/1. Character Creation\|1. Character Creation]] | Jul 1, 2026, 11:56 AM  |
-| [[3. The Crew/2. Crews Archetypes/Professionals\|Professionals]]   | Jul 1, 2026, 11:16 AM  |
-| [[3. The Crew/2. Crews Archetypes/Renegades\|Renegades]]           | Jul 1, 2026, 10:05 AM  |
-| [[4. The Job/5. Payoff\|5. Payoff]]                                | Jun 30, 2026, 10:36 PM |
-| [[3. The Crew/3. Airships/Aurora Class\|Aurora Class]]             | Jun 30, 2026, 10:33 PM |
-| [[3. The Crew/3. Airships/Dragon Class\|Dragon Class]]             | Jun 30, 2026, 10:26 PM |
+| File                                                                  | Modified              |
+| --------------------------------------------------------------------- | --------------------- |
+| [[6. Factions/5. Naturalist/Acolytes of Many\|Acolytes of Many]]   | Jul 2, 2026, 10:30 AM |
+| [[6. Factions/5. Naturalist/Earthquake\|Earthquake]]               | Jul 2, 2026, 10:30 AM |
+| [[6. Factions/4. Industrialists/Captain's Guild\|Captain's Guild]] | Jul 2, 2026, 10:24 AM |
+| [[2. The Characters/2. Playbooks/Muscle\|Muscle]]                  | Jul 2, 2026, 7:42 AM  |
+| [[Uncreated Files\|Uncreated Files]]                               | Jul 2, 2026, 7:41 AM  |
+| [[index\|index]]                                                   | Jul 2, 2026, 7:41 AM  |
+| [[HawklordCaptains's s\|HawklordCaptains's s]]                     | Jul 2, 2026, 7:41 AM  |
 
 
 ## A Note on AI

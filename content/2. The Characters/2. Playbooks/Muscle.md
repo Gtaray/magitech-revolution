@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T22:05:32.689-07:00
+modified: 2026-07-02T07:42:53.608-07:00
 tags:
   - playbook
 cssclasses: ""
@@ -50,8 +50,8 @@ _If you want some guidance when you assign your four starting action dots and sp
 ### Unstoppable
 You can **[[1. How to Play/3. Threat Roll/2. Push Yourself\|push yourself]]** to do one of the following:
 
-* Perform a feat of physical force that verges on the superhuman
-* Engage a small gang on equal footing in close combat.
+- Perform a feat of physical force that verges on the superhuman
+- Engage a small gang on equal footing in close combat.
 
 _A superhuman feat is one a regular person could not do unassisted, such as tearing apart metal handcuffs. If you engage a small gang on equal footing, you have equal scale._
 

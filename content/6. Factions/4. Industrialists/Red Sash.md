@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T21:45:48.146-07:00
+modified: 2026-07-02T07:41:52.435-07:00
 tags:
   - faction
   - industrialist
@@ -14,9 +14,9 @@ A small guild of doctors and medical magitech researchers pushing the boundaries
 - **Tier:** 1
 - **Turf:** A research facility in [[7. Duradin/4. Cities/Dur Olo]]. A hospital in [[7. Duradin/4. Cities/Gomragh]] (HQ)
 - **NPCs:**
-  - Oswin Silverward, Guildmaster. Pushing boundaries, augmented, visionary.
-  - Gurj Kraghammer, Office Manager. Honest, disillusioned, tired.
-  - Olma Copperbottle, Technician. Indebted, doctor, by the books.
+	- Oswin Silverward, Guildmaster. Pushing boundaries, augmented, visionary.
+	- Gurj Kraghammer, Office Manager. Honest, disillusioned, tired.
+	- Olma Copperbottle, Technician. Indebted, doctor, by the books.
 
 - **Notable Assets:** Triage, a small [[8. Glossary/Airship\|airship]] that is their mobile hospital. Medical research, trained physickers and surgeons. Advanced medical equipment.
 - **Quirks:** While they are a pro-industry faction, many in the guild are opposed to the [[6. Factions/4. Industrialists/Guild of Engineers]]' monopoly
@@ -24,4 +24,4 @@ A small guild of doctors and medical magitech researchers pushing the boundaries
 - **Enemies:** [[6. Factions/4. Industrialists/Guild of Engineers]]
 - **Situation:** Many of their new innovations are claimed by the [[6. Factions/4. Industrialists/Guild of Engineers]], who assume all rights to manufacture and sell Red Sash inventions. For the doctors this means that accessing devices necessary to do their jobs is mired in bureaucratic nonsense, and for technicians it means not being recognized or paid for their hard work. This has led to something of a schism in the guild: those that do the bare minimum, and those pushing to invent something so revolutionary that their guild can't be ignored.
 - **Goals:**
-  - Create the world's first working magitech heart
+	- Create the world's first working magitech heart
