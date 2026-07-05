@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-07-02T07:41:52.279-07:00
+modified: 2026-07-05T16:11:47.850-07:00
 tags:
   - airshiptype
 cssclasses: ""
 ---
 
-A powerful air superiority fighter designed to establish control over an area with overwhelming force. Normally ships of this caliber require larger crews of 10 to 20 people, but she can be flown with a skeleton crew of 5, she albeit at reduced effectiveness.
+A powerful air superiority fighter designed to establish control over an area with overwhelming force. Normally ships of this caliber require larger crews of 10 to 20 people, but she can be flown with a skeleton crew of 5, albeit at reduced effectiveness.
 
 As a superiority fighter, her **Weapon** and **Hull** capacities are a staggering 5, the highest possible rating for non-capital ships. And since she's a weapons platform first and foremost, both **Engines** and **Support** systems are limited to a rating of 3.
 
