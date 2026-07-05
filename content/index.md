@@ -17,7 +17,7 @@ This game will definitely stretch into science fantasy rather than your normal h
 # Latest Updates
 | File                                                                  | Modified              |
 | --------------------------------------------------------------------- | --------------------- |
-| [[3. The Crew/1. Crew Creation\|1. Crew Creation]]                 | Jul 5, 2026, 3:47 PM  |
+| [[3. The Crew/1. Crew Creation\|1. Crew Creation]]                 | Jul 5, 2026, 4:06 PM  |
 | [[6. Factions/5. Naturalist/Acolytes of Many\|Acolytes of Many]]   | Jul 2, 2026, 10:30 AM |
 | [[6. Factions/5. Naturalist/Earthquake\|Earthquake]]               | Jul 2, 2026, 10:30 AM |
 | [[6. Factions/4. Industrialists/Captain's Guild\|Captain's Guild]] | Jul 2, 2026, 10:24 AM |
