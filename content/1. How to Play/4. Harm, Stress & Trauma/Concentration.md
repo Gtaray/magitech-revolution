@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:44.850-07:00
+modified: 2026-07-02T07:41:52.126-07:00
 tags:
   - rules
 cssclasses: ""
 ---
-
 
 Occasionally something requires your complete and undivided attention, to the point that it would be difficult to think or do anything else. Most commonly concentration is required to maintain powerful persistent spells or magical effects.
 

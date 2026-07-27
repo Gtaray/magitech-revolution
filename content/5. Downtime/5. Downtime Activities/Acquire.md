@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.229-07:00
+modified: 2026-07-02T07:41:52.368-07:00
 tags:
   - downtime
 cssclasses: ""
 ---
-
 
 Gain temporary items, services, vehicles, or specialists for the crew. Make a **[[1. How to Play/1. The Basics/3. Progress Clocks\|4-segment supply ]]** for the acquisition, to be ticked each time it’s used in a consequential way.
 

@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.470-07:00
+modified: 2026-07-02T07:41:52.669-07:00
 tags:
   - location
   - city
   - setting
 cssclasses: ""
 ---
-
 
 Khal Boldur is said to be the birthplace of the first dwarves, and something of a holy city. While organized religion is not really a thing in Duradin, the [[6. Factions/7. Other Dwarf Clans/Greystone Clan]] ([[8. Glossary/Magnar]] Ednera Greystone) is the closest there is to a religious order. They maintain the Godforge, an ancient, massive, and mystical forge that only the [[6. Factions/7. Other Dwarf Clans/Greystone Clan]] know the secrets of (or at least they say they do).
 

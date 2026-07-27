@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.393-07:00
+modified: 2026-07-02T07:41:52.563-07:00
 tags:
   - location
   - khorvate
   - setting
 cssclasses: ""
 ---
-
 
 - **[[8. Glossary/Khorvar]]:** Tormun Hailstone
 - **Faction Presence:** [[6. Factions/5. Naturalist/Hailstone Clan]], [[6. Factions/5. Naturalist/Brightstone Clan]], [[6. Factions/5. Naturalist/Earthen Enclave]], [[6. Factions/5. Naturalist/Beasthearts]]
@@ -25,7 +24,6 @@ The [[6. Factions/5. Naturalist/Hailstone Clan]] became the [[8. Glossary/Khorva
 Nearly all of the dwarves here keep to the older traditions of earth and stream and stone. Shamans and druids and barbarians are common. The dwarves here dislike the industry and technology that the rest of the country pursues; it is a corruption and misalignment of dwarven ways.
 
 ## Territories
-
 - [[7. Duradin/3. Territories/Egar Fotthor (Whispering Woods)]]
 - [[7. Duradin/3. Territories/Irol Zimkel (Northern Plains)]]
 - [[7. Duradin/3. Territories/Ubal Nïr (Spiritholme)]]
@@ -33,23 +31,18 @@ Nearly all of the dwarves here keep to the older traditions of earth and stream 
 ## Notable Places
 
 #### [[7. Duradin/4. Cities/Taj]]
-
 One of the few permanent towns in Oghrann and the seat of power for the [[6. Factions/5. Naturalist/Hailstone Clan]]. On the surface it's little more than a collection of carved stone buildings, but underground it is a sprawling network of carved caves where folks actually live and work. Taj is a common place for groups to meet up before mounting expeditions into the wilds, so there's always a variety of people coming and going from town.
 
 #### The Crown of Fire
-
 A ring of volcanic mountains. It's been many generations since the last eruption, but folks still spin yarns about the Old Dragon - a great red dragon living there. While the name is whimsical, the [[6. Factions/5. Naturalist/Hailstone Clan]] has forbidden travel in the region after several groups disappeared.
 
 #### Dendara
-
 An ancient temple built at the very top of a mountain peak. Some say it's a temple to the moon spirit, others that it's the remains of a forgotten clan. It's lonely halls are tough to tour due to the high winds, frigid temperatures, and the strange effects the place has on magitech.
 
 #### Wreck of the Songbird
-
 The Songbird, an airship, crashed here a decade ago, and something about the wreck didn't sit well with the land. Traversing the area is near impossible, monsters of all types are drawn here, and the weather is unpredictable at best. Rumors are the ship was carrying some important and valuable cargo, but the last crew that tried to salvage the wreck never made it back.
 
 ## Cities
-
 - [[7. Duradin/4. Cities/Taj]]
 - [[7. Duradin/4. Cities/Ulhim]]
 - [[7. Duradin/4. Cities/Derwohr]]

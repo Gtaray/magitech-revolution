@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.539-07:00
+modified: 2026-07-02T07:41:52.786-07:00
 cssclasses: ""
 ---
-
 
 When refined, it takes on a brilliant sterling silver shine. Mithril is, notably, "light as a feather, but hard as dragon scales", and it does not tarnish. Despite its overall scarcity, it is found in enough abundance in [[7. Duradin/1. Dwarven Republic of Duradin\|Duradin]] to be used, at least partially, in [[8. Glossary/Airship]] manufacturing. The [[6. Factions/5. Naturalist/Brightstone Clan]] owns and operates all of the mithril mines in [[7. Duradin/1. Dwarven Republic of Duradin\|Duradin]], accounting for nearly 90% of all mithril refined domestically.
 

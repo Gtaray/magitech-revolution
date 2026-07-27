@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.554-07:00
+modified: 2026-07-02T07:41:52.804-07:00
 cssclasses: ""
 ---
-
 
 All [[8. Glossary/Airship\|airships]] have a Sending Array, which is a complicated device built with a number of magical enchantments based off of the Sending spell. This array allows for remote communication between ships across vast distances.
 

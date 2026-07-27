@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.461-07:00
+modified: 2026-07-02T07:41:52.651-07:00
 tags:
   - location
   - city
   - setting
 cssclasses: ""
 ---
-
 
 The [[6. Factions/4. Industrialists/Bloodhammer Clan\|Bloodhammer Clan's]] seat of power. The city is built out of, and around, the petrified remains of an enormous wyrm that, legends say, was slain by a Bloodhammer [[8. Glossary/Gods#Heroes\|Hero]]. It is said that during the battle, the blood of this ancient wyrm stained the mountains red and boiled the rivers and lakes, turning [[8. Glossary/Khett]] into the desert it is now.
 

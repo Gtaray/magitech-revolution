@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.242-07:00
+modified: 2026-07-02T07:41:52.379-07:00
 tags:
   - downtime
 cssclasses: ""
 ---
-
 
 When you recover in a safe location, you gain **ticks** on your **healing clock** equal to your **[[3. The Crew/5. Crew Quality\|Crew Quality]]+1**. When your healing clock fills, reduce each instance of [[1. How to Play/4. Harm, Stress & Trauma/Harm\|harm]] you have by one level. When you remove all [[1. How to Play/4. Harm, Stress & Trauma/Harm\|harm]], clear your healing clock.
 
@@ -15,5 +14,4 @@ If you also engage the services of a physicker, they remove an instance of harm 
 > _When you recover, how are you vulnerable? Do you show the pain of your injuries, open up to someone emotionally, or something else?_
 
 # Hospital
-
 Instead of recovering on your own, use this activity to stay in a private **hospital**. Remove all of your harm and choose: Take **1 [[4. The Job/6. Heat\|Heat]]** and pay **2 [[2. The Characters/4. Rules/Coin\|coin]]** -or- pay **3 [[2. The Characters/4. Rules/Coin\|coin]]**.

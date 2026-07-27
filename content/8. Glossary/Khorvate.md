@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.532-07:00
+modified: 2026-07-02T07:41:52.775-07:00
 cssclasses: ""
 ---
-
 
 [[7. Duradin/1. Dwarven Republic of Duradin\|Duradin]] is composed of four regions, called Khorvates, each of which is ruled by a particular ancient, and very large, [[8. Glossary/Clan\|clan]]. Each Khorvate has a singular ruler called a [[8. Glossary/Khorvar]], which is sometimes the [[8. Glossary/Magnar]] of the ruling [[8. Glossary/Clan\|clan]], but not always. Sometimes the ruling [[8. Glossary/Clan\|clan]] will hold elections to determine the [[8. Glossary/Khorvar]], and sometimes the [[8. Glossary/Magnar]] appoints one.
 

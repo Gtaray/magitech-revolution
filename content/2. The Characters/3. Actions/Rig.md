@@ -1,17 +1,15 @@
 ---
 publish: true
 created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-06-30T20:50:45.034-07:00
+modified: 2026-07-02T07:41:52.217-07:00
 tags:
   - action
 cssclasses: ""
 ---
 
-
 When you **Rig** mechanisms, you alter how an existing mechanism works or create a new one. You might disable a trap. You might repair a damaged [[8. Glossary/Airship\|airship]] system. You might crack a safe. You might overdrive an engine. You might force a door open (though **[[2. The Characters/3. Actions/Hack]]** might be better).
 
 ## GM Questions
-
 - What do you **Rig** with? What tools are usually required?
 - What are you trying to make it do?
 - What do you hope to accomplish?
@@ -31,7 +29,6 @@ Often long-term projects in downtime use **Rig**. If you can get access to the r
 # Examples
 
 ## Controlled
-
 > _We have to catch up to them. I’m going to juice up our engine so we can get them before they get to the city._
 
 **4/5 Minor Complication:** The engine flares into overdrive, but the sudden surge of magic causes your weapons systems to pop and sizzle. Your weapons are likely to malfunction for the rest of the job.
@@ -39,7 +36,6 @@ Often long-term projects in downtime use **Rig**. If you can get access to the r
 **1-3 Withdraw or press on, seizing a risky opportunity:** You dig yourself deep into the engines, and you find a way you can get some extra power out of it. Unfortunately doing so will almost certainly make the [[8. Glossary/Airship\|airship]] quite a bit harder to control, and likely cause permanent damage if sustained. Do you do it?
 
 ## Risky
-
 > _I override the mechanical arms securing our ship from leaving. I cut into the side of it and start cutting through the metal until it pops free._
 
 **4/5 Complication:** The first arm is a real beast to figure out. You have to wrench it apart manually. You run from arm to arm. As you finish wrenching the last, the ship is freed you see some guards rounding the stairs up to your position. What do you do?
@@ -47,7 +43,6 @@ Often long-term projects in downtime use **Rig**. If you can get access to the r
 **4/5 Desperate [[1. How to Play/3. Threat Roll/3. Position\|Position]]:** As you force the arms open, you accidentally disconnect your [[8. Glossary/Airship\|airship]] from the dock entirely. The ship is free, but it begins listing away from the dock and losing altitude. How do you get back to the ship?
 
 ## Desperate
-
 > _So rather than run, I’ll disarm the booby trap detonators before the time runs out. It’s nice that you trap your treasure, sky pirates, but that sweet plunder will be mine!_
 
 **4/5 Serious [[1. How to Play/4. Harm, Stress & Trauma/Harm]]:** There are multiple bombs here. You get one. You get the second. Third. You’re down to the last one when time ticks down. 4… 3… 2… You throw the explosive… KABOOM! The explosion throws you and the treasure around. The trap is disarmed, and you’re half-covered in stolen treasure, and all it cost you was one level 3 harm “Broken Ribs.”
