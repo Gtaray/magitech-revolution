@@ -319,6 +319,14 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: github:Gtaray/quartz-gm-noptes
+    enabled: true
+    options:
+      headingText: GM Notes
+      aliases: []
+      caseSensitive: false
+      allowCommonSuffixes: true
+    order: 46
 layout:
   groups:
     toolbar:

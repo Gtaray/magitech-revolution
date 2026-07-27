@@ -126,6 +126,32 @@ If you update the Quartz version or community plugins in the future:
 2. **If you want to remove this customization**: Simply remove the `postinstall` line from `package.json` and delete `scripts/patch-plugins.js`
 3. **To disable temporarily**: Comment out the `postinstall` line in `package.json` or delete the script
 
+## GM Notes Content Stripping Plugin
+
+This repository consumes a Quartz transformer plugin from GitHub at https://github.com/Gtaray/quartz-gm-noptes.
+
+The plugin is configured in [quartz.config.yaml](quartz.config.yaml) with source `github:Gtaray/quartz-gm-noptes`.
+
+### Authoring Rule
+
+- A section starts when a markdown heading title matches `GM Notes` (case-insensitive).
+- Common suffix variants also match, such as `GM Notes:` and `GM Notes -`.
+- Everything under that heading is removed from published output.
+- Publishing resumes at the next heading with the same heading depth.
+- If no same-depth heading appears later, stripping continues to end-of-file.
+
+### Why This Is Safe
+
+- The transform runs during Quartz markdown processing, so removed content never reaches rendered HTML.
+- Nested subheadings inside GM Notes remain stripped until a same-depth heading is reached.
+
+### Reuse In Other Repos
+
+You can install this plugin in another Quartz v5 project with:
+
+1. `npx quartz plugin add github:Gtaray/quartz-gm-noptes`
+2. Ensure the plugin entry exists in [quartz.config.yaml](quartz.config.yaml)
+
 ## Git Status
 
 Committed files:

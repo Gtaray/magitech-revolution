@@ -199,6 +199,12 @@
       "commit": "a1c1fe0a9c6a5ce1acf6efa01d473a7d9850e2a3",
       "installedAt": "2026-06-30T21:17:58.187Z"
     },
+    "quartz-gm-noptes": {
+      "source": "github:Gtaray/quartz-gm-noptes",
+      "resolved": "https://github.com/Gtaray/quartz-gm-noptes.git",
+      "commit": "3fb17f5b2a5410031146d3452f22122c84223681",
+      "installedAt": "2026-07-27T18:31:36.795Z"
+    },
     "quartz-themes": {
       "source": {
         "name": "quartz-themes",
