@@ -1,11 +1,10 @@
 ---
 publish: true
-created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-07-02T07:41:52.808-07:00
-cssclasses: ""
+created: 2026-01-28T02:18:52.323Z
+modified: 2026-07-02T14:41:52.808Z
 ---
 
-The sending network is a high speed communication network that is set up across most of [[7. Duradin/1. Dwarven Republic of Duradin\|Duradin]], with the exception that there is only a single relay station in [[7. Duradin/2. Khorvates/Oghrann]].
+The sending network is a high speed communication network that is set up across most of [[1. Dwarven Republic of Duradin|Duradin]], with the exception that there is only a single relay station in [[Oghrann]].
 
 The network operates on the core principals of the Sending spell, i.e. you send a message of limited length to a target. However the network is based on a much weaker version of the spell: the range is limited to about 50 miles, and the spell can't go to any random target, it can only go to targets on the network. Thus, relays stations are built every 50ish miles that receive a communication and relay it to the next hop towards the destination.
 

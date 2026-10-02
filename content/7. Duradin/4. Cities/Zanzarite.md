@@ -1,12 +1,11 @@
 ---
 publish: true
-created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-07-02T07:41:52.717-07:00
+created: 2026-06-15T15:47:38.325Z
+modified: 2026-07-02T14:41:52.717Z
 tags:
   - location
   - city
   - setting
-cssclasses: ""
 ---
 
-The ancestral home of the [[6. Factions/5. Naturalist/Deepforge Clan]]. Zanzarite is situated on the inside of a massive geode, where the city is carved into the stone and crystal walls. The location of the city is unknown, and the only way into it is with magical travel.
+The ancestral home of the [[Deepforge Clan]]. Zanzarite is situated on the inside of a massive geode, where the city is carved into the stone and crystal walls. The location of the city is unknown, and the only way into it is with magical travel.

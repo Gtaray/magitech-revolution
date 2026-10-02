@@ -1,16 +1,15 @@
 ---
 publish: true
-created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-07-02T07:41:52.673-07:00
+created: 2026-01-28T02:18:52.226Z
+modified: 2026-07-02T14:41:52.673Z
 tags:
   - location
   - city
   - setting
-cssclasses: ""
 ---
 
 The Khalud Academy is the most prominent features of the city Khalud. While much of the city's resources is directed at the academy, the city does not solely exist to support the academy.
 
-Originally a public institute, the academy was purchased by the [[6. Factions/4. Industrialists/Guild of Engineers]] two decades ago. Since then it has been the premiere place for technical learning in [[7. Duradin/1. Dwarven Republic of Duradin\|Duradin]], though the cost for attending is prohibitive for most. While only guilders and students are allowed to use the facilities, it's common enough to get a day pass if you know someone.
+Originally a public institute, the academy was purchased by the [[Guild of Engineers]] two decades ago. Since then it has been the premiere place for technical learning in [[1. Dwarven Republic of Duradin|Duradin]], though the cost for attending is prohibitive for most. While only guilders and students are allowed to use the facilities, it's common enough to get a day pass if you know someone.
 
 ![[Images/Khalud.webp]]

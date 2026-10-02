@@ -1,14 +1,13 @@
 ---
 publish: true
-created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-07-02T07:41:52.623-07:00
+created: 2026-02-04T20:20:31.973Z
+modified: 2026-07-02T14:41:52.623Z
 tags:
   - location
   - city
   - setting
-cssclasses: ""
 ---
 
-An ancient underground city that was once the seat of power for a small, independent kingdom. It is a large city that is slowly being abandoned as its population dwindles generation by generation. Delzoun is governed by the Rootwind [[8. Glossary/Clan\|clan]].
+An ancient underground city that was once the seat of power for a small, independent kingdom. It is a large city that is slowly being abandoned as its population dwindles generation by generation. Delzoun is governed by the Rootwind [[Clan|clan]].
 
 ![[Images/Delzoun.webp]]

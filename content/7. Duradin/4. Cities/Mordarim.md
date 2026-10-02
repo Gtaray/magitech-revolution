@@ -1,14 +1,13 @@
 ---
 publish: true
-created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-07-02T07:41:52.677-07:00
+created: 2026-02-04T20:29:20.769Z
+modified: 2026-07-02T14:41:52.677Z
 tags:
   - location
   - city
   - setting
-cssclasses: ""
 ---
 
-An ancient stronghold in southern [[7. Duradin/2. Khorvates/Ladur]] known to have one of the few reliable and mostly-safe routes into The World Below.
+An ancient stronghold in southern [[Ladur]] known to have one of the few reliable and mostly-safe routes into The World Below.
 
 ![[Images/Mordarim.webp]]

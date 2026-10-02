@@ -1,8 +1,7 @@
 ---
 publish: true
-created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-07-02T07:41:52.739-07:00
-cssclasses: ""
+created: 2026-02-03T23:49:40.652Z
+modified: 2026-07-02T14:41:52.739Z
 ---
 
 Dwarven families, called clans, vary wildly in size. Small clans might only be a few dozen dwarves. The largest clans (of which there are very few) might have tens of thousands of individuals. Most clans range somewhere in the low thousands (1 to 4 thousand).
@@ -13,4 +12,4 @@ All major population centers have many dozens of community houses for the variou
 
 Clans will often take tithes from its members, especially those living outside of the clan's core region. Or perhaps it is better said that dwarves feel a deep responsibility to their clan and will elect to pay tithes to their family 'back home'. This income helps keep things running at home, but also is what pays for things like remote community halls.
 
-Every clan has a [[8. Glossary/Magnar]], who is the singular leader of the clan. Large clans might also have varying size of councils to aid the [[8. Glossary/Magnar]], but these are optional, the [[8. Glossary/Magnar]] is not. These leaders oversee the functions of the clan itself, as well as appoint representatives to officially interface with other clans. These representatives usually work out of a large town or city to handle matters that concern a slightly larger region (comparable to a county).
+Every clan has a [[Magnar]], who is the singular leader of the clan. Large clans might also have varying size of councils to aid the [[Magnar]], but these are optional, the [[Magnar]] is not. These leaders oversee the functions of the clan itself, as well as appoint representatives to officially interface with other clans. These representatives usually work out of a large town or city to handle matters that concern a slightly larger region (comparable to a county).

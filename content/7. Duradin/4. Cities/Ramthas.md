@@ -1,16 +1,15 @@
 ---
 publish: true
-created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-07-02T07:41:52.691-07:00
+created: 2026-01-28T02:18:52.229Z
+modified: 2026-07-02T14:41:52.691Z
 tags:
   - location
   - city
   - setting
-cssclasses: ""
 ---
 
 The largest open-air city built into nearly the entirety of the top of one of the tallest mountain in Duradin: Ramthas. Massive columns have been carved out over hundreds of years to hold up the mountain's peak, and on these columns the city is built, layer by layer, as the city expands.
 
-It is the most populated city in all of Duradin, the largest center of commerce, and the capital of [[7. Duradin/2. Khorvates/Ladur]]. It is managed by the [[6. Factions/7. Other Dwarf Clans/Anvilhelm Clan]] (the [[8. Glossary/Khorvar]] of Ladur). It also contains the headquarters for several factions, including the [[6. Factions/4. Industrialists/Redhold Clan]], [[6. Factions/4. Industrialists/Sender's Guild]], and [[6. Factions/4. Industrialists/Dragonshield Clan]]
+It is the most populated city in all of Duradin, the largest center of commerce, and the capital of [[Ladur]]. It is managed by the [[Anvilhelm Clan]] (the [[Khorvar]] of Ladur). It also contains the headquarters for several factions, including the [[Redhold Clan]], [[Sender's Guild]], and [[Dragonshield Clan]]
 
 ![[Images/Ramthas.webp]]

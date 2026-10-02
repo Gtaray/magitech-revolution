@@ -1,8 +1,7 @@
 ---
 publish: true
-created: 1969-12-31T16:00:00.000-08:00
-modified: 2026-07-02T07:41:52.772-07:00
-cssclasses: ""
+created: 2026-02-03T23:50:32.660Z
+modified: 2026-07-02T14:41:52.772Z
 ---
 
-A title that refers to both the [[8. Glossary/Clan\|clan]] as well as the individual person responsible for governing a [[8. Glossary/Khorvate]].
+A title that refers to both the [[Clan|clan]] as well as the individual person responsible for governing a [[Khorvate]].
