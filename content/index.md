@@ -17,8 +17,8 @@ This game will definitely stretch into science fantasy rather than your normal h
 
 | File                                                  | Modified             |
 | ----------------------------------------------------- | -------------------- |
+| [[3. The Crew/3. Airships/Ship Sizes.md\|Ship Sizes]] | Oct 2, 2026, 4:02 PM |
 | [[2. The Characters/2. Playbooks/Pilot.md\|Pilot]]    | Oct 2, 2026, 3:50 PM |
-| [[3. The Crew/3. Airships/Ship Sizes.md\|Ship Sizes]] | Oct 2, 2026, 3:49 PM |
 
 ## A Note on AI
 
